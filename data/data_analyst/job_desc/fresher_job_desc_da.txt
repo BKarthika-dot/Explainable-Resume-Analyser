@@ -1,0 +1,97 @@
+================================================================
+JOB DESCRIPTION
+================================================================
+POSITION     : Associate Data Analyst (Fresher / Entry-Level)
+DEPARTMENT   : Analytics & Business Intelligence
+REPORTING TO : Analytics Manager / Senior Data Analyst
+LOCATION     : Bengaluru / Mumbai / Hyderabad / Remote (India)
+EMPLOYMENT   : Full-Time
+EXPERIENCE   : 0 – 2 Years
+================================================================
+
+----------------------------------------------------------------
+ABOUT THE COMPANY
+----------------------------------------------------------------
+[Company Name] is a data-driven product and technology company operating at scale across e-commerce, fintech, and SaaS verticals. Our Analytics & BI team of 60+ analysts and engineers partners with every business function — product, marketing, operations, finance, and supply chain — to drive decisions through rigorous data analysis, visualization, and statistical modelling.
+
+We believe data analysts here are not report-generators. They are problem-solvers who own business questions end-to-end: from data extraction and wrangling through analysis, insight generation, and stakeholder communication. If you love asking "why" and building systems that help others ask "why," you'll thrive here.
+
+----------------------------------------------------------------
+ROLE OVERVIEW
+----------------------------------------------------------------
+We are hiring an Associate Data Analyst to join our growing analytics team. You will work closely with senior analysts, product managers, and data engineers to translate entry-level business questions into structured analytical frameworks and convert findings into insights. You'll help maintain dashboards, execute baseline metrics analysis, learn experimental design, and communicate findings that influence day-to-day operations.
+
+This is an excellent launchpad role for a technical graduate with strong logical foundations, a deep commercial curiosity, and excellent communicative skills.
+
+----------------------------------------------------------------
+KEY RESPONSIBILITIES
+----------------------------------------------------------------
+
+Data Analysis & Insights
+- Extract, clean, and manipulate data from structured relational databases using SQL and Python/R to support ad-hoc business inquiries.
+- Help perform exploratory data analysis (EDA) and root-cause analysis on core business metrics under the guidance of senior team members.
+- Utilize foundational statistical techniques (descriptive statistics, distributions, and baseline regressions) to investigate customer datasets.
+- Support the analysis of running A/B tests and other live digital experiments.
+- Document and compile technical findings into clean, readable presentation slides for internal team evaluations.
+
+Reporting & Dashboarding
+- Help update, modify, and maintain existing team dashboards and reporting views using enterprise BI tools (Tableau, Power BI, or Looker).
+- Track down, verify, and clean data inconsistencies or bugs within reporting surfaces to ensure reliable metric delivery.
+- Assist in compiling explicit data documentation for metric stores and definitions.
+
+Data Management & Collaboration
+- Write structured, cleanly commented SQL scripts and basic transformation queries.
+- Collaborate with data engineers to understand raw ingestion streams and pipeline tables.
+- Coordinate with product teams to build basic post-launch tracking matrices for new features.
+- Actively maintain team data dictionaries, wiki assets, and internal project knowledge repositories.
+
+----------------------------------------------------------------
+REQUIRED QUALIFICATIONS
+----------------------------------------------------------------
+
+Education
+- B.Tech / B.E. / B.Sc. / B.Com (Hons) / BBA / B.Stat / B.Math or equivalent in a quantitative, engineering, or business-centric specialization.
+- Strong academic record required (CGPA ≥ 7.5/10 or equivalent regional classification).
+
+Technical Skills (Must Have)
+- Solid SQL Fundamentals: Comfortable utilizing GROUP BY, HAVING, subqueries, relational database mechanics, and multi-table INNER/LEFT JOINs.
+- Scripting Basics: Understanding of Python or R for introductory data manipulation (Pandas dataframes, NumPy operations, or tidyverse methods).
+- Data Visualization: Core understanding of visual rendering via spreadsheets, basic BI tools, or plotting libraries (Matplotlib, Seaborn, ggplot2).
+- Quantitative Foundations: Good grasp of basic statistical concepts (mean, median, standard deviation, and hypothesis testing patterns).
+- Proficiency with Excel / Google Sheets (VLOOKUPs, pivot tables, and conditional formatting).
+
+Experience
+- 0–2 years of operational exposure via data internships, university project frameworks, or dedicated technical bootcamps.
+- Verifiable proof of independent project work or custom code repositories.
+
+----------------------------------------------------------------
+PREFERRED / GOOD-TO-HAVE QUALIFICATIONS
+----------------------------------------------------------------
+- Academic specialization coursework covering advanced statistical analysis, economics, or computing design.
+- Basic understanding of advanced SQL constructs (window functions, CTEs).
+- Foundational familiarity with version control via Git / GitHub.
+- Prior completion of data-related certifications (Google Data Analytics, Microsoft PL-300, or Tableau Desktop Specialist).
+- Participation in independent data competitions (Kaggle or university hackathons).
+
+----------------------------------------------------------------
+TECHNICAL ASSESSMENT PROCESS
+----------------------------------------------------------------
+Stage 1 — Resume Screening      : Automated + Human review (Track B Evaluation)
+Stage 2 — Foundations Test      : 60-minute logical reasoning, basic SQL logic, and spreadsheet challenge
+Stage 3 — Technical Interview   : Algorithmic pseudo-code discussion, query walkthrough, and OOP/DB basics (1 hr)
+Stage 4 — Behavioral Fit        : Learnability evaluation, collaborative potential, and project review (45 min)
+Stage 5 — Offer
+
+----------------------------------------------------------------
+COMPENSATION & BENEFITS
+----------------------------------------------------------------
+- Market-competitive entry salary benchmarked at top-tier industry percentiles
+- Guaranteed performance appraisal track upon completion of junior engineering milestones
+- ₹50,000 annual learning & development budget for advanced analytics training
+- Flexible hybrid working model
+- Health insurance (self + family)
+================================================================
+JOB ID     : DA-BIZ-2025-Fresher
+POSTED DATE: 2025-11-01
+DEADLINE   : 2025-11-30
+================================================================

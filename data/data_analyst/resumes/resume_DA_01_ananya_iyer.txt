@@ -1,0 +1,90 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+Data Analyst with 4 years of experience in product and growth analytics at high-scale consumer tech companies. Expert in SQL, Python, and Tableau. Known for translating messy business problems into clean analytical frameworks and communicating findings to C-suite stakeholders. Delivered analyses that directly influenced product roadmaps worth ₹300 Cr+ in revenue. Strong background in A/B experimentation and funnel optimisation.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+SQL & Databases   : Advanced SQL (CTEs, window functions, query optimisation), BigQuery, Snowflake, PostgreSQL, Redshift
+Python            : Pandas, NumPy, Scipy, Statsmodels, Matplotlib, Seaborn, Plotly, Jupyter
+BI & Reporting    : Tableau Desktop + Server (Expert), Google Looker Studio, Metabase
+Product Analytics : Mixpanel, Amplitude, Segment, Firebase Analytics, Google Analytics 4
+Statistics        : A/B testing (power analysis, sequential testing), hypothesis testing, regression analysis, cohort analysis, funnel analysis, survival analysis
+Data Engineering  : dbt (models, tests, sources, documentation), Airflow (basic), Fivetran
+Cloud             : GCP (BigQuery, Cloud Storage, Data Studio), AWS (Athena — basic)
+Others            : Excel (advanced), Git, Notion, JIRA, Confluence
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+Senior Data Analyst | Swiggy | Bengaluru
+Sep 2022 – Present
+
+- Own the analytics for Swiggy Instamart's supply-side performance: availability, SLA compliance, and dark store throughput. Analysis directly feeds into weekly leadership reviews.
+- Designed and analysed 35+ A/B experiments for checkout flow, search ranking, and promotional mechanics; correctly identified 14 winning variants contributing ₹42 Cr incremental ARR.
+- Built an automated dark store KPI dashboard in Tableau (connected to BigQuery) used daily by 80+ ops and city managers; reduced ad-hoc data requests to analytics team by 60%.
+- Conducted cohort-level churn analysis revealing that customers who experienced a single late delivery churned 2.3x faster; finding led to SLA compensation policy change affecting 4M users.
+- Wrote and maintains 25+ dbt models powering the Instamart analytics layer; introduced dbt testing and documentation standards adopted across the analytics team.
+- Mentored 2 junior analysts; ran internal "SQL for Product Managers" workshop (40+ attendees).
+
+Data Analyst | Razorpay | Bengaluru
+Jul 2020 – Aug 2022
+
+- Led payments success rate analytics for Razorpay's net banking and UPI stacks; identified routing inefficiencies across 3 PSPs, improving overall transaction success rate by 1.4 pp (worth ~₹80 Cr in recovered payment volume).
+- Built merchant health scorecard (SQL + Python + Tableau) tracking 50K+ merchants across 12 KPIs; flagged at-risk merchants 30 days earlier than existing monitoring, reducing merchant churn by 18%.
+- Designed customer segmentation model (K-Means clustering in Python) for cross-sell targeting; uplift vs. random of 2.8x in email campaign CTR.
+- Automated 15 recurring weekly reports using Python + BigQuery scheduled queries + email distribution, saving 12 analyst-hours/week.
+- Collaborated with product and engineering teams to instrument new events in Segment, ensuring clean tracking setup before every major feature launch.
+
+Business Analyst Intern | Deloitte | Bengaluru
+Jan 2020 – Jun 2020
+
+- Supported supply chain analytics for an FMCG client; built demand forecasting model (ARIMA) in Python for 200+ SKUs; MAPE of 11% vs. client's legacy 18%.
+- Created automated weekly reporting suite in Excel + Power Query for 5 business units; reduced manual reporting time by 4 hours/week per unit.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Tech in Computer Science
+RV College of Engineering, Bengaluru | 2016 – 2020
+CGPA: 9.1/10 | Electives: Data Mining, Statistical Learning, Database Management Systems
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. Flipkart Big Billion Day — Funnel Analysis (Case Study, Public)
+   - End-to-end funnel analysis using public Flipkart event data; identified 3 conversion bottlenecks; presented with SQL + Python + Tableau; 1,800+ views on Medium.
+
+2. IPL Audience Retention Study (Personal Project)
+   - Survival analysis on viewership drop-off using Cox Proportional Hazards model; published Kaggle notebook with 420+ votes.
+
+3. India Credit Card Spending Patterns (Kaggle)
+   - Exploratory and segmentation analysis on RBI published data; top 8% on Kaggle analytics competition.
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Tableau Desktop Specialist (2022)
+- Google Data Analytics Professional Certificate (2021)
+- dbt Fundamentals + Advanced (dbt Labs, 2023)
+- A/B Testing by Google – Udacity (2021)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Swiggy Data Excellence Award (Q3 2023) — Instamart Churn Analysis
+- Speaker, Tableau User Group Bengaluru, 2023: "Self-Serve Analytics at Scale"
+- Top 5% — HackerRank SQL (Advanced)
+- Kaggle Competition Expert (top 12% globally, 2 silver medals)
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 90%
+NOTES: Strong product analytics, dbt maturity, quantified impact, A/B testing depth, excellent communication evidence.
+========================================

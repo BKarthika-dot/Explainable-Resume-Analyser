@@ -1,0 +1,97 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+AI/ML Engineer with 2 years of experience specializing in computer vision, generative AI, and applied deep learning. M.Tech graduate from BITS Pilani with a strong publication record and proven ability to ship ML features in fast-paced startup environments. Skilled in translating research ideas into production systems. Active in the AI community as a blogger and open-source contributor.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+Deep Learning     : CNNs, Vision Transformers (ViT, DINO, SAM), Object Detection (YOLOv8, DETR), Segmentation (SAM, Mask R-CNN), GANs, VAEs, Diffusion Models
+NLP/LLMs          : BERT, RoBERTa, LLaMA, Mistral, Phi-2, RAG, LangChain, Semantic Search, Text-to-Image (Stable Diffusion, DALL-E 3)
+Frameworks        : PyTorch, TensorFlow, Keras, timm, Ultralytics, Diffusers, Transformers
+MLOps             : FastAPI, Docker, AWS ECR/ECS, Lambda, Gradio, Streamlit, Weights & Biases, DVC
+Data              : OpenCV, Albumentations, CVAT, Label Studio, Pandas, SQL
+Languages         : Python, SQL, C++ (basics)
+Cloud             : AWS, GCP (basics)
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+ML Engineer | Pixis.ai (AI Marketing SaaS Startup) | Pune
+Jul 2023 – Present
+
+- Built text-to-image generation pipeline using Stable Diffusion XL with ControlNet for brand-consistent ad creatives; reduced creative production cost by 55% for clients.
+- Implemented LoRA fine-tuning infrastructure for per-client brand style adaptation; trained 200+ client-specific adapters with automated evaluation pipeline (FID, CLIP score).
+- Designed multi-modal product background removal + replacement system using SAM (Segment Anything Model) + Stable Diffusion inpainting; increased output quality score (human eval) from 3.2 to 4.4/5.
+- Built a RAG-powered ad copy generation assistant using GPT-4 + Pinecone, incorporating past high-performing ad copy as retrieval context; CTR improved by 19% in A/B tests.
+- Deployed all models as REST APIs using FastAPI + Docker on AWS ECS; maintained 99.8% uptime with Cloudwatch monitoring.
+
+ML Research Intern | Bosch Research India | Pune
+Jan 2023 – Jun 2023
+
+- Researched vision-language models (CLIP, BLIP-2) for zero-shot defect detection in automotive parts; achieved 87% accuracy without labeled defect data.
+- Adapted SAM for industrial segmentation tasks; reduced annotation effort for downstream fine-tuning by 80%.
+- Authored internal technical report: "Foundation Models for Industrial Inspection: Opportunities and Limitations."
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+M.Tech in AI and Machine Learning
+BITS Pilani, Pilani Campus | 2021 – 2023
+CGPA: 9.4/10 | Dissertation: "Efficient Adaptation of Diffusion Models for Domain-Specific Image Synthesis"
+Best Thesis Award – Computer Science Dept. 2023
+
+B.E. in Electronics Engineering
+Pune Institute of Computer Technology | 2017 – 2021
+CGPA: 8.6/10
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. AnyEdit – Open Source Image Editing (380+ GitHub stars)
+   - Instruction-based image editing using InstructPix2Pix + UI built with Gradio; deployed on HuggingFace Spaces with 10K+ monthly users.
+
+2. SmartMedScan — Medical Image Analysis
+   - Fine-tuned ViT on CheXpert chest X-ray dataset; AUC-ROC of 0.94 for 14 pathology classes.
+   - Deployed as mobile-optimized API; model quantized with ONNX + ONNX Runtime (3x speedup).
+
+3. NewsDigest — RAG Newsletter Summarizer
+   - Automated daily tech news digest using LangChain + GPT-3.5 + FAISS; subscribed by 800+ users via email.
+
+----------------------------------------
+PUBLICATIONS
+----------------------------------------
+1. Krishnamurthy S., et al. "Domain-Adaptive Diffusion Models via Lightweight LoRA Fine-Tuning." NeurIPS 2023 Workshop on Generative AI.
+2. Krishnamurthy S. "Zero-Shot Industrial Defect Detection with Vision-Language Models." CVPR 2023 Workshop on Vision for Manufacturing.
+
+----------------------------------------
+BLOG & COMMUNITY
+----------------------------------------
+- Technical blogger at Medium (8,500+ followers); posts on diffusion models, ViTs, and practical ML.
+- HuggingFace profile: 4 published model cards with 50K+ combined downloads.
+- Mentor, Google Summer of Code 2024 (ML track).
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Deep Learning Specialization – deeplearning.ai (2022)
+- AWS Solutions Architect Associate (2023)
+- Generative AI with LLMs – deeplearning.ai / AWS (2023)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Best Thesis Award, BITS Pilani CS Dept., 2023
+- 1st Place, Smart India Hackathon 2022 (AI/ML Track) – Team Lead
+- Kaggle Competitions Expert (top 8% globally)
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 88%
+NOTES: Excellent for GenAI/Vision roles, strong startup execution, open-source presence, publications despite 2yr exp.
+========================================

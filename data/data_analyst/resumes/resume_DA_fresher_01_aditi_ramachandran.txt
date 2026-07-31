@@ -1,0 +1,85 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+Recent B.Sc. Statistics graduate from Presidency College Chennai with a strong foundation in statistical analysis, SQL, and Python. Completed 2 internships in analytics roles where I delivered dashboards and analyses used by business teams. Passionate about product analytics and data storytelling. Active Kaggle contributor with 3 published notebooks and Expert rank.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+SQL               : Intermediate-Advanced SQL — JOINs, GROUP BY, subqueries, window functions (ROW_NUMBER, RANK, LAG), CTEs; PostgreSQL, BigQuery (internship)
+Python            : Pandas, NumPy, Matplotlib, Seaborn, Scipy, Scikit-learn (K-Means, logistic regression), Jupyter
+BI & Reporting    : Tableau Desktop (proficient), Google Data Studio, Excel (pivot tables, VLOOKUP, conditional formatting)
+Statistics        : Hypothesis testing (t-test, chi-square, ANOVA), A/B testing basics, linear & logistic regression, correlation analysis, descriptive statistics
+Product Analytics : Google Analytics 4 (certified), Mixpanel (self-study), funnel analysis
+Other             : Git, dbt (fundamentals — self-study), Notion
+
+----------------------------------------
+INTERNSHIP EXPERIENCE
+----------------------------------------
+
+Data Analyst Intern | Zoho Corporation | Chennai
+Jan 2024 – Jun 2024 (6 months)
+
+- Built a customer support ticket volume forecasting model using Python (Prophet); predicted weekly ticket inflow with 13% MAPE, helping support team roster planning.
+- Designed a Tableau dashboard tracking 8 support KPIs (FRT, CSAT, ticket backlog, resolution rate) used weekly by the Support Operations Manager.
+- Wrote 12 SQL queries on BigQuery to analyse ticket resolution patterns; identified that tickets raised on Mondays had 34% longer resolution times due to weekend backlog accumulation — led to staffing adjustment.
+- Automated monthly NPS trend report using Python + Google Sheets API, saving 3 hours of manual work per month.
+
+Business Analytics Intern | TVS Motor Company | Chennai
+May 2023 – Jul 2023 (2 months)
+
+- Analysed dealership sales data (SQL + Excel) across 120 Tamil Nadu dealerships; built Excel scorecard flagging 18 underperforming dealerships by 4 KPIs.
+- Created Power Point + data narrative for senior management review; presented findings to Analytics Head.
+- Cleaned and reconciled 3-year historical sales dataset (50K+ rows) with 94% completeness improvement.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Sc. Statistics (Honours)
+Presidency College, Chennai | 2021 – 2024
+CGPA: 9.2/10 | University Rank: 3rd in department
+Relevant Coursework: Statistical Inference, Regression Analysis, Time Series Analysis, Probability Theory, Database Management, Data Mining
+
+----------------------------------------
+ACADEMIC PROJECTS
+----------------------------------------
+
+1. IPL Match Outcome Prediction (Capstone Project)
+   - Built logistic regression + random forest models to predict IPL match winners using historical ball-by-ball data; achieved 74% accuracy; full pipeline in Python (data cleaning → feature engineering → model → visualisation).
+   - Published Kaggle notebook: 610 votes, shared by 2 cricket analytics accounts on LinkedIn.
+
+2. Chennai Air Quality Analysis (Self-Initiated)
+   - Analysed 5-year CPCB air quality data for Chennai; identified seasonal and geographic pollution patterns; built interactive Tableau Public dashboard with 3 views.
+   - Dashboard featured in college annual magazine.
+
+3. Retail Customer Segmentation
+   - Applied K-Means clustering to UCI Online Retail Dataset; segmented 4,000+ customers into 5 behaviour clusters; built Seaborn visualisations and wrote a 15-page report with business recommendations.
+
+4. SQL Case Study — Zomato Data (self-study)
+   - Solved 25 business questions on a Zomato-style schema using advanced SQL (window functions, CTEs, self-joins); published solution set on GitHub.
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Google Data Analytics Professional Certificate — Coursera (2023)
+- Google Analytics 4 Certification — Google (2024)
+- Tableau Desktop Specialist — Tableau (2024)
+- SQL Advanced — HackerRank (2023)
+- dbt Fundamentals — dbt Labs (2024)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- University Rank 3rd, B.Sc. Statistics, Presidency College, 2024
+- Kaggle Expert (top 14% globally, 3 published notebooks)
+- Winner, Inter-College Data Analytics Case Competition, Loyola College Chennai, 2023
+- HackerRank SQL — Top 10% globally
+
+========================================
+LABEL: HIGH_QUALITY_FRESHER_CANDIDATE
+SELECTION_PROBABILITY: 84%
+NOTES: Exceptional academics, strong internship evidence with quantified impact, Tableau cert, dbt awareness, Kaggle Expert. Ideal L2 hire.
+========================================

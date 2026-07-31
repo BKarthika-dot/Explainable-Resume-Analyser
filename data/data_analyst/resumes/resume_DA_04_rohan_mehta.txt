@@ -1,0 +1,75 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+Data Analyst with 2.5 years of experience in operations and supply chain analytics. Strong SQL and Python skills with a track record of building dashboards and models that drive operational efficiency. NIT Pune graduate with a background in industrial engineering — bringing process thinking to data problems. Seeking to leverage analytical skills in a data-rich product environment.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+SQL               : Advanced SQL, PostgreSQL, MySQL, BigQuery (intermediate), window functions, CTEs, indexing
+Python            : Pandas, NumPy, Matplotlib, Seaborn, Scipy, Scikit-learn (K-means, regression)
+BI Tools          : Power BI (DAX, Power Query), Tableau (intermediate), Excel (advanced, pivot tables, VBA macros)
+Statistics        : Regression analysis, hypothesis testing (t-test, chi-square, ANOVA), time-series decomposition, outlier detection
+Data Engineering  : dbt (fundamentals), Airflow (basic), ETL concepts
+Supply Chain      : Demand forecasting, inventory optimisation, vendor scorecards, SLA analytics
+Other             : Git, JIRA, SAP (ERP data extraction — basic), Confluence
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+Data Analyst | Delhivery | Pune
+Sep 2022 – Present
+
+- Designed last-mile delivery performance analytics system covering 1,200+ delivery centres across India; Power BI dashboard used by National Operations Director and 6 regional heads.
+- Built SLA breach prediction model (logistic regression in Python) using weather, traffic, and shipment-density features; achieves 78% precision at 0.8 recall; alerts ops teams 4 hours before predicted breach.
+- Conducted route optimisation analysis using clustering (K-Means) on delivery GPS data; identified 9 inefficient route clusters — routing changes reduced avg delivery time by 11 minutes per order.
+- Automated daily exceptions report (Python + PostgreSQL + Power BI Dataflows); replaced 3-hour manual process with 15-minute automated run.
+- Partnered with engineering to define data model for new warehouse management system event tracking; wrote requirements doc and validated data post-launch.
+
+Analyst (Analytics & MIS) | Mahindra Logistics | Pune
+Jul 2021 – Aug 2022
+
+- Built vendor performance scorecard (SQL + Excel) for 80+ third-party logistics vendors across 6 KPIs; top/bottom vendor identification used in quarterly contract reviews.
+- Maintained daily MIS reports for operations leadership; on-time delivery, damage rate, and cost-per-shipment dashboards across 14 business verticals.
+- Analysed seasonal demand spikes (Diwali, year-end) using time-series decomposition; recommendations adopted for proactive capacity planning.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Tech in Industrial Engineering
+NIT Surathkal | 2017 – 2021
+CGPA: 8.2/10 | Electives: Operations Research, Supply Chain Management, Statistics for Engineers
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. Amazon Delivery Delay Analysis (Kaggle)
+   - Exploratory + root cause analysis on public Amazon delivery dataset; identified top 5 delay drivers; Kaggle notebook with 280 votes.
+
+2. Inventory Optimisation Simulator (Personal)
+   - Python simulation of EOQ and safety stock models with Monte Carlo demand variability; deployed as Streamlit app.
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Microsoft Power BI Data Analyst (PL-300) — 2023
+- SQL Advanced — HackerRank
+- Supply Chain Analytics — MIT OpenCourseWare (self-study, 2022)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Delhivery Ops Analytics Award, Q4 2023
+- NIT Surathkal: 2nd place, Inter-NIT Operations Research case competition
+- HackerRank SQL — Top 8% globally
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 82%
+NOTES: Solid supply chain domain depth, strong Power BI, good SQL evidence; somewhat narrower domain than other candidates.
+========================================

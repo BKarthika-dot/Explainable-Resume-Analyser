@@ -1,0 +1,86 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+MBA graduate (Business Analytics) from TAPMI Manipal with a B.Com background in accounting and finance. Combines strong business intuition with hands-on SQL and Tableau skills. Completed a 6-month analytics internship at a retail company delivering dashboards used by C-suite stakeholders. Brings a rare finance + data perspective that makes analyses business-relevant from the start.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+SQL               : Intermediate-Advanced SQL — JOINs, GROUP BY, window functions (RANK, DENSE_RANK, running totals), CTEs, subqueries; MySQL, BigQuery
+Python            : Pandas, NumPy, Matplotlib, Seaborn, Scipy (hypothesis testing), basic Scikit-learn; Jupyter Notebooks
+BI Tools          : Tableau Desktop (proficient, Tableau Public author), Power BI (intermediate), Google Data Studio, Excel (advanced — pivot tables, Power Query, financial modelling)
+Statistics        : Hypothesis testing, A/B testing fundamentals, regression, cohort analysis, customer segmentation
+Finance & Accounting: Financial statement analysis, P&L interpretation, unit economics (CAC, LTV, payback period), revenue attribution
+Other             : Google Analytics 4, Git, Notion, PowerPoint (strong data storytelling)
+
+----------------------------------------
+INTERNSHIP EXPERIENCE
+----------------------------------------
+
+Business Analytics Intern | Lulu Hypermarket India | Kochi
+Dec 2023 – May 2024 (6 months)
+
+- Built weekly category performance dashboard in Tableau connected to MySQL; tracked revenue, margins, stockouts, and footfall conversion for 8 product categories; presented to CFO and CMO in monthly reviews.
+- Conducted basket analysis (Apriori algorithm in Python) on 6 months of POS transaction data (1.2M+ transactions); identified 12 high-confidence cross-sell product pairs; recommendations placed in store layout redesign, estimated ₹4.5 Cr incremental revenue.
+- Analysed promotional campaign ROI across 4 annual sale events using SQL cohort analysis; identified that "flash sale" campaigns generated 40% higher margin than "end-of-season" despite lower footfall — finding shifted campaign budget allocation for FY25.
+- Wrote SQL queries to reconcile discrepancies between ERP and POS data; documented 3 root causes and resolved data pipeline gaps with IT team.
+- Built automated Excel-based financial bridge report replacing a 6-hour weekly manual process.
+
+Finance & Data Intern | Muthoot Finance | Kochi
+Apr 2022 – Jun 2022 (2 months, pre-MBA)
+
+- Performed portfolio performance analysis on gold loan data using Excel; built monthly MIS dashboard for branch manager.
+- Assisted in preparing financial projections for 3 branch expansions using regression-based customer demand estimates.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+MBA in Business Analytics
+T. A. Pai Management Institute (TAPMI), Manipal | 2022 – 2024
+GPA: 3.8/4.0 | Academic Excellence Award (top 5% of batch)
+Capstone: "Customer Lifetime Value Modelling for Retail: A Probabilistic Approach"
+  - Implemented BG/NBD + Gamma-Gamma model in Python on simulated retail dataset; compared against naive RFM; BG/NBD improved top-decile identification precision by 38%.
+
+B.Com (Accounting & Finance)
+St. Albert's College, Kochi | 2019 – 2022
+CGPA: 9.0/10 | College Rank: 1st
+
+----------------------------------------
+PERSONAL PROJECTS
+----------------------------------------
+
+1. Kerala Tourism Analytics Dashboard (Tableau Public)
+   - Analysed 10-year Kerala Tourism Statistics data; built 4-view interactive Tableau Public dashboard covering arrivals, revenue, seasonality, and source markets.
+   - 2,400+ Tableau Public views; featured in TAPMI Analytics Club newsletter.
+
+2. Indian FMCG Revenue Analysis (Python)
+   - Scraped and analysed 5 years of quarterly results from Hindustan Unilever, Nestle India, Dabur; built revenue waterfall visualisation and segment attribution analysis in Plotly.
+
+3. SQL Practice — E-commerce Business Questions
+   - Designed realistic e-commerce schema; solved 28 business questions using advanced SQL; published on GitHub with explanations.
+   - GitHub: 80+ stars, used by 2 college analytics clubs as learning resource.
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Tableau Desktop Specialist — Tableau (2024)
+- Google Data Analytics Professional Certificate — Coursera (2023)
+- Business Statistics and Analysis — Rice University / Coursera (2023)
+- Financial Modelling & Valuation Analyst (FMVA) — CFI (2022)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- TAPMI Academic Excellence Award (top 5%), 2024
+- 1st Place, TAPMI Analytics Hackathon "DataThon", 2023 — Team Lead
+- B.Com University Rank 1st, Mahatma Gandhi University, 2022
+- Tableau Public Featured Author (2 dashboards featured by Tableau India)
+
+========================================
+LABEL: HIGH_QUALITY_FRESHER_CANDIDATE
+SELECTION_PROBABILITY: 80%
+NOTES: MBA + B.Com brings unique business+data combo; strong retail domain project; Tableau Public visibility; excellent academic record.
+========================================

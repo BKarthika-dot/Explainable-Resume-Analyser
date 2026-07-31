@@ -1,0 +1,96 @@
+================================================================
+JOB DESCRIPTION
+================================================================
+POSITION     : Associate AI/ML Engineer (Fresher / Entry-Level)
+DEPARTMENT   : Applied AI & Machine Learning Engineering
+REPORTING TO : AI Engineering Manager / Lead AI Architect
+LOCATION     : Bengaluru / Mumbai / Hyderabad / Remote (India)
+EMPLOYMENT   : Full-Time
+EXPERIENCE   : 0 – 2 Years
+================================================================
+
+----------------------------------------------------------------
+ABOUT THE COMPANY
+----------------------------------------------------------------
+[Company Name] is an engineering-first product and technology company building intelligent, data-driven applications used by 10M+ users across South and Southeast Asia. Our Applied AI & Machine Learning Engineering team designs and scales production-tier predictive backbones, real-time audio orchestration pipelines, complex recommendation engines, and explainable AI diagnostic layers.
+
+We believe junior engineers aren't here to fetch data or write boilerplate markdown files. You will own algorithmic milestones end-to-end: from data engineering, custom hyperparameter tuning, and model interpretability diagnostics, to launching high-throughput microservice endpoints. If you want to deploy models that impact real-world infrastructure, you belong here.
+
+----------------------------------------------------------------
+ROLE OVERVIEW
+----------------------------------------------------------------
+We are hiring an Associate AI/ML Engineer to bridge the gap between academic mathematical theory and robust production software systems. You will work side-by-side with senior machine learning architects to clean high-dimensional data, train tree-based and deep neural models, audit systems using explainable AI (XAI) primitives, and wrap solutions into real-time API frameworks.
+
+An exceptional logical foundation, fluent Python coding, and a deep, self-driven technical curiosity are critical for success in this role.
+
+----------------------------------------------------------------
+KEY RESPONSIBILITIES
+----------------------------------------------------------------
+
+Model Development & Data Engineering
+- Build, optimize, and evaluate supervised and unsupervised machine learning pipelines using Scikit-Learn, XGBoost, PyTorch, or TensorFlow.
+- Design resilient data preprocessing steps, implementing custom feature extraction, transformations, scaling, and balancing methods.
+- Apply structural model evaluation metrics beyond default accuracy (such as ROC-AUC, precision-recall curves, F1-score optimization).
+- Implement explainable AI (XAI) tooling—explicitly extracting SHAP values, tracking feature importance matrix patterns, or deploying LIME models to interpret clinical or consumer predictions.
+
+Production ML & Integration
+- Wrap trained model assets into lightweight, sub-second latency microservice APIs using FastAPI, Flask, or modern asynchronous frameworks.
+- Write clean, structured, and modular Python scripts conforming to strict Object-Oriented Programming (OOP) patterns.
+- Manage custom codebase versions, handling secure branching, merges, and code documentation via Git and GitHub.
+- Support real-time pipelines, including automated feature pipelines, speech-to-text transcripts analysis, or streaming micro-inferences.
+
+Collaboration & Documentation
+- Partner with data analysts and system engineers to map incoming relational database schemas into model input matrices.
+- Document system architectures, hyperparameter selections, baseline benchmark evaluations, and feature metadata assets.
+- Engage in collaborative peer reviews to ensure code production readiness and structural robustness.
+
+----------------------------------------------------------------
+REQUIRED QUALIFICATIONS
+----------------------------------------------------------------
+
+Education
+- B.Tech / B.E. / M.Tech / M.S. / MCA in Computer Science, Information Technology, Data Science, or a deeply quantitative engineering track.
+- Strong academic record required (CGPA ≥ 7.5/10 or equivalent regional classification).
+
+Technical Skills (Must Have)
+- Fluency in Python: Exceptional command of core language principles, data structures, and Object-Oriented design patterns.
+- ML Frameworks: Hands-on experience developing projects using Scikit-Learn, NumPy, Pandas, and at least one gradient-boosting or deep learning library (XGBoost, LightGBM, PyTorch, TensorFlow).
+- RDBMS & SQL: Ability to formulate clean, multi-table JOIN queries to extract and filter large-scale analytical training datasets.
+- Mathematical Foundations: Rock-solid grasp of core linear algebra (matrix operations, eigenvectors), multivariable calculus (gradients, partial derivatives), and probability distributions.
+- Model Auditing: Conceptual or practical familiarity with explainable AI techniques (SHAP, feature impact evaluations).
+
+Experience
+- 0–2 years of experience through structured technical internships, capstone projects, or verifiable independent open-source codebases.
+- Clear evidence of custom project creation where a machine learning model was successfully integrated with an engineering layer (e.g., UI, database, or API endpoint).
+
+----------------------------------------------------------------
+PREFERRED / GOOD-TO-HAVE QUALIFICATIONS
+----------------------------------------------------------------
+- Practical experience constructing FastAPI or Flask web apps for real-time inference delivery.
+- Familiarity with audio/voice processing libraries (Deepgram APIs, WebRTC, or speech transcription analytics frameworks).
+- Basic exposure to containerization using Docker or basic MLOps lifecycle tools (MLflow, weights & biases).
+- Contributions to quantitative academic research papers or active participation in competitive data environments (Kaggle).
+
+----------------------------------------------------------------
+TECHNICAL ASSESSMENT PROCESS
+----------------------------------------------------------------
+Stage 1 — Resume Screening      : Automated + Human review (Track B Evaluation)
+Stage 2 — Foundational Test      : 60-minute online coding, data manipulation, and mathematical aptitude matrix
+Stage 3 — Technical Interview 1 : Core Python OOP, algorithmic mechanics, and live feature engineering challenge (1.5 hrs)
+Stage 4 — Technical Interview 2 : Model interpretability, database joins, and API design architecture walkthrough (1 hr)
+Stage 5 — Behavioral & Alignment : Team integration and technical learnability discussion (45 min)
+Stage 6 — Offer
+
+----------------------------------------------------------------
+COMPENSATION & BENEFITS
+----------------------------------------------------------------
+- Competitive entry salary benchmarked at top-tier industry percentiles
+- Guaranteed performance appraisal track mapped to technical milestone completions
+- ₹50,000 annual learning & development budget for advanced AI/ML credentials
+- Flexible hybrid working model
+- Complete health and term insurance coverage
+================================================================
+JOB ID     : AIML-ENG-2025-Fresher
+POSTED DATE: 2025-11-01
+DEADLINE   : 2025-11-30
+================================================================

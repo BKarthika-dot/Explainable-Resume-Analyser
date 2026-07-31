@@ -1,0 +1,19 @@
+
+
+PROFESSIONAL SUMMARY:
+Creative SAP UI5/Fiori Consultant with 4.5 years of experience building modern, user-centric front-end solutions for SAP enterprise application landscapes. Expert at designing responsive application flows and configuring secure Gateway architectures.
+
+TECHNICAL SKILLS:
+- UI Frameworks: SAPUI5, SAP Fiori Launchpad, JavaScript, HTML5, CSS3
+- Integration: SAP Gateway, OData Services (SEGW), REST/JSON APIs
+- Back-End Tools: ABAP Objects, Eclipse ADT, CDS Views
+
+PROFESSIONAL EXPERIENCE:
+SAP UX Engineer | Innovate Enterprise Solutions (2022 - Present)
+- Designed and executed 25+ custom transactional and analytical Fiori applications using SAPUI5 frameworks.
+- Built bespoke CRUD operations using SAP Gateway Service Builder (SEGW), optimizing data retrieval profiles.
+- Configured custom tiles, target mappings, and catalog securities inside SAP Fiori Launchpad environments.
+
+Associate SAP UI5 Developer | Pixels Tech Ltd (2021 - 2022)
+- Extended standard SAP Fiori templates utilizing extension points, controller hooks, and view replacements.
+- Collaborated with UI/UX designers to convert high-fidelity wireframes into pixel-perfect responsive web views.

@@ -1,0 +1,19 @@
+
+
+PROFESSIONAL SUMMARY:
+Forward-thinking SAP Technical Consultant with 4 years of expertise centered on SAP Business Technology Platform (BTP) architectures, cloud applications integration, and Cloud Application Programming (CAP) model frameworks.
+
+TECHNICAL SKILLS:
+- Cloud Platform: SAP BTP, Cloud Foundry, SAP Business Application Studio
+- Development: Node.js, JavaScript, SAP CAP Model, Core Data Services (CDS)
+- Integration: Cloud Connector, SAP Integration Suite (CPI), OData, REST APIs
+
+PROFESSIONAL EXPERIENCE:
+SAP BTP Cloud Developer | NextGen Digital Corp (2023 - Present)
+- Developed secure cloud-native extensions on SAP BTP using the Cloud Application Programming (CAP) Node.js model.
+- Established clean hybrid connectivity landscapes linking on-premise S/4HANA instances with BTP environments via Cloud Connector configurations.
+- Engineered orchestration flows inside SAP Integration Suite (CPI) mapping complex JSON-to-XML enterprise integrations.
+
+Junior SAP Developer | Systech Solutions (2022 - 2023)
+- Assisted in developing side-by-side extension components on SAP BTP using SAP Business Application Studio.
+- Built foundational text-matching interfaces using custom API endpoint integrations.

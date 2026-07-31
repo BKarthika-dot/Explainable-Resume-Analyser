@@ -1,0 +1,101 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+AI/ML Engineer with 3.5 years of experience specializing in deep learning, natural language processing, and deploying scalable ML systems on cloud infrastructure. Strong research background from IIT Madras with focus on generative AI and multimodal learning. Experienced in the full ML lifecycle from ideation to production monitoring. Contributor to 3 open-source ML projects.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+Core ML/DL        : Neural Networks, CNNs, RNNs, Transformers, Attention Mechanisms, Diffusion Models
+Frameworks        : PyTorch, TensorFlow 2.x, JAX/Flax, Hugging Face Ecosystem (Transformers, PEFT, Datasets, Accelerate)
+Generative AI     : LLMs (GPT-4, Llama 2, Mistral), Fine-tuning (LoRA, QLoRA, Adapter), Prompt Engineering, RAG, Agents
+NLP               : Named Entity Recognition, Text Classification, Summarization, Machine Translation, Semantic Search
+MLOps             : BentoML, FastAPI, Triton Inference Server, Docker, Kubernetes (GKE), Weights & Biases, MLflow
+Cloud             : GCP (Vertex AI, BigQuery ML, Cloud Run), AWS (SageMaker, Lambda, ECS)
+Data              : PySpark, dbt, Airflow, Pandas, Polars, PostgreSQL, Weaviate, Chroma
+Languages         : Python, SQL, Bash, Go (basic)
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+ML Engineer II | Zoho Corporation | Chennai
+Aug 2022 – Present
+
+- Designed and shipped Zia (Zoho's AI assistant) intent classification upgrade using a fine-tuned DistilBERT model; accuracy improved from 81% to 93.4% across 120 intent classes.
+- Architected an agentic RAG pipeline for Zoho Desk using LangChain Agents + Weaviate vector DB, enabling context-aware ticket resolution suggestions; reduced average resolution time by 34%.
+- Implemented LoRA fine-tuning of Llama-2-13B for Zoho's internal domain Q&A; reduced inference latency by 3x using GPTQ quantization on A100 GPUs.
+- Led migration of batch inference workloads from on-premise to GCP Vertex AI, cutting infra costs by 40%.
+- Built automated evaluation harness for LLM outputs (RAGAS, BLEU, ROUGE, BERTScore), enabling continuous quality tracking across model versions.
+- Wrote comprehensive internal documentation and runbooks for all deployed ML systems; reduced on-call incident MTTR by 50%.
+
+ML Engineer I | Freshworks | Chennai
+Jul 2021 – Jul 2022
+
+- Developed email auto-categorization system for Freshdesk using TF-IDF + gradient boosting baseline, then upgraded to BERT; F1-score improved from 0.78 to 0.91.
+- Built real-time sentiment analysis API (FastAPI + Docker + ECS) processing 2M+ events/day with p99 latency under 80ms.
+- Contributed to internal feature store infrastructure using Redis and Feast; reduced feature serving latency by 5x for online models.
+
+Research Associate (Part-Time) | IIT Madras AI4Bharat Lab | Chennai
+Jan 2021 – Jun 2021
+
+- Contributed to IndicBERT v2 pre-training pipeline for 22 Indian languages using TPUs on GCP.
+- Processed and cleaned 200GB+ multilingual corpus; co-authored a dataset paper accepted at ACL 2022.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+M.Tech in Artificial Intelligence
+Indian Institute of Technology, Madras | 2019 – 2021
+CGPA: 9.3/10 | Thesis: "Multilingual Representation Learning for Low-Resource Indian Languages"
+Advisor: Prof. Mitesh Khapra (AI4Bharat)
+
+B.E. in Computer Science
+SSN College of Engineering, Chennai | 2015 – 2019
+CGPA: 9.0/10 | First Class with Distinction
+
+----------------------------------------
+NOTABLE PROJECTS
+----------------------------------------
+
+1. IndicQA — Multilingual QA for Indian Languages
+   - Developed cross-lingual question answering system for Tamil, Telugu, Hindi using XLM-R fine-tuning.
+   - Deployed as public API serving 5,000+ daily requests; featured in AI4Bharat newsletter.
+
+2. Medical Image Segmentation (Personal Project)
+   - Implemented U-Net and TransUNet for polyp segmentation on Kvasir-SEG dataset; Dice score: 0.924.
+   - Deployed on GCP Cloud Run with async inference queue.
+
+3. Diffusion Model for Satellite Image Super-Resolution
+   - Fine-tuned Stable Diffusion 2 on Sentinel-2 data for 4x super-resolution; PSNR improved by 3.2 dB vs bicubic.
+
+----------------------------------------
+PUBLICATIONS & TALKS
+----------------------------------------
+1. Venkataraman P., et al. "IndicNLG Suite: Multilingual Datasets for NLG in 11 Indian Languages." ACL 2022.
+2. Speaker, PyData Chennai 2023: "Production LLMs: From Fine-tuning to Serving at Scale"
+3. Speaker, Google DevFest Chennai 2022: "Building RAG Applications with Open-Source Tools"
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- TensorFlow Developer Certificate – Google (2022)
+- Professional ML Engineer – GCP (2023)
+- LLMOps Specialization – deeplearning.ai (2023)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Kaggle Competition Expert; top 5% in NLP Kaggle competitions
+- Recipient, Zoho Research Excellence Award, Q2 2023
+- Open-source contributor: Hugging Face (2 merged PRs), LangChain (1 merged PR)
+- Women in AI Scholarship, 2021 – ICLR Social
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 92%
+NOTES: Strong NLP/LLM depth, Indic AI expertise, excellent code quality, speaker/contributor profile.
+========================================

@@ -1,0 +1,962 @@
+================================================================
+SELECTION GUIDELINES — AI/ML ENGINEER ROLE
+================================================================
+Document Type   : Recruiter & Evaluator Reference Guide
+Role            : AI/ML Engineer — Full Spectrum (Fresher to Principal)
+Version         : 3.0
+Last Updated    : June 2026
+Owner           : Applied AI Talent Acquisition, HR & AI CoE
+Benchmark       : FAANG / Tier-1 AI Research Lab Standard
+================================================================
+
+INTENDED USE
+This document provides structured criteria for evaluating resumes
+for the AI/ML Engineer role across all seniority levels. It is
+designed for use in an AI-powered RAG-based screening system and
+human review. The system automatically detects experience level and
+routes candidates to the appropriate track and sub-tier. Scores are
+advisory; final decisions rest with the hiring panel.
+
+----------------------------------------------------------------
+SECTION 1: AUTOMATED ROUTING & SCORING FRAMEWORK
+----------------------------------------------------------------
+
+STEP 1 — EXPERIENCE PARSING
+The system parses total non-academic, industry-grade experience
+(internships count as 0.5x weight unless backed by verifiable
+publication, patent, or shipped product evidence).
+
+  Total Experience < 1 Year    ➔  TRACK C : INTERN / FRESHER
+  Total Experience 1–3 Years   ➔  TRACK B : JUNIOR / ASSOCIATE
+  Total Experience 3–7 Years   ➔  TRACK A : MID / SENIOR
+  Total Experience > 7 Years   ➔  TRACK S : STAFF / PRINCIPAL
+
+STEP 2 — SPECIALIZATION SIGNAL DETECTION
+The system also flags optional specialization signals in the resume
+to annotate the evaluation output (does NOT change track routing):
+  [LLM]  : Large Language Model / GenAI focus detected
+  [CV]   : Computer Vision focus detected
+  [MLO]  : MLOps / Platform Engineering focus detected
+  [RS]   : Research Scientist profile detected
+  [DS]   : Data Science / Analytics hybrid detected
+
+----------------------------------------------------------------
+SECTION 2: SCORING WEIGHT TABLES BY TRACK
+----------------------------------------------------------------
+
+──────────────────────────────────────────────────────────────
+TRACK C — INTERN / FRESHER (< 1 Year Experience)
+──────────────────────────────────────────────────────────────
+DIMENSION                                    MAX SCORE   WEIGHT
+------------------------------------------------------------
+1. Python Engineering & OOP Depth              30        30%
+2. Mathematical & Algorithmic Foundation       25        25%
+3. Predictive Modeling & Data Preprocessing    20        20%
+4. Projects, Interfaces & Deployment Proof     15        15%
+5. Education, GPA & Certifications             10        10%
+------------------------------------------------------------
+TOTAL                                         100       100%
+
+DECISION BANDS — TRACK C:
+  80 – 100  →  STRONG HIRE   (Direct to Stage 2 Technical Screen)
+  60 – 79   →  HIRE          (Proceed to Stage 1 Coding Challenge)
+  40 – 59   →  POTENTIAL     (Recommend structured internship path)
+   0 – 39   →  REJECT
+
+──────────────────────────────────────────────────────────────
+TRACK B — JUNIOR / ASSOCIATE (1–3 Years Experience)
+──────────────────────────────────────────────────────────────
+DIMENSION                                    MAX SCORE   WEIGHT
+------------------------------------------------------------
+1. Core ML Framework & Modeling Depth          25        25%
+2. Work Experience Quality & Ownership         20        20%
+3. Statistical Rigor & Model Evaluation        20        20%
+4. Engineering Practices & Code Quality        15        15%
+5. Projects, Portfolios & Open Contributions   12        12%
+6. Education & Credentials                      8         8%
+------------------------------------------------------------
+TOTAL                                         100       100%
+
+DECISION BANDS — TRACK B:
+  85 – 100  →  STRONG HIRE   (Fast-track to Stage 2 ML Design)
+  70 – 84   →  HIRE          (Proceed to Stage 2 Assessment)
+  55 – 69   →  MAYBE         (Senior reviewer portfolio audit)
+   0 – 54   →  REJECT
+
+──────────────────────────────────────────────────────────────
+TRACK A — MID-LEVEL / SENIOR (3–7 Years Experience)
+──────────────────────────────────────────────────────────────
+DIMENSION                                    MAX SCORE   WEIGHT
+------------------------------------------------------------
+1. Core Modeling Depth & Framework Mastery     22        22%
+2. Work Experience Quality & Business Impact   20        20%
+3. Explainable AI, Fairness & Interpretability 18        18%
+4. MLOps, Production Systems & Scale           18        18%
+5. System Design & Cross-Functional Ownership  10        10%
+6. Education, Credentials & Publications        7         7%
+7. Portfolio, Research & Open Source            5         5%
+------------------------------------------------------------
+TOTAL                                         100       100%
+
+DECISION BANDS — TRACK A:
+  88 – 100  →  STRONG HIRE   (Fast-track to System Design Round)
+  72 – 87   →  HIRE          (Proceed to Stage 2 Assessment)
+  56 – 71   →  MAYBE         (Refer to Principal Engineer review)
+   0 – 55   →  REJECT
+
+──────────────────────────────────────────────────────────────
+TRACK S — STAFF / PRINCIPAL / ARCHITECT (> 7 Years Experience)
+──────────────────────────────────────────────────────────────
+DIMENSION                                    MAX SCORE   WEIGHT
+------------------------------------------------------------
+1. Depth of Technical Vision & Research Output  20        20%
+2. System Architecture & Org-Scale Influence    20        20%
+3. ML Excellence & Cutting-Edge Methodology     18        18%
+4. Production Infrastructure & Reliability      15        15%
+5. Leadership, Mentorship & Process Design      12        12%
+6. External Credibility & Thought Leadership    10        10%
+7. Education, Patents & Publications             5         5%
+------------------------------------------------------------
+TOTAL                                         100       100%
+
+DECISION BANDS — TRACK S:
+  90 – 100  →  STRONG HIRE   (Executive sponsor loop; offer fast-track)
+  75 – 89   →  HIRE          (Proceed to Panel + System Design Loop)
+  60 – 74   →  MAYBE         (Refer to VP Engineering or CTO review)
+   0 – 59   →  REJECT
+
+----------------------------------------------------------------
+SECTION 3: TRACK C — INTERN / FRESHER CRITERIA (< 1 Year)
+----------------------------------------------------------------
+
+CRITICAL POLICY: Do NOT penalize Track C candidates for missing
+production deployments, pipeline tooling, or enterprise system
+ownership. Evaluate raw programming ability, mathematical intuition,
+independent initiative, and learning velocity.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 1: PYTHON ENGINEERING & OOP DEPTH (Max 30 pts)
+──────────────────────────────────────────────────────────────
+
+25–30 pts  [Expert Fresher]
+  Masters Object-Oriented design patterns (classes, encapsulation,
+  inheritance, polymorphism). Writes modular, reusable function
+  libraries. Uses list comprehensions, generators, and context
+  managers fluently. Demonstrates clean file I/O, error handling,
+  and test-driven structure. No evidence of copy-paste scripting.
+  Bonus signal: contributions to open-source Python packages.
+
+15–24 pts  [Functional]
+  Understands basic programming constructs. Can build multi-function
+  scripts but lacks structural modularity or clean encapsulation.
+  Relies on notebooks rather than .py module files.
+
+0–14 pts   [Superficial]
+  Struggles to articulate programmatic data flow. Evidence limited
+  to tutorial reproductions without modification or understanding.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 2: MATHEMATICAL & ALGORITHMIC FOUNDATION (Max 25 pts)
+──────────────────────────────────────────────────────────────
+
+21–25 pts  [Strong]
+  Deep grasp of linear algebra (matrix decompositions, eigenvalues),
+  multivariate calculus (partial derivatives, chain rule application
+  in backprop), probability distributions (Bayesian inference,
+  MLE), and gradient-based optimization mechanics. Can derive and
+  explain loss function behavior without prompt.
+
+12–20 pts  [Adequate]
+  Memorized algorithmic keywords and surface-level formula recall.
+  Struggles to explain why specific optimizers converge differently
+  or how regularization alters the loss surface.
+
+0–11 pts   [Weak]
+  Pure black-box developer. Cannot explain gradient descent, cost
+  function curvature, or statistical inference. Disqualifying for
+  roles requiring model customization.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 3: PREDICTIVE MODELING & DATA PREPROCESSING (Max 20 pts)
+──────────────────────────────────────────────────────────────
+
+17–20 pts  [Strong Pipeline Builder]
+  Demonstrates clean model pipeline construction using Scikit-Learn
+  or PyTorch. Correctly applies feature transformations, handles
+  class imbalances (SMOTE, class weighting), uses stratified k-fold
+  cross-validation, and evaluates using robust metrics beyond
+  accuracy: ROC-AUC, F1-macro, Precision-Recall curves. Shows
+  awareness of data leakage prevention.
+
+10–16 pts  [Standard]
+  Relies on textbook boilerplate datasets (Titanic, Iris, MNIST)
+  with default parameters and minimal feature engineering. Metrics
+  restricted to accuracy or loss. Limited preprocessing steps.
+
+0–9 pts    [Insufficient]
+  No proof of independent model execution, transformation pipelines,
+  or reproducible evaluation. Google Colab tutorials only.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 4: PROJECTS, INTERFACES & DEPLOYMENT PROOF (Max 15 pts)
+──────────────────────────────────────────────────────────────
+
+12–15 pts  [Standout Portfolio]
+  Built at least one genuinely original project: healthcare model
+  with SHAP explainability, recommendation system deployed via
+  Streamlit or FastAPI, NLP classifier with custom preprocessing, or
+  audio classification system. Shows understanding of API routing or
+  basic database queries. GitHub repo has a structured README, clean
+  commit history, and reproducible setup.
+
+6–11 pts   [Basic]
+  Follow-along repository structures from tutorials. Minimal
+  independent data engineering or unique feature additions.
+  No deployment evidence. README absent or boilerplate.
+
+0–5 pts    [Missing]
+  No verifiable code repositories or independent implementation
+  projects. No GitHub link or empty profile.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 5: EDUCATION, GPA & CERTIFICATIONS (Max 10 pts)
+──────────────────────────────────────────────────────────────
+
+9–10 pts   B.Tech / B.E. / M.Tech / MCA in CS, IT, AI, or related
+           fields with CGPA >= 7.5/10 from recognized institutions,
+           OR industry certifications: AWS ML Specialty, GCP
+           Professional ML Engineer, DeepLearning.AI Specialization,
+           Fast.ai Practical Deep Learning.
+
+5–8 pts    Allied quantitative disciplines (ECE, EEE, Statistics)
+           with strong analytics coursework or AI certifications
+           from recognized MOOC providers.
+
+0–4 pts    Non-technical track with no compensating practical or
+           certification evidence.
+
+----------------------------------------------------------------
+SECTION 4: TRACK B — JUNIOR / ASSOCIATE CRITERIA (1–3 Years)
+----------------------------------------------------------------
+
+──────────────────────────────────────────────────────────────
+DIMENSION 1: CORE ML FRAMEWORK & MODELING DEPTH (Max 25 pts)
+──────────────────────────────────────────────────────────────
+
+1A. Algorithm & Architecture Breadth (0–15 pts)
+  15 pts : Independently implements supervised (gradient boosting,
+           neural architectures), unsupervised (clustering, dim
+           reduction), and basic sequence models (RNNs, basic
+           Transformers). Understands tradeoffs between algorithms
+           and selects appropriately for problem type. Uses PyTorch
+           or TensorFlow with custom training loops, not just
+           fit/predict wrappers.
+  10–14  : Strong command of standard supervised algorithms.
+           Implements multi-layer architectures but relies on
+           framework defaults for optimization and regularization.
+   5–9   : Applied modeling using standard library parameters.
+           Limited exposure beyond classification and regression.
+   0–4   : Restricted to tutorial-grade implementations with no
+           awareness of model tradeoffs.
+
+1B. Data Engineering for ML (0–6 pts)
+  6 pts  : Builds feature pipelines from raw, messy data.
+           Handles missing values with strategy selection (not
+           just mean-fill). Engineers time-series lag features,
+           text embeddings, or categorical encoding beyond
+           one-hot. Manages class imbalances. Familiar with
+           Pandas, NumPy, and at least one of: Spark, Dask,
+           Polars for larger-scale data.
+  3–5    : Comfortable with standard preprocessing steps on
+           structured data. Limited exposure to NLP or
+           time-series specific pipelines.
+  0–2    : Relies strictly on clean, pre-formatted tutorial
+           datasets. No evidence of real-world preprocessing.
+
+1C. SQL & Data Access (0–4 pts)
+  4 pts  : Constructs complex multi-table joins, CTEs, window
+           functions, and aggregation pipelines to build feature
+           stores. Comfortable with query optimization basics.
+  2–3    : Intermediate SQL; can write multi-table inner joins
+           and GROUP BY aggregations.
+  0–1    : Minimal or no SQL; relies on pre-extracted file
+           formats only.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 2: WORK EXPERIENCE QUALITY & OWNERSHIP (Max 20 pts)
+──────────────────────────────────────────────────────────────
+
+2A. Role Relevance (0–8 pts)
+  8 pts  : 1–3 years directly as ML Engineer, Data Scientist,
+           or AI Engineer at a product-grade technology company
+           or AI-focused startup. Clear evidence of working on
+           real production data (not internal sandbox demos).
+  5–7    : 1+ years relevant technical experience with partial
+           ML exposure; or strong internship series at known
+           technology organizations.
+  0–4    : General software engineering with incidental
+           scripting tasks only. No ML model ownership evidence.
+
+2B. Quantified Business Impact (0–7 pts)
+  7 pts  : Multiple quantified outcomes: model precision improved
+           by X%, prediction latency reduced by Yms, churn
+           prediction saving $Z/quarter, or recommendation click-
+           through rate increased by W%. Numbers tied to business
+           metric, not just model benchmark.
+  4–6    : At least one clear outcome metric from a production
+           or near-production ML integration.
+  0–3    : Purely task-oriented descriptions ("trained a model",
+           "built a classifier") with no evaluation of real-world
+           impact.
+
+2C. Technical Scope & Ownership (0–5 pts)
+  5 pts  : Independently scoped and delivered at least one ML
+           feature end-to-end: data sourcing → preprocessing →
+           training → evaluation → deployment or handoff.
+           Communicated trade-offs to non-technical stakeholders.
+  3–4    : Strong independent contributor; relied on a senior
+           engineer for scoping but executed independently.
+  0–2    : Executed isolated subtasks only. No ownership of a
+           complete model workflow.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 3: STATISTICAL RIGOR & MODEL EVALUATION (Max 20 pts)
+──────────────────────────────────────────────────────────────
+
+3A. Evaluation Methodology (0–12 pts)
+  12 pts : Goes well beyond train/test split. Uses stratified
+           k-fold CV, calibration curves (reliability diagrams),
+           bootstrapped confidence intervals, threshold tuning
+           via precision-recall tradeoff analysis, and multi-
+           class metrics (macro/weighted F1). Aware of and tests
+           for data leakage. Detects and acts on distribution
+           shift in validation sets.
+  7–11   : Standard cross-validation and confusion matrix
+           reporting. Uses AUC-ROC but does not tune thresholds
+           or examine calibration.
+  2–6    : Relies on training accuracy as primary metric.
+           Minimal understanding of overfitting detection beyond
+           train/val gap.
+  0–1    : No rigorous evaluation framework visible.
+
+3B. Statistical Foundations (0–8 pts)
+  8 pts  : Comfortable with hypothesis testing (t-tests, Mann-
+           Whitney, chi-square), distribution fitting, A/B test
+           significance calculations, and Bayesian updating.
+           Understands p-value misinterpretation pitfalls. Uses
+           statistical tests to validate feature importance.
+  4–7    : Aware of basic statistical testing. Can describe
+           hypothesis testing but inconsistently applies it.
+  0–3    : Statistical knowledge limited to descriptive
+           statistics and correlation coefficients only.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 4: ENGINEERING PRACTICES & CODE QUALITY (Max 15 pts)
+──────────────────────────────────────────────────────────────
+
+4A. Software Engineering Standards (0–8 pts)
+  8 pts  : Writes modular, PEP-8 compliant Python code organized
+           into packages (not monolithic notebooks). Uses virtual
+           environments, requirements files, and config management
+           (YAML / .env). Writes unit tests for data pipelines
+           and model utilities. Code reviews mentioned in work
+           experience. Familiar with CI/CD basics (GitHub Actions,
+           pre-commit hooks).
+  4–7    : Uses Git regularly. Organizes code beyond single
+           script files. Some awareness of environment management
+           and code structure best practices.
+  0–3    : Notebook-only or script-only work. No version control
+           evidence or reproducibility setup.
+
+4B. Model Serving & Basic Deployment (0–7 pts)
+  7 pts  : Has wrapped at least one model in a REST API (FastAPI,
+           Flask) with request validation. Understands latency
+           vs. throughput tradeoffs. Familiar with Docker basics
+           and container-based serving. Exposed models to internal
+           consumers or production-grade integrations.
+  3–6    : Has served model outputs via a simple API or Streamlit
+           app. No container or cloud deployment evidence.
+  0–2    : Local execution only. No integration with network-
+           accessible interfaces or web frameworks.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 5: PROJECTS, PORTFOLIOS & OPEN CONTRIBUTIONS (Max 12 pts)
+──────────────────────────────────────────────────────────────
+
+10–12 pts  Independent, original projects with measurable scope:
+           a fine-tuned LLM for domain-specific QA, a custom
+           object detector on self-collected data, a multi-model
+           A/B experimentation framework, or a deployed web tool
+           with live ML inference. Kaggle competition placement
+           (top 20%) or open-source PR merged into known library.
+           GitHub demonstrates clean coding habits, documentation,
+           and regular activity.
+
+5–9 pts    One or two follow-along projects extended with original
+           components. GitHub active but mostly forked repositories.
+           No external recognition or deployment.
+
+0–4 pts    Minimal public portfolio. GitHub empty or last commit
+           > 12 months ago. Projects are unverifiable or
+           entirely derivative.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 6: EDUCATION & CREDENTIALS (Max 8 pts)
+──────────────────────────────────────────────────────────────
+
+7–8 pts    M.Tech / M.S. / M.Sc. in CS, AI, Data Science from
+           recognized institution, OR B.Tech from IIT, NIT, BITS,
+           or international equivalent with CGPA >= 8.0/10.
+           Industry certs: AWS ML Specialty, GCP ML Engineer,
+           TensorFlow Developer, Azure AI Engineer, or equivalent.
+
+4–6 pts    B.Tech / B.E. from tier-2 institutions with CGPA
+           >= 7.0/10. MOOC-based certifications from DeepLearning.AI,
+           Fast.ai, or Coursera Machine Learning Specialization.
+
+0–3 pts    Unrelated degree with no compensating experience or
+           certification. CGPA below 7.0 or undeclared with no
+           other signals.
+
+----------------------------------------------------------------
+SECTION 5: TRACK A — MID / SENIOR CRITERIA (3–7 Years)
+----------------------------------------------------------------
+
+──────────────────────────────────────────────────────────────
+DIMENSION 1: CORE MODELING DEPTH & FRAMEWORK MASTERY (Max 22 pts)
+──────────────────────────────────────────────────────────────
+
+1A. Algorithm Expertise (0–14 pts)
+  14 pts : Production deployment of complex model architectures:
+           Transformer variants (BERT, T5, LLaMA-family fine-tuning),
+           robust ensemble methods with custom objective functions
+           (XGBoost, LightGBM with custom losses), diffusion
+           models, or graph neural networks. Deep understanding
+           of regularization (dropout scheduling, weight decay,
+           spectral normalization), hyperparameter search (Optuna,
+           Ray Tune), and learning rate schedules. Clear evidence
+           of performance engineering at scale (mixed-precision,
+           model pruning, quantization).
+  10–13  : Independent expert in supervised and deep learning
+           algorithms. Strong parameter evaluation and custom
+           architecture work.
+   5–9   : Applied modeling using standard configurations with
+           limited custom tuning.
+   0–4   : Shallow modeling footprint; relies on out-of-the-box
+           configurations.
+
+1B. Data at Scale (0–5 pts)
+  5 pts  : Designed data pipelines handling TB-scale datasets
+           (Spark, Beam, or distributed preprocessing). Managed
+           extreme class imbalances, synthetic data generation
+           (SMOTE, GANs, augmentation policies), complex joins
+           across distributed sources, and streaming data ingestion
+           for online learning.
+  3–4    : Comfortable with moderate-scale pipelines. Standard
+           preprocessing and feature store interactions.
+  0–2    : Works primarily with preprocessed, in-memory datasets.
+
+1C. Querying & Feature Stores (0–3 pts)
+  3 pts  : Builds optimized feature store queries (Feast, Hopsworks,
+           or custom BigQuery / Redshift feature tables). Writes
+           complex window functions and temporal joins for time-
+           aware feature engineering.
+  1–2    : Proficient SQL for analytics. No feature store
+           architecture experience.
+  0      : No SQL or data warehouse exposure.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 2: WORK EXPERIENCE QUALITY & BUSINESS IMPACT (Max 20 pts)
+──────────────────────────────────────────────────────────────
+
+2A. Role Relevance & Seniority Signal (0–8 pts)
+  8 pts  : 3+ years as AI/ML Engineer, Applied Scientist, or
+           Senior Data Scientist at a product-grade organization.
+           Evidence of direct ownership over model versioning,
+           retraining pipelines, and production deployment cycles.
+  5–7    : 2–3 years directly relevant ML experience with evidence
+           of end-to-end ownership. Strong engineering background
+           transitioning into ML with advanced depth.
+  0–4    : Primarily software engineering with incidental model
+           integration. Low ML ownership signal.
+
+2B. Quantified Business & Model Outcomes (0–7 pts)
+  7 pts  : Multiple quantified, business-contextualized metrics:
+           revenue uplift ($X from recommender), latency reduction
+           (Yms p99), precision improvement leading to reduced
+           false positives at a stated cost, or safety improvement
+           in a regulated environment. Demonstrates awareness of
+           model ROI and business justification.
+  4–6    : Clear outcome metrics from at least one production
+           integration. Numbers present but not fully contextualized.
+  0–3    : Task-oriented descriptions without production metrics
+           or business outcome linkage.
+
+2C. System Ownership & Cross-Functional Depth (0–5 pts)
+  5 pts  : Proven ownership from ideation to production.
+           Mentored junior engineers. Drove model selection debates
+           with documented trade-off analyses. Ran retrospectives
+           on model failures. Coordinated with product, data, and
+           infrastructure teams.
+  3–4    : Strong contributor. Independently delivered features
+           but limited evidence of cross-team coordination.
+  0–2    : Confined to execution of assigned subtasks. No
+           visible cross-functional ownership.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 3: EXPLAINABLE AI, FAIRNESS & INTERPRETABILITY (Max 18 pts)
+──────────────────────────────────────────────────────────────
+
+3A. Explainability Frameworks (0–10 pts)
+  10 pts : Active deployment of model interpretability in
+           production: SHAP value analysis for feature auditing,
+           LIME for local explanations in high-stakes domains,
+           Integrated Gradients for deep model debugging, or
+           attention visualization for Transformer models.
+           Has used explainability to detect and correct feature
+           leakage, model bias, or distribution drift. Documents
+           decisions for regulatory or compliance contexts.
+  6–9    : Strong integration of SHAP/LIME during model evaluation.
+           Produces summary plots and feature dependency analyses
+           as part of standard workflow.
+  2–5    : Theoretical awareness. Minor notebook-level
+           implementation without production application.
+  0–1    : No explainability footprint. Treats all models as
+           pure black-box systems.
+
+3B. Fairness, Bias & Safety Awareness (0–4 pts)
+  4 pts  : Proactively audits models for demographic parity,
+           equalized odds, or calibration fairness. Familiar with
+           frameworks: Fairlearn, AI Fairness 360, or custom
+           disparity analysis. Raised or documented concerns about
+           model outputs in sensitive domains.
+  2–3    : Mentions bias awareness but no demonstrated mitigation
+           workflow.
+  0–1    : No fairness or safety signal in documented work.
+
+3C. Statistical Evaluation Rigor (0–4 pts)
+  4 pts  : Uses parametric and non-parametric hypothesis testing
+           to validate model improvements (McNemar's test, DeLong
+           test for AUC comparison). Monitors data drift using
+           distribution distance metrics (PSI, KS statistic,
+           Jensen-Shannon divergence). Designs multi-armed
+           experimentation frameworks (A/B, multi-bandit).
+  2–3    : Standard cross-validation and confusion matrix analysis.
+           Basic distribution monitoring.
+  0–1    : Weak validation logic; no statistical rigor in model
+           comparison.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 4: MLOPS, PRODUCTION SYSTEMS & SCALE (Max 18 pts)
+──────────────────────────────────────────────────────────────
+
+4A. Serving, APIs & Microservices (0–8 pts)
+  8 pts  : Deep mastery of model serving architectures: FastAPI /
+           Triton Inference Server / TorchServe / BentoML with
+           Docker + Kubernetes orchestration. Implements batch and
+           real-time inference endpoints. Optimizes for throughput
+           (async batching) and latency (model quantization, TensorRT,
+           ONNX export). Manages blue-green or canary deployments.
+  4–7    : Competent API wrapping and container deployment. REST
+           endpoints with basic scaling configuration.
+  0–3    : Local or notebook-only execution. No container or
+           network service integration.
+
+4B. Experiment Tracking & Pipeline Orchestration (0–6 pts)
+  6 pts  : Proficient with MLflow, Weights & Biases, or DVC for
+           full experiment lifecycle management (params, artifacts,
+           metrics, model registry). Uses pipeline orchestration
+           tools (Airflow, Prefect, Kubeflow Pipelines, ZenML) for
+           automated retraining triggers. Manages feature stores
+           (Feast, Tecton) or vector stores (Pinecone, Weaviate,
+           Qdrant) for LLM RAG applications.
+  3–5    : Git + DVC for version control. MLflow for basic
+           experiment tracking. No pipeline orchestration depth.
+  0–2    : Ad-hoc tracking. Missing structural reproducibility
+           or automated retraining pipelines.
+
+4C. Monitoring & Reliability (0–4 pts)
+  4 pts  : Implements model monitoring in production: input drift
+           detection, output distribution shifts, prediction
+           confidence degradation, and automated retraining triggers.
+           Familiar with observability tooling (Prometheus, Grafana,
+           Evidently AI, or Arize AI). Designs SLA-backed inference
+           contracts.
+  2–3    : Basic logging of model predictions. No automated
+           alerting or drift detection.
+  0–1    : No monitoring framework. Reactive incident response
+           only.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 5: SYSTEM DESIGN & CROSS-FUNCTIONAL OWNERSHIP (Max 10 pts)
+──────────────────────────────────────────────────────────────
+
+8–10 pts   Can design end-to-end ML systems: data ingestion →
+           feature engineering → training pipeline → model
+           registry → serving layer → monitoring → feedback loop.
+           Accounts for throughput requirements, SLA targets,
+           cold-start handling, and graceful degradation. Has
+           documented system design artifacts (architecture
+           diagrams, design docs, or RFCs).
+
+5–7 pts    Understands major components of ML system architecture
+           but has not independently designed a full-stack system.
+           Can describe trade-offs between design options.
+
+0–4 pts    Limited systems thinking. Focus restricted to isolated
+           model training without upstream or downstream awareness.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 6: EDUCATION, CREDENTIALS & PUBLICATIONS (Max 7 pts)
+──────────────────────────────────────────────────────────────
+
+6–7 pts    M.S. / M.Tech / Ph.D. in CS, AI, Statistics, or
+           related from IIT, IISc, NIT, BITS, or equivalent
+           international program. OR peer-reviewed publications
+           (NeurIPS, ICML, CVPR, ACL, EMNLP, ICLR, KDD, WWW).
+           Industry-recognized certifications as secondary signal.
+
+4–5 pts    B.Tech from top-tier institution with CGPA >= 8.0 and
+           strong academic project output. Advanced certifications
+           from AWS, GCP, or Databricks.
+
+2–3 pts    Solid engineering degree from tier-2 institution with
+           strong compensating industry experience.
+
+0–1 pts    Unrelated specialization without compensating depth.
+           CGPA below 7.0 or undeclared with no other signal.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 7: PORTFOLIO, RESEARCH & OPEN SOURCE (Max 5 pts)
+──────────────────────────────────────────────────────────────
+
+5 pts      Active open-source contributions to major ML libraries
+           (HuggingFace, Scikit-Learn, PyTorch, LangChain). Kaggle
+           Grandmaster / Master rank. Published technical blog posts
+           (widely cited). Conference talks or workshops delivered.
+
+3–4 pts    Notable Kaggle competition finishes (top 10%). Multiple
+           original GitHub projects with documented experiments and
+           clean code standards. Technical writing.
+
+0–2 pts    Minimal public footprint beyond standard employment.
+           No recognizable community or research presence.
+
+----------------------------------------------------------------
+SECTION 6: TRACK S — STAFF / PRINCIPAL CRITERIA (> 7 Years)
+----------------------------------------------------------------
+
+Note: Track S evaluates leverage, vision, and strategic impact
+above raw technical execution. A candidate who scores high on
+individual contribution but shows no multiplier effect on teams
+or systems should be mapped to Track A (Senior) regardless of
+tenure. Evaluate depth AND organizational scale.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 1: TECHNICAL VISION & RESEARCH OUTPUT (Max 20 pts)
+──────────────────────────────────────────────────────────────
+
+16–20 pts  Has shaped the direction of ML capability at an
+           organization level: authored technical roadmaps,
+           selected foundational model architectures, evaluated
+           build-vs-buy decisions, or defined evaluation standards
+           adopted org-wide. Published or cited research outputs.
+           Recognized externally as a technical authority in a
+           specialization domain.
+
+10–15 pts  Strong technical depth with evidence of internal
+           evangelism or standards-setting. Introduced new
+           methodologies adopted by multiple teams.
+
+0–9 pts    Purely execution-oriented. Deep individual skill but
+           no evidence of organizational vision or influence.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 2: SYSTEM ARCHITECTURE & ORG-SCALE INFLUENCE (Max 20 pts)
+──────────────────────────────────────────────────────────────
+
+16–20 pts  Designed and owned multi-system ML platforms serving
+           thousands of QPS at sub-100ms latency with four-nines
+           availability. Led architectural migrations (monolith to
+           microservice, batch to real-time, on-prem to cloud).
+           Wrote and approved architecture RFCs adopted by 3+
+           teams. Influenced hiring bar and technical interview
+           design. Evidence of "force multiplier" impact on
+           engineering culture.
+
+10–15 pts  Owned production systems at significant scale.
+           Contributed meaningfully to architectural decisions
+           but without sole ownership of org-level platform.
+
+0–9 pts    System experience limited to individual service scope.
+           No evidence of cross-org platform design or influence.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 3: ML EXCELLENCE & CUTTING-EDGE METHODOLOGY (Max 18 pts)
+──────────────────────────────────────────────────────────────
+
+15–18 pts  Expert across multiple ML paradigms: foundation model
+           fine-tuning and alignment (RLHF, DPO, RLAIF), advanced
+           retrieval-augmented generation architectures, causal
+           inference and uplift modeling, multi-task / meta-
+           learning, self-supervised pretraining strategies, or
+           production-grade reinforcement learning applications.
+           Evidence of applying cutting-edge research to production
+           before it becomes mainstream.
+
+10–14 pts  Strong depth in 2–3 areas. Regularly reads and
+           implements from top venues (NeurIPS, ICML, ICLR, CVPR).
+
+0–9 pts    Expertise plateau. Solid foundational skills but no
+           evidence of tracking or implementing frontier methods.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 4: PRODUCTION INFRASTRUCTURE & RELIABILITY (Max 15 pts)
+──────────────────────────────────────────────────────────────
+
+12–15 pts  Deep expertise in large-scale ML infrastructure:
+           multi-GPU / multi-node distributed training (DDP, FSDP,
+           Megatron-LM), inference optimization (quantization,
+           speculative decoding, KV-cache management), data platform
+           architecture (lakehouse, feature store design, streaming
+           pipelines at TB/day scale). Has designed and owned model
+           governance frameworks: versioning policies, rollback
+           procedures, shadow deployment, champion-challenger
+           frameworks, and post-deployment audit protocols.
+
+7–11 pts   Strong MLOps practitioner. Solid production engineering
+           depth without platform-level architecture ownership.
+
+0–6 pts    Operational experience limited to single-model
+           deployment cycles. No infrastructure design evidence.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 5: LEADERSHIP, MENTORSHIP & PROCESS DESIGN (Max 12 pts)
+──────────────────────────────────────────────────────────────
+
+10–12 pts  Directly managed, mentored, or technically led 4+
+           engineers. Designed team-wide ML development processes
+           (experiment management workflows, model card standards,
+           incident post-mortem templates). Grew junior engineers
+           to independent contributors. Hired and defined interview
+           criteria for multiple ML roles. Evidence of culture
+           contribution: internal talks, reading groups, or
+           knowledge-sharing programs initiated.
+
+6–9 pts    Mentored 1–3 engineers informally. Contributed to
+           process improvements. Some hiring involvement.
+
+0–5 pts    No documented leadership or mentorship. Individual
+           contributor only, regardless of tenure.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 6: EXTERNAL CREDIBILITY & THOUGHT LEADERSHIP (Max 10 pts)
+──────────────────────────────────────────────────────────────
+
+8–10 pts   Keynote or invited speaker at ML conferences
+           (NeurIPS, MLSys, PyData, applied AI summits).
+           Published technical blog widely referenced (>500
+           citations or shares in ML community). Open-source
+           maintainer for a project with 500+ GitHub stars.
+           Named contributor on industry benchmarks or evaluation
+           frameworks. Advisory or review committee memberships.
+
+4–7 pts    Active conference presenter (workshop or poster).
+           Technical blog with domain following. Notable Kaggle
+           competition finishes. Recognized in industry media.
+
+0–3 pts    No external visibility. Internal work only.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 7: EDUCATION, PATENTS & PUBLICATIONS (Max 5 pts)
+──────────────────────────────────────────────────────────────
+
+5 pts      Ph.D. from a top-tier research institution in ML,
+           CS, Statistics, or related field. OR multiple
+           peer-reviewed publications at A* venues. OR
+           registered patents in AI/ML domain.
+
+3–4 pts    M.S. / M.Tech from premier institution with published
+           thesis or workshop papers. Strong industry credentials.
+
+0–2 pts    Undergraduate degree with extensive compensating
+           industry output. Credentials secondary at this level.
+
+----------------------------------------------------------------
+SECTION 7: HARD DISQUALIFIERS — UNIVERSAL BYPASS FILTERS
+----------------------------------------------------------------
+
+These conditions immediately flag a resume for rejection review
+regardless of track, score, or seniority level.
+
+  □ Complete absence of Python or any programming evidence.
+    This role requires custom development capability at all levels.
+
+  □ Purely click-and-run UI profiles (AutoML without code,
+    drag-and-drop tools only) with no underlying engineering
+    architecture demonstrated.
+
+  □ Fabricated academic credentials, certifications, project
+    metrics, or employment dates. Cross-verify GitHub activity
+    timestamps against claimed project dates.
+
+  □ No verifiable output: no public GitHub, no referenced
+    deployment, no named company, no publication, no citation.
+    Entirely unverifiable resumes above Track C require escalation.
+
+  □ Track A / S only: Claimed 5+ years but no evidence of
+    production model ownership (no serving infrastructure,
+    no retraining pipelines, no monitoring frameworks referenced).
+
+  □ Evident plagiarism in listed project descriptions matching
+    known Kaggle kernels or public tutorial repositories verbatim
+    without acknowledgement.
+
+----------------------------------------------------------------
+SECTION 8: POSITIVE SIGNALS — UNIVERSAL PRIORITY FLAGS
+----------------------------------------------------------------
+
+These signals elevate a candidate within or across bands:
+
+  ✅  SHAP / LIME / Integrated Gradients in production contexts.
+  ✅  Wrapping ML models in FastAPI / Triton / BentoML services
+      with Docker or Kubernetes orchestration evidence.
+  ✅  Fine-tuning foundation models (LLaMA, Mistral, Phi, BERT)
+      for domain-specific tasks with evaluation rigor.
+  ✅  RAG pipeline architecture with vector store integration
+      (Pinecone, Weaviate, Qdrant, pgvector) and retrieval
+      quality measurement (MRR, NDCG, faithfulness metrics).
+  ✅  Evidence of automated model monitoring and drift detection
+      in production (Evidently AI, Arize, WhyLabs, custom).
+  ✅  Clean, well-documented GitHub repositories with CI pipelines,
+      test coverage, and reproducible experiment setups.
+  ✅  Distributed training experience (DDP, FSDP) or inference
+      optimization (quantization, ONNX, TensorRT).
+  ✅  Causal inference, uplift modeling, or A/B test framework
+      design in business decision-making contexts.
+  ✅  Publications or meaningful contributions to open-source
+      ML libraries at any seniority level.
+  ✅  Multi-modal system experience: vision-language models,
+      audio-text fusion, or document AI pipelines.
+  ✅  Fairness-aware ML: demographic parity audits, disparate
+      impact testing, bias documentation.
+
+----------------------------------------------------------------
+SECTION 9: OUTPUT FORMAT FOR AI SCREENING SYSTEM
+----------------------------------------------------------------
+
+{
+  "candidate_name"            : string,
+  "routed_track"              : "TRACK_C_FRESHER"
+                              | "TRACK_B_JUNIOR"
+                              | "TRACK_A_SENIOR"
+                              | "TRACK_S_PRINCIPAL",
+  "specialization_flags"      : ["LLM", "CV", "MLO", "RS", "DS"],
+  "level_match"               : "Intern"
+                              | "Fresher"
+                              | "Junior/Associate"
+                              | "Mid-Level"
+                              | "Senior"
+                              | "Staff/Principal"
+                              | "Distinguished Engineer",
+  "total_score"               : float (0–100),
+  "decision"                  : "STRONG_HIRE"
+                              | "HIRE"
+                              | "MAYBE"
+                              | "POTENTIAL"
+                              | "REJECT",
+  "confidence"                : "HIGH" | "MEDIUM" | "LOW",
+  "dimension_scores"          : {
+    "d1_modeling_or_python"   : float,
+    "d2_experience_or_math"   : float,
+    "d3_explainability_or_preprocessing" : float,
+    "d4_mlops_or_projects"    : float,
+    "d5_system_design_or_education" : float,
+    "d6_education_or_portfolio" : float,
+    "d7_portfolio_or_na"      : float
+  },
+  "strengths"                 : [
+    string,  // top 3–5 specific, evidence-backed findings
+    ...
+  ],
+  "gaps"                      : [
+    string,  // top 3–5 specific areas where evidence is missing
+    ...
+  ],
+  "red_flags"                 : [
+    string   // hard disqualifiers or suspicious inconsistencies
+  ],
+  "positive_signals_detected" : [
+    string   // specific items matching Section 8 priority signals
+  ],
+  "benchmark_comparison"      : {
+    "vs_track_median"         : "Above" | "At" | "Below",
+    "vs_hire_threshold"       : "Above" | "At" | "Below",
+    "percentile_estimate"     : string  // e.g. "Top 15% for Track A"
+  },
+  "suggestions_for_candidate" : [
+    string,  // 4–5 actionable, specific engineering milestones
+    ...
+  ],
+  "interview_focus_areas"     : [
+    string,  // 3–4 precise probing targets tailored to gaps
+    ...
+  ],
+  "suggested_interview_stage" : "Stage_1_Screening"
+                              | "Stage_2_Technical_Assessment"
+                              | "Stage_3_System_Design"
+                              | "Stage_4_Panel_Loop"
+                              | "Stage_5_Executive_Review",
+  "evaluator_notes"           : string  // free-form flag for human reviewer
+}
+
+----------------------------------------------------------------
+SECTION 10: BENCHMARK CALIBRATION GUIDANCE
+----------------------------------------------------------------
+
+These calibration notes help normalize scores across evaluators
+and ensure FAANG-equivalent bar alignment.
+
+TRACK C (Intern/Fresher) — Calibration:
+  A score of 80+ should be genuinely exceptional: a fresher who
+  can implement a clean PyTorch training loop from scratch,
+  explain gradient descent with mathematical detail, and has
+  independently deployed a model to a public endpoint. Do not
+  award 80+ for a well-organized Jupyter notebook.
+
+TRACK B (Junior) — Calibration:
+  A score of 85+ requires quantified production experience, not
+  just self-hosted projects. Clean code, a deployment story,
+  and measurable model impact are the bar. Do not elevate into
+  this band based solely on educational credentials.
+
+TRACK A (Senior) — Calibration:
+  A score of 88+ should be reserved for candidates who could
+  be immediately productive and influential. They should have
+  owned a production ML system, have measurable business impact,
+  and demonstrate some form of broader technical leadership.
+  At this level, missing explainability or monitoring experience
+  is a significant gap, not a minor one.
+
+TRACK S (Staff/Principal) — Calibration:
+  Fewer than 1 in 10 applicants claiming Staff/Principal titles
+  will score above 75. The bar is not deep individual skill —
+  it is documented evidence of organizational leverage, system
+  architecture at scale, and reproducible leadership outcomes.
+  Technical brilliance without leadership or external signal
+  should be downgraded to Track A (Senior).
+
+INTER-TRACK ESCALATION:
+  If a Track B or Track C candidate shows overwhelming positive
+  signals (e.g., published author, Kaggle Grandmaster, open-source
+  maintainer with 1K+ stars), the evaluator may escalate the
+  routing level with a written justification in evaluator_notes.
+
+================================================================
+END OF SELECTION GUIDELINES
+================================================================
+Classification  : INTERNAL — Recruiter & Evaluator Use Only
+Version         : 3.0 | Approved by: Head of AI Research & Technology Director
+Benchmark Tier  : FAANG / Tier-1 AI Lab Equivalent
+Next Review     : December 2026
+================================================================

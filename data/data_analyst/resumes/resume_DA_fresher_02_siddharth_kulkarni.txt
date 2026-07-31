@@ -1,0 +1,85 @@
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+B.Tech Computer Science graduate from NIT Warangal with a minor in Data Science. Strong in SQL, Python, and Power BI with hands-on internship experience in fintech analytics. Built and deployed a personal analytics project that attracted 800+ monthly users. Eager to apply statistical and analytical skills to solve real product and business problems.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+SQL               : Advanced SQL — CTEs, window functions, complex JOINs, subqueries, stored procedures; PostgreSQL, MySQL, BigQuery (internship)
+Python            : Pandas, NumPy, Matplotlib, Seaborn, Scipy, Statsmodels, Scikit-learn, Plotly
+BI Tools          : Power BI (DAX, Power Query, report publishing), Tableau (intermediate), Excel (advanced)
+Statistics        : Linear & logistic regression, hypothesis testing, confidence intervals, chi-square, ANOVA, basic time-series (ARIMA)
+Data Engineering  : dbt (self-study, project built), SQL query optimisation, basic ETL concepts
+Cloud             : GCP BigQuery (internship), AWS S3 + Athena (self-study)
+Other             : Git, GitHub, Jupyter, VS Code, JIRA
+
+----------------------------------------
+INTERNSHIP EXPERIENCE
+----------------------------------------
+
+Data Analyst Intern | BharatPe | Bengaluru
+Dec 2023 – May 2024 (6 months)
+
+- Analysed merchant transaction data (SQL on BigQuery) for BharatPe's QR payments product; wrote 20+ queries to monitor daily active merchants, transaction success rates, and GMV trends across 12 cities.
+- Built a Power BI dashboard for the Growth team tracking merchant activation funnel (sign-up → first transaction → repeat transaction); dashboard consumed daily by 4 product managers.
+- Identified through cohort analysis that merchants who transacted within 3 days of sign-up had 4.2x higher 90-day retention; finding presented to VP Growth and influenced onboarding nudge design.
+- Assisted in designing an A/B test for a merchant cashback experiment; set up pre/post metric tracking and wrote the results analysis report.
+- Cleaned and validated 18 months of transaction data from legacy database migration; wrote Python scripts to flag 7 categories of data quality issues.
+
+Data Science Intern | Persistent Systems | Pune
+May 2023 – Jul 2023 (2 months)
+
+- Built churn prediction model (logistic regression) for a telecom client dataset; AUC-ROC of 0.84; documented model assumptions and limitations for client handover.
+- Created model performance report in Excel + charts; presented to project manager.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Tech in Computer Science and Engineering
+NIT Warangal | 2020 – 2024
+CGPA: 8.5/10 | Minor: Data Science and Analytics
+Relevant Coursework: Database Systems, Probability and Statistics, Machine Learning, Data Warehousing, Business Intelligence
+
+Final Year Project: "Credit Risk Scoring for Microfinance Using Alternative Data"
+- Built logistic regression + gradient boosting model using mobile usage and repayment history data; Gini 0.58; presented at college project expo (2nd place).
+
+----------------------------------------
+PERSONAL PROJECTS
+----------------------------------------
+
+1. Indian Stock Market Dashboard (Live, Power BI + Python)
+   - End-to-end project: Python script pulls NSE data via yfinance → transforms in Pandas → loads to PostgreSQL → visualised in Power BI with auto-refresh.
+   - Tracks 50 Nifty stocks with P/E, RSI, 52-week metrics; shared on LinkedIn, 800+ monthly users.
+   - GitHub: 140+ stars.
+
+2. Swiggy vs Zomato — SQL Analysis (Published)
+   - Designed a realistic schema mimicking food delivery operations; wrote 30 business questions and SQL solutions covering window functions, CTEs, and aggregations.
+   - GitHub repo used as reference by 3 data analytics communities.
+
+3. Retail Sales Forecasting
+   - Trained ARIMA and Prophet models on Walmart public sales dataset; compared performance across 45 stores; Prophet MAPE of 9.1% vs ARIMA 12.4%.
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Microsoft Power BI Data Analyst (PL-300) — 2024
+- SQL for Data Science — UC Davis / Coursera (2023)
+- Statistics with Python — University of Michigan / Coursera (2023)
+- AWS Cloud Practitioner — 2024
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- 2nd Place, NIT Warangal Final Year Project Expo (Analytics Track), 2024
+- Top 5% — HackerRank SQL (Advanced certificate)
+- NIT Warangal Data Science Club — Secretary (organised 4 workshops, 200+ attendees)
+- Kaggle Expert (top 16%)
+
+========================================
+LABEL: HIGH_QUALITY_FRESHER_CANDIDATE
+SELECTION_PROBABILITY: 82%
+NOTES: Strong NIT background, fintech internship with quantified impact, live personal project, PL-300 certified. Good L2 hire.
+========================================

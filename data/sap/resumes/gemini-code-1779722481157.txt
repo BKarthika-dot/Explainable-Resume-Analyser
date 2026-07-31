@@ -1,0 +1,19 @@
+
+
+PROFESSIONAL SUMMARY:
+Dynamic SAP Developer with 5 years of experience focusing heavily on custom development architectures utilizing ABAP on HANA primitives. Experienced in building high-throughput database interactions and modular object structures.
+
+TECHNICAL SKILLS:
+- SAP Core: Advanced ABAP, Object-Oriented Architecture, Dialog Programming
+- HANA Development: Calculation Views, AMDP, Table Functions, CDS
+- Cross-App: ALE/IDoc configurations, Web Services, BAPIs
+
+PROFESSIONAL EXPERIENCE:
+SAP HANA Consultant | CloudMinds Technologies (2023 - Present)
+- Designed and built intricate relational models utilizing SAP HANA Calculation Views and analytical privileges.
+- Re-architected legacy procedural reports into modular, reusable Object-Oriented ABAP functional components.
+- Conducted exhaustive performance tuning using ATC (ABAP Test Cockpit), SQL Trace (ST05), and Runtime Analysis (SE30).
+
+SAP Technical Analyst | CoreMax Solutions (2021 - 2023)
+- Implemented transactional database integrations via custom inbound/outbound ALE/IDoc pipelines.
+- Implemented user enhancements within standard SAP order fulfillment systems via explicit Enhancement Framework tools.

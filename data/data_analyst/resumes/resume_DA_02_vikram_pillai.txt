@@ -1,0 +1,88 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+Data Analyst with 5 years of experience in financial services and growth analytics. Expert in SQL, Python, and Power BI. Specialises in revenue analytics, risk metrics, and growth experimentation for fintech products. Proven track record of influencing strategic decisions at Director and VP level through data storytelling. Strong statistics foundation with ISI Mumbai background.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+SQL & Databases   : Advanced SQL, Snowflake, BigQuery, PostgreSQL, Oracle SQL; query tuning, execution plans, partitioning
+Python            : Pandas, NumPy, Scikit-learn, Statsmodels, Scipy, Plotly, Prophet, Jupyter, VS Code
+BI Tools          : Power BI (DAX, Power Query, Row-Level Security, Service), Tableau (intermediate), Excel (advanced, VBA)
+Statistics        : Regression (OLS, logistic, ridge/lasso), A/B & multivariate testing, time-series forecasting, survival analysis, Bayesian A/B testing
+Data Engineering  : dbt, AWS Glue (basic), Redshift, S3, Airflow (basic), Great Expectations
+Domains           : Fintech, credit analytics, loan origination, fraud analytics, payments
+Other Tools       : Mixpanel, Looker (basic), Git, Confluence, JIRA
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+Senior Data Analyst | CRED | Mumbai
+Mar 2023 – Present
+
+- Own member lifecycle analytics for CRED's core rewards platform: acquisition, activation, retention, and reactivation funnels covering 12M+ members.
+- Designed CRED's member health score (composite KPI blending engagement, spend, and churn signals) using logistic regression in Python; adopted by Growth and Product as the primary targeting metric for all CRM campaigns.
+- Analysed reward redemption behaviour across 5 reward categories; insight that cashback redeemers had 3.1x higher 90-day retention than non-redeemers led to reward strategy pivot — estimated ₹55 Cr CLTV uplift.
+- Ran 22 growth experiments (A/B + multi-arm bandit); built internal Power BI experiment tracking dashboard adopted by 4 product squads.
+- Built Snowflake + dbt data model for member analytics layer used by 15 analysts across the team; cut average query runtime by 70% through materialisation optimisation.
+- Presented monthly analytics reviews to CPO and VP Growth; known for slide quality and storytelling clarity.
+
+Data Analyst | Bajaj Finserv | Pune
+Jun 2020 – Feb 2023
+
+- Analysed loan origination funnel for personal loan and consumer durable products; identified 3 drop-off stages accounting for 38% abandonment; changes implemented improved approval-to-disbursal conversion by 22%.
+- Built EMI default propensity model (logistic regression + XGBoost) for risk-based pricing; Gini coefficient of 0.61; deployed to inform pricing for 200K+ monthly applications.
+- Developed automated MIS reporting suite in Python + Power BI (replaced 14 manual Excel reports); saved Finance and Risk teams 20+ hours/week.
+- Collaborated with credit risk and product teams to define bureau data integration requirements; wrote data quality checks using Great Expectations.
+
+Analyst Intern | ICICI Bank (Data Analytics CoE) | Mumbai
+Jan 2020 – May 2020
+
+- Built branch performance benchmarking dashboard in Tableau for 150 branches across Maharashtra.
+- Wrote SQL queries on Oracle DB to extract and reconcile transaction-level data for regulatory reporting.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+M.Stat (Statistics)
+Indian Statistical Institute, Mumbai | 2018 – 2020
+CGPA: 8.6/10 | Specialisation: Applied Statistics and Inference
+
+B.Sc. Mathematics (Honours)
+St. Xavier's College, Mumbai | 2015 – 2018
+CGPA: 9.2/10 | University Gold Medalist
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. Bayesian A/B Testing Framework (Open Source)
+   - Built lightweight Python library for Bayesian A/B testing with Beta-Binomial and Gamma-Poisson models; 90+ GitHub stars.
+
+2. RBI Consumer Credit Trends Dashboard
+   - Public Power BI dashboard built on RBI DBIE data; embedded in 3 fintech blogs; 2,000+ views.
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Microsoft Power BI Data Analyst (PL-300) — 2023
+- SQL Advanced — HackerRank (top 5%)
+- Bayesian Statistics – Duke University / Coursera (2022)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- ISI Mumbai Gold Medal equivalent — Academic Excellence, 2020
+- CRED Analytics Impact Award, Q1 2024
+- Speaker, Power BI India Summit 2023: "Optimising DAX for Large Fintech Datasets"
+- Kaggle Expert (top 15% globally)
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 87%
+NOTES: ISI background, strong fintech domain depth, advanced stats, Power BI expertise, stakeholder influence evidence.
+========================================

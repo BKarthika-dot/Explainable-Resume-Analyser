@@ -1,0 +1,102 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+Results-driven AI/ML Engineer with 4+ years of experience designing and deploying end-to-end machine learning systems in production. Proven expertise in NLP, computer vision, and MLOps. Adept at transforming ambiguous business problems into scalable ML solutions. Published researcher with 2 peer-reviewed papers. Passionate about LLMs, RAG architectures, and responsible AI.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+Languages        : Python, SQL, Scala, C++
+ML Frameworks    : PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM
+NLP & LLMs       : Hugging Face Transformers, LangChain, LlamaIndex, OpenAI API, BERT, GPT, T5, RAG
+Computer Vision  : OpenCV, YOLO, Detectron2, torchvision
+MLOps & Cloud    : MLflow, DVC, Kubeflow, Docker, Kubernetes, AWS SageMaker, GCP Vertex AI
+Data Engineering : Apache Spark, Airflow, Kafka, dbt, Pandas, NumPy
+Databases        : PostgreSQL, MongoDB, Pinecone, FAISS, Redis
+Monitoring       : Grafana, Prometheus, Evidently AI
+Version Control  : Git, GitHub Actions, CI/CD pipelines
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+Senior ML Engineer | Flipkart | Bengaluru
+Jun 2022 – Present
+
+- Architected and deployed a real-time product recommendation system using two-tower neural networks, increasing CTR by 23% and contributing to ₹180 Cr annual GMV uplift.
+- Built an end-to-end LLM-powered search pipeline using RAG (Retrieval-Augmented Generation) with FAISS vector store and fine-tuned BERT re-ranker, reducing zero-result searches by 41%.
+- Led a team of 4 ML engineers to deliver a multimodal product categorization system (text + image) achieving 94.7% accuracy across 5,000+ categories.
+- Established MLOps best practices: model versioning with MLflow, automated retraining pipelines with Kubeflow, and drift detection with Evidently AI, reducing model degradation incidents by 65%.
+- Collaborated with data engineers to migrate offline feature pipelines to Apache Spark on EMR, cutting pipeline runtime from 8 hours to 45 minutes.
+- Mentored 2 junior ML engineers; conducted internal workshops on LLM fine-tuning and prompt engineering.
+
+ML Engineer | Mu Sigma | Bengaluru
+Jul 2020 – May 2022
+
+- Developed a churn prediction model for a US telecom client using gradient boosting (XGBoost), achieving AUC-ROC of 0.91; model deployed on AWS SageMaker with A/B testing framework.
+- Designed NLP pipeline for customer support ticket classification using BERT fine-tuning, reducing manual triage effort by 60%.
+- Built an anomaly detection system for supply chain disruptions using Isolation Forest and LSTM autoencoders, deployed on Azure AKS.
+- Automated model monitoring dashboards using Grafana + Prometheus, enabling proactive alerts for data drift.
+
+ML Research Intern | IISc (Indian Institute of Science) | Bengaluru
+Jan 2020 – Jun 2020
+
+- Researched few-shot learning techniques for low-resource NLP tasks under Prof. Shalini Ghosh.
+- Implemented prototypical networks and meta-learning baselines; achieved state-of-the-art results on a regional language dataset.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+M.Tech in Computer Science (AI Specialization)
+Indian Institute of Technology, Bombay | 2018 – 2020
+CGPA: 9.1/10 | Thesis: "Efficient Fine-tuning of Pre-trained Language Models for Low-Resource NLP"
+
+B.Tech in Electronics and Communication Engineering
+NIT Trichy | 2014 – 2018
+CGPA: 8.7/10
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. RAG-based Document QA System (Open Source)
+   - Built a production-grade RAG system using LangChain + Pinecone + GPT-4, supporting multi-document Q&A with citation retrieval.
+   - GitHub: 480+ stars; integrated by 3 companies in their internal knowledge bases.
+
+2. Hindi-English Code-Switching Sentiment Analysis
+   - Developed transformer-based model for Hinglish social media text; F1-score of 0.86.
+   - Published in EMNLP 2022 Workshop on Code-Switching.
+
+3. Real-Time Object Detection Pipeline
+   - Deployed YOLOv8 on edge devices (Jetson Nano) with TensorRT optimization; achieved 45 FPS at 98% mAP.
+
+----------------------------------------
+PUBLICATIONS
+----------------------------------------
+1. Sharma A., et al. "Parameter-Efficient Fine-tuning for Low-Resource NER." EMNLP 2022.
+2. Sharma A., Ghosh S. "Meta-Learning for Cross-Lingual Transfer in NLP." AAAI 2021 Workshop.
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- AWS Certified Machine Learning – Specialty (2023)
+- Deep Learning Specialization – Coursera / deeplearning.ai (2021)
+- MLOps Specialization – Coursera / deeplearning.ai (2022)
+- Google Professional Data Engineer (2022)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Winner, Flipkart Grid 4.0 Hackathon (AI/ML Track), 2022
+- Top 1% on Kaggle (Competition Master); 3 gold medals
+- Best Paper Award – IIT Bombay AI Symposium, 2020
+- GATE 2018: AIR 112 (CS)
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 95%
+NOTES: Strong industry experience, MLOps maturity, LLM/RAG expertise, publications, open-source contributions.
+========================================

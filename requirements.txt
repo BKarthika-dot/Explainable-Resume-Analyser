@@ -1,0 +1,17 @@
+llama-index
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+
+streamlit
+chromadb
+sentence-transformers
+pypdf
+
+python-dotenv
+pandas
+numpy
+
+torch
+transformers
+accelerate

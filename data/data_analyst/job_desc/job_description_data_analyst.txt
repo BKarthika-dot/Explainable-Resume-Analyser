@@ -1,0 +1,114 @@
+================================================================
+JOB DESCRIPTION
+================================================================
+POSITION     : Data Analyst
+DEPARTMENT   : Analytics & Business Intelligence
+REPORTING TO : Analytics Manager / Head of Data
+LOCATION     : Bengaluru / Mumbai / Hyderabad / Remote (India)
+EMPLOYMENT   : Full-Time
+EXPERIENCE   : 1 – 5 Years
+================================================================
+
+----------------------------------------------------------------
+ABOUT THE COMPANY
+----------------------------------------------------------------
+[Company Name] is a data-driven product and technology company operating at scale across e-commerce, fintech, and SaaS verticals. Our Analytics & BI team of 60+ analysts and engineers partners with every business function — product, marketing, operations, finance, and supply chain — to drive decisions through rigorous data analysis, visualization, and statistical modelling.
+
+We believe data analysts here are not report-generators. They are problem-solvers who own business questions end-to-end: from data extraction and wrangling through analysis, insight generation, and stakeholder communication. If you love asking "why" and building systems that help others ask "why," you'll thrive here.
+
+----------------------------------------------------------------
+ROLE OVERVIEW
+----------------------------------------------------------------
+We are hiring a Data Analyst to join our growing analytics team. You will work closely with business stakeholders, product managers, and data engineers to translate complex business questions into structured analytical frameworks, and convert findings into decisions. You'll own dashboards, run experiments, model business problems statistically, and communicate insights that influence strategy.
+
+This is a highly cross-functional role. Strong SQL, a commercial mindset, and excellent communication are as important as technical skills.
+
+----------------------------------------------------------------
+KEY RESPONSIBILITIES
+----------------------------------------------------------------
+
+Data Analysis & Insights
+- Define, extract, and analyse data from large, complex datasets using SQL and Python/R to answer business questions.
+- Conduct root-cause analysis on business metrics (drops in revenue, conversion funnel degradation, anomalies in KPIs) and present clear, evidence-based findings.
+- Build statistical models for forecasting, cohort analysis, customer segmentation, and churn analysis.
+- Design and analyse A/B tests and other experiments; interpret results with appropriate statistical rigour.
+- Translate analytical findings into actionable, easy-to-understand narratives for non-technical stakeholders.
+
+Reporting & Dashboarding
+- Design, build, and maintain interactive dashboards and reports using BI tools (Tableau, Power BI, Looker, or Superset).
+- Define and maintain business metric definitions (metric store) in collaboration with data engineering.
+- Create self-serve analytics capabilities that reduce ad-hoc query requests to the data team.
+- Ensure data accuracy and consistency across all reporting surfaces; triage and resolve data quality issues.
+
+Data Management & Collaboration
+- Write optimised, well-documented SQL queries and dbt models for data transformation.
+- Partner with data engineers to define requirements for new data pipelines and data models.
+- Collaborate with product managers to define success metrics for new features; set up pre/post launch measurement frameworks.
+- Maintain data dictionaries and analytical documentation for institutional knowledge.
+
+----------------------------------------------------------------
+REQUIRED QUALIFICATIONS
+----------------------------------------------------------------
+
+Education
+- B.Tech / B.E. / B.Sc. / B.Com (Hons) / BBA / B.Stat / B.Math or equivalent in a quantitative or business field.
+- MBA with quantitative focus (Finance, Operations, Analytics) from a reputed institution is also eligible.
+- CGPA ≥ 7.5/10 preferred.
+
+Technical Skills (Must Have)
+- Advanced SQL: window functions, CTEs, subqueries, query optimisation; proficiency in at least one warehouse (BigQuery, Snowflake, Redshift, PostgreSQL).
+- Python or R for data analysis: Pandas, NumPy, Matplotlib/Seaborn/Plotly, Scipy/Statsmodels.
+- At least one BI tool: Tableau, Power BI, Looker, Metabase, Superset, or Google Data Studio.
+- Solid understanding of statistics: hypothesis testing, confidence intervals, A/B testing, regression analysis, distributions.
+- Proficiency with Excel / Google Sheets for ad-hoc analysis and business communication.
+- Ability to work with large datasets (millions of rows) efficiently.
+
+Experience
+- 1–5 years of industry experience in a data analyst, business analyst, or analytics engineer role.
+- Demonstrated experience delivering analytical projects with measurable business impact.
+- Experience working cross-functionally with non-technical stakeholders.
+
+----------------------------------------------------------------
+PREFERRED / GOOD-TO-HAVE QUALIFICATIONS
+----------------------------------------------------------------
+- M.Tech / M.S. / MBA / M.Stat from a top-tier institution (IIMs, IITs, ISB, IISc, or equivalent).
+- Experience with dbt (data build tool) for analytics engineering.
+- Familiarity with data pipeline/orchestration tools: Airflow, Fivetran, Stitch.
+- Experience with cloud data platforms: GCP (BigQuery, Looker), AWS (Athena, Redshift), or Azure (Synapse).
+- Knowledge of product analytics platforms: Mixpanel, Amplitude, Segment, Heap.
+- Experience with ML techniques for analytics: regression, clustering, time-series forecasting (Prophet, ARIMA).
+- Familiarity with version control (Git) and analytics-as-code practices (dbt, Lightdash).
+- Domain expertise in one or more of: e-commerce, fintech, marketing analytics, growth/product analytics, supply chain analytics.
+- Kaggle or similar analytical competition participation.
+- Data-related certifications (Google Data Analytics, Tableau Desktop Specialist, Microsoft PL-300, dbt Certified).
+
+----------------------------------------------------------------
+TECHNICAL ASSESSMENT PROCESS
+----------------------------------------------------------------
+Stage 1 — Resume Screening      : Automated + Human review
+Stage 2 — SQL + Python Test     : 60-minute take-home analytical challenge
+Stage 3 — Technical Interview   : Case study + SQL walkthrough (1.5 hrs)
+Stage 4 — Business Case Round   : Stakeholder simulation, insight presentation (1 hr)
+Stage 5 — Culture + Team Fit    : Hiring manager round (45 min)
+Stage 6 — Offer
+
+----------------------------------------------------------------
+COMPENSATION & BENEFITS
+----------------------------------------------------------------
+- Market-competitive salary (75th–90th percentile for experience band)
+- Annual performance bonus (8–15% of base)
+- ₹50,000 annual learning & development budget
+- Flexible hybrid working model
+- Health insurance (self + family)
+- 25 days paid leave
+
+----------------------------------------------------------------
+EQUAL OPPORTUNITY STATEMENT
+----------------------------------------------------------------
+[Company Name] is an equal opportunity employer and does not discriminate on any protected characteristic. We actively encourage applications from underrepresented groups in analytics and tech.
+
+================================================================
+JOB ID     : DA-BIZ-2025-017
+POSTED DATE: 2025-11-01
+DEADLINE   : 2025-11-30
+================================================================

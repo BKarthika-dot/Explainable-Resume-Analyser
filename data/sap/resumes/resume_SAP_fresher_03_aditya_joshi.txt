@@ -1,0 +1,93 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+B.Tech Computer Science graduate from Savitribai Phule Pune University with a CGPA of 7.9. Completed 4-month SAP ABAP training at Siemens SAP Training Centre, Pune. Interned for 3 months at a Wipro SAP project team with exposure to real client environment. Comfortable with core ABAP programming, data dictionary, and FI module basics. Looking to grow as an SAP ABAP Developer with a focus on becoming S/4HANA-ready.
+
+----------------------------------------
+SAP SKILLS
+----------------------------------------
+ABAP              : Classical reports, ALV reports (function-module based), SELECT statements (single table, inner join, left outer join), internal tables (standard table), work areas, modularisation (form routines, function modules), basic debugging (break-points, ST22 short dump reading), data dictionary basics
+Transactions Used : SE38, SE80, SE11, SE16N, ST22, SU01 (read-only), ME21N (viewing POs), FB03 (FI document display), STMS (viewed, not administered)
+Modules           : FI (Financial Accounting) — primary (training level); MM (basic process awareness)
+FI Concepts       : Chart of accounts, company code, G/L accounts, cost centres, accounts payable/receivable, document types, posting keys, basic month-end closing concepts, FI-MM integration (GR/IR)
+SAP Architecture  : 3-tier architecture (presentation, application, database), client concept, transport system (DEV → QA → PRD), package concept, SAP NetWeaver basics
+Fiori             : Completed SAP Fiori overview course (openSAP); understands Fiori Launchpad, tile types, and OData concept; no hands-on project yet
+Modern ABAP       : Aware of ABAP 7.4+ syntax (inline declarations, table expressions); completed tutorial on SAP HANA Developer Guide (CDS view basics)
+Other Tech        : Java (intermediate — used in academic projects), SQL (MySQL), C (basic), MS Office (Excel, Word, PowerPoint)
+
+----------------------------------------
+SAP TRAINING
+----------------------------------------
+
+SAP ABAP + FI Training | Siemens SAP Training Centre | Pune
+Jul 2023 – Oct 2023 (4 months)
+
+- Structured SAP ABAP training with FI functional overview; 3 days ABAP per week, 2 days FI per week.
+- ABAP topics covered: ABAP editor (SE38), data types, internal tables, SELECT, reports (classical + ALV), function modules, basic DDIC, basic debugging.
+- FI topics: enterprise structure, G/L accounting, accounts payable, accounts receivable, asset accounting overview, controlling basics.
+- Worked in SAP ECC 6.0 practice system provided by training centre.
+- Final assessment score: 78/100; completed 3 mini-exercises.
+
+----------------------------------------
+INTERNSHIP EXPERIENCE
+----------------------------------------
+
+SAP ABAP Intern (Support Team) | Wipro Ltd — SAP Practice | Pune
+Nov 2023 – Jan 2024 (3 months)
+
+- Joined Wipro's SAP support team working on an ECC 6.0 client system in FI/MM modules.
+- Assisted senior developer in debugging a recurring FI month-end ALV report issue; identified the bug (incorrect field symbol assignment in loop) under senior guidance; fix was applied to production.
+- Wrote a basic Z-report to display G/L line items filtered by cost centre and posting date range; used by client's finance analyst for ad-hoc queries.
+- Observed and documented 4 transport request cycles (DEV → QA); created and released 1 transport request for the Z-report under supervision.
+- Attended 6 client calls as a silent observer; gained understanding of SAP support process (incident, change request, SLA).
+- Received positive written feedback from project manager: "Aditya is a fast learner with good debugging curiosity."
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Tech in Computer Science and Engineering
+Savitribai Phule Pune University (MIT College of Engineering) | 2019 – 2023
+CGPA: 7.9/10
+Relevant Coursework: Database Management Systems, Software Engineering, Object-Oriented Programming, Operating Systems, Computer Networks
+Final Year Project: "Automated Invoice Processing System"
+  - Built a web-based invoice processing system using Java (Spring Boot) + MySQL; implemented OCR using Tesseract for data extraction; mapped workflow to SAP FI accounts payable process for comparison study.
+  - Project motivation from SAP FI internship; received distinction from faculty (grade: A).
+
+----------------------------------------
+ACADEMIC SAP EXERCISES (Training)
+----------------------------------------
+
+1. Vendor Payment Aging Report
+   - ABAP classical report selecting from LFB1 and BSIK to display vendor-wise outstanding payables; selection screen with company code, vendor range, and date filters.
+   - Demonstrated in training system; reviewed by ABAP trainer.
+
+2. Material Stock Report (ALV)
+   - ALV report using REUSE_ALV_GRID_DISPLAY; selected from MARD by plant and storage location; added traffic light column for stock below minimum level.
+
+3. Function Module — Currency Conversion Wrapper
+   - Created custom function module wrapping CONVERT_TO_LOCAL_CURRENCY BAPI; called from report; practiced in SE37.
+
+----------------------------------------
+CERTIFICATIONS & LEARNING
+----------------------------------------
+- Siemens SAP Training Certificate — ABAP + FI (Oct 2023, Score: 78/100)
+- openSAP Course: "SAP Fiori for iOS" (Overview) — Completed
+- SAP Learning Hub: "Get Started with ABAP" Learning Journey — Completed (2024)
+- SAP BTP Free Trial — Account created; completed "Hello World" ABAP Cloud tutorial
+- Target: SAP C_TAW12 ABAP Certification (self-study, planning exam for Q1 2025)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Wipro SAP Intern — Written commendation from project manager (Nov 2023 – Jan 2024)
+- MIT College of Engineering — Project Distinction (Final Year Project), 2023
+- SPPU University — Above average academic standing (all semesters ≥ 7.5)
+
+========================================
+LABEL: HIGH_QUALITY_FRESHER_CANDIDATE
+SELECTION_PROBABILITY: 68%
+NOTES: Honest and specific about training-level experience; real Wipro internship with bug-fix and Z-report delivery; meaningful FI domain coverage; certification planned. Slightly narrower than Candidates 01 & 02 but genuine and verifiable. MAYBE → HIRE after Stage 2 test.
+========================================

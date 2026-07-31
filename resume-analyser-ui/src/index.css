@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-ink-900 text-ink_text font-body antialiased;
+    background-image: radial-gradient(ellipse 80% 60% at 50% -10%, rgba(184, 147, 90, 0.08), transparent);
+  }
+  ::selection {
+    background: rgba(184, 147, 90, 0.35);
+  }
+  :focus-visible {
+    outline: 2px solid #B8935A;
+    outline-offset: 2px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* Prose overrides for rendered markdown reports, tuned to the dossier register */
+.dossier-prose {
+  @apply text-ink-900;
+}
+.dossier-prose h2 {
+  @apply font-display text-[1.05rem] font-semibold tracking-tight mt-7 mb-3 pb-2 border-b border-ink-900/15 first:mt-0;
+}
+.dossier-prose h3 {
+  @apply font-body text-[0.8rem] font-semibold uppercase tracking-[0.08em] text-ink-900/60 mt-5 mb-2;
+}
+.dossier-prose p {
+  @apply text-[0.93rem] leading-relaxed mb-3 text-ink-900/85;
+}
+.dossier-prose strong {
+  @apply font-semibold text-ink-900;
+}
+.dossier-prose ul {
+  @apply list-none pl-0 mb-3 space-y-1.5;
+}
+.dossier-prose li {
+  @apply text-[0.93rem] leading-relaxed pl-4 relative text-ink-900/85;
+}
+.dossier-prose li::before {
+  content: "—";
+  @apply absolute left-0 text-brass;
+}
+.dossier-prose em {
+  @apply not-italic text-ink-900/60;
+}

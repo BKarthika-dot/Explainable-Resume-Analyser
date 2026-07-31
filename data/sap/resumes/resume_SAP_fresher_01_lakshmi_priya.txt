@@ -1,0 +1,92 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+B.Tech IT graduate from PSG College of Technology with 6 months of focused SAP ABAP and MM module training from NIIT Technologies. Completed a hands-on SAP project in a live trial system covering procurement-to-pay process automation. Familiar with SAP S/4HANA architecture and Fiori basics. Active on SAP Community with 2 answered questions. Seeking an SAP Developer role to grow in a structured SAP environment.
+
+----------------------------------------
+SAP SKILLS
+----------------------------------------
+ABAP              : Reports (classical & ALV), function modules, BAPI calls, internal tables & work areas, SELECT statements, basic OOP (classes, methods), debugging (break-points, watchpoints, ST22), data dictionary (transparent tables, views, data elements, domains)
+Transactions      : SE38, SE80, SE11, SE37, SM30, ST05, ST22, SU01, STMS (transport requests), SPRO, ME21N, ME51N, MIRO, MB51, MM60
+Modules           : MM (Materials Management) — primary; FI (basic awareness)
+MM Concepts       : Procurement cycle (PR → PO → GR → IV), vendor master, material master, valuation, info records, source list, MRP basics, storage locations
+Fiori/UI5         : Completed SAP Fiori beginner course; built 1 basic Fiori app (list report) in BTP trial using Fiori Elements + OData V4
+SAP BTP           : Set up BTP free tier; completed "Get Started with SAP BTP" Learning Journey; basic understanding of subaccounts and services
+Tools             : abapGit (connected trial system to GitHub), SAP HANA Studio (basic)
+Other             : SQL (MySQL), Java (basic), HTML/CSS (basic), Git
+
+----------------------------------------
+SAP TRAINING
+----------------------------------------
+
+SAP ABAP + MM Training | NIIT Technologies | Coimbatore
+Jul 2023 – Dec 2023 (6 months)
+
+- Completed structured 6-month SAP ABAP programming course with MM functional module.
+- Covered: ABAP workbench, data dictionary, reports (interactive, ALV), function modules, BAPIs, enhancements (user exits), Smart Forms, BDC, data migration.
+- Practised in dedicated SAP ECC 6.0 training system with 40+ hands-on exercises.
+- Built 3 mini-projects (detailed below) as part of training assessment; scored 88/100 in final evaluation.
+
+----------------------------------------
+INTERNSHIP / PROJECT EXPERIENCE
+----------------------------------------
+
+SAP ABAP Intern | Quadrant Technologies | Coimbatore
+Jan 2024 – May 2024 (5 months)
+
+- Worked in SAP support team for a manufacturing client running SAP ECC 6.0 (MM + FI modules).
+- Developed a custom ALV report to display open purchase orders grouped by vendor and delivery date; used by procurement team for daily follow-up; replaced manual Excel tracker.
+- Enhanced standard vendor evaluation report (user exit) to add custom scoring column based on on-time delivery data from Z-table.
+- Created Z-table (SM30 view) to store custom vendor delivery performance data; wrote ABAP program to populate table from batch input.
+- Assisted in writing functional spec review and raised 2 transport requests successfully to QA system.
+- Wrote unit test documentation for all developments following company template.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Tech in Information Technology
+PSG College of Technology, Coimbatore | 2019 – 2023
+CGPA: 8.3/10
+Relevant Coursework: Database Management Systems, Object-Oriented Programming, ERP Systems, Software Engineering
+Final Year Project: "ERP Process Automation for SME Manufacturing"
+  - Designed SAP-like process flow for procurement and production in an academic context; implemented database layer in MySQL; mapped processes to standard SAP T-codes.
+
+----------------------------------------
+SAP PROJECTS (Training)
+----------------------------------------
+
+1. Vendor Aging Analysis Report (ABAP ALV)
+   - Wrote ABAP ALV report pulling vendor invoice aging data from LFB1, BSIK, BSAK; grouped by vendor, company code, and aging bucket (0–30, 31–60, 60+ days).
+   - Included selection screen with multiple ranges; interactive drill-down to document level.
+   - T-codes used: SE38, SE11, SM30; debugged using ST22 and break-points.
+
+2. Purchase Order Tracking — Custom BDC
+   - Built BDC program to mass-upload purchase requisitions (ME51N) from Excel-sourced flat file; handled error log generation.
+
+3. Material Price Report (Custom Smart Form)
+   - Designed Smart Form for custom material price list with company logo and dynamic table; called via ABAP driver program.
+
+----------------------------------------
+SAP CERTIFICATIONS & LEARNING
+----------------------------------------
+- NIIT SAP ABAP + MM Training Certificate (Dec 2023, Score: 88/100)
+- SAP Learning Journey: "Get Started with SAP BTP" — Completed (learning.sap.com, 2024)
+- SAP Learning Journey: "Develop ABAP in SAP BTP" — In Progress (2024)
+- SAP Fiori Overview — OpenSAP Course (2024)
+- abapGit — Self-study; connected personal SAP BTP trial to GitHub repository
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- NIIT SAP Training — Batch Topper (Score: 88/100), 2023
+- PSG CoT — Academic Merit Certificate (CGPA ≥ 8.0 for all 8 semesters)
+- SAP Community — 2 answered questions on ABAP ALV (accepted answers)
+
+========================================
+LABEL: HIGH_QUALITY_FRESHER_CANDIDATE
+SELECTION_PROBABILITY: 72%
+NOTES: Solid NIIT training, real internship with ALV + user exit + Z-table work, specific T-code evidence, abapGit awareness. Strong Associate-level hire.
+========================================

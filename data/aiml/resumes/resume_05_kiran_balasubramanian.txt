@@ -1,0 +1,94 @@
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+AI/ML Engineer with 6 years of experience across data science, machine learning engineering, and applied research. Domain expertise in financial services ML — fraud detection, credit scoring, and time-series forecasting. Strong in both experimentation rigour (A/B testing, causal inference) and engineering discipline (low-latency serving, code quality). Holds patents and has led multiple award-winning ML initiatives.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+Statistical ML    : Regression, Classification, Clustering, Survival Analysis, Causal Inference (DoWhy, CausalML), Bayesian Methods
+Deep Learning     : PyTorch, TensorFlow, Sequence Models (LSTM, Transformer), Tabular DL (TabNet, NODE, FT-Transformer)
+LLMs              : OpenAI API, Azure OpenAI, LangChain, Semantic Kernel, Function Calling, RAG pipelines, Embeddings (text-embedding-3-large, E5)
+Time Series       : Prophet, NHiTS, PatchTST, statsmodels, sktime
+MLOps             : MLflow, Seldon Core, BentoML, Great Expectations, Soda, Feast, Airflow, dbt
+Cloud/Infra       : Azure (AML, AKS, Functions, Blob), AWS (SageMaker, Step Functions), Terraform, Docker, Kubernetes
+Explainability    : SHAP, LIME, Captum, Integrated Gradients
+Languages         : Python, R, SQL, Scala (Spark), Bash
+Databases         : PostgreSQL, Snowflake, Azure Synapse, Cosmos DB, Redis
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+Lead ML Engineer | HDFC Bank (AI CoE) | Mumbai
+Nov 2021 – Present
+
+- Owns end-to-end ML lifecycle for the bank's fraud detection platform, covering 8M+ daily transactions; ensemble model (GBM + Neural Network) achieves 98.4% precision at 0.05% false positive rate.
+- Designed real-time feature pipeline on Kafka + Redis Streams for sub-10ms feature serving; integrated with 3 downstream fraud scoring APIs.
+- Introduced LLM-powered suspicious transaction narrative generation using Azure OpenAI (GPT-4) + RAG over regulatory guidelines, reducing compliance analyst workload by 45%.
+- Built interpretability dashboard (SHAP + Streamlit) for regulatory audit readiness, reducing model documentation effort by 60%.
+- Led team of 5 (3 ML engineers, 2 data engineers); responsible for sprint planning, code review, and stakeholder presentations to CTO office.
+- Championed responsible AI framework adoption: bias auditing with Fairlearn, model cards, and automated red-team testing for all customer-facing models.
+- Presented ML strategy to RBI inspection team (2023); zero findings against ML governance.
+
+Senior Data Scientist | American Express (India Tech) | Gurugram
+Aug 2019 – Oct 2021
+
+- Developed credit limit optimization model using constrained multi-objective optimization (Bayesian + RL components); increased approved spend by $240M annually at the same risk threshold.
+- Built customer lifetime value (CLV) model using Pareto/NBD + gradient boosting hybrid; top 20% segment identified correctly with 89% precision.
+- Ran rigorous A/B experiments for ML model rollout using bootstrap confidence intervals and sequential testing; reduced false-positive model wins by 35%.
+- Migrated legacy SAS scoring pipelines to Python/Spark; reduced batch scoring time from 6 hours to 25 minutes.
+
+Data Scientist | Mu Sigma | Bengaluru
+Jun 2017 – Jul 2019
+
+- Built predictive maintenance models for manufacturing client using survival analysis + sensor time-series data; reduced unplanned downtime by 22%.
+- Developed NLP-based customer feedback categorization system using TF-IDF + SVM; 91% accuracy across 40 categories.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+MBA (Finance + Analytics)
+IIM Ahmedabad | 2015 – 2017
+CGPA: 3.8/4.0 | Gold Medalist, Quantitative Methods
+
+B.Tech in Electrical Engineering
+VJTI Mumbai | 2011 – 2015
+CGPA: 8.4/10
+
+----------------------------------------
+PATENTS
+----------------------------------------
+1. "Real-Time Adaptive Fraud Scoring Using Graph Neural Networks and Stream Processing." Patent Application IN202341082134 (Filed 2023, Under Examination).
+2. "Method and System for Explainable Credit Decisioning Using SHAP-Based Rule Extraction." Patent Application IN202241059821 (Filed 2022).
+
+----------------------------------------
+PUBLICATIONS & PRESENTATIONS
+----------------------------------------
+1. Balasubramanian K., et al. "Temporal Graph Networks for Real-Time Financial Fraud Detection." FinML Workshop, ICML 2023.
+2. Invited Talk, NASSCOM AI Summit 2023: "Responsible AI in Banking: From Theory to RBI Compliance."
+3. Invited Talk, PyData Mumbai 2022: "Causal Inference for A/B Testing in Financial Products."
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Azure AI Engineer Associate (2023)
+- FRM (Financial Risk Manager) – GARP (2020)
+- Deep Learning Specialization – Coursera (2021)
+- Causal Data Science – The Why Institute (2022)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- IIM Ahmedabad Gold Medal – Quantitative Methods, 2017
+- HDFC Bank Innovation Award (Gold), 2023 – Real-Time Fraud Detection
+- American Express Global Analytics Excellence Award, 2021
+- Kaggle: Grandmaster (top 0.1% globally, 2 competition golds)
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 91%
+NOTES: Deep domain expertise in FinML, responsible AI, patent holder, leadership at scale, Kaggle grandmaster.
+========================================

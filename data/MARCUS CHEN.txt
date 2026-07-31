@@ -1,0 +1,47 @@
+MARCUS CHEN
+
+Email: marcus.chen.analyst@gmail.com | Phone: 555-0178 | GitHub: github.com/mchen-data
+
+SUMMARY
+
+Data Analyst with 3+ years of experience translating complex datasets into actionable business strategies. Proven track record of optimizing database performance and building automated BI pipelines that directly reduced operational costs by 15%. Specialist in SQL, Python, and Tableau.
+
+TECHNICAL SKILLS
+
+Databases & SQL: PostgreSQL, Snowflake, BigQuery, Query Optimization, ETL/ELT
+
+Languages: Python (Pandas, NumPy, Scikit-Learn), R
+
+Visualization & BI: Tableau, Power BI, Looker, Dashboard Design
+
+Analytical Methods: Cohort Analysis, A/B Testing, Regression Modeling, SQL Window Functions
+
+EXPERIENCE
+
+Data Analyst | FinTech Innovations
+
+September 2024 – Present
+
+Optimized SQL queries and redesigned indexes in Snowflake, reducing dashboard load times by 40% and saving 12 hours of weekly processing time.
+
+Built a predictive customer churn dashboard in Tableau using Python-processed data, enabling the retention team to identify and save 8% of at-risk accounts.
+
+Led the analysis of a major product feature A/B test with a sample size of over 100,000 users, resulting in a 4.2% lift in user conversion.
+
+Designed automated ETL pipelines using Python, eliminating manual Excel reporting for the finance team and reducing data entry errors to zero.
+
+Junior Data Analyst | Apex Retail Group
+
+June 2023 – August 2024
+
+Developed interactive sales dashboards in Power BI used by 15+ regional managers to track daily KPIs and inventory levels.
+
+Identified a 5% leak in supply chain efficiency by conducting a deep-dive cohort analysis on shipping delays, saving $45,000 annually.
+
+Wrote and documented 50+ reusable SQL scripts to standardize monthly reporting across the business intelligence unit.
+
+EDUCATION
+
+B.S. in Statistics & Machine Learning
+
+University of Washington | Graduated 2023

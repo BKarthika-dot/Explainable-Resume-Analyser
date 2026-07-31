@@ -1,0 +1,20 @@
+
+
+PROFESSIONAL SUMMARY:
+Results-driven SAP Technical Consultant with 6 years of experience specializing in Core/Advanced ABAP and end-to-end S/4HANA migrations. Proven track record in optimizing enterprise workflows via Code Push-Down strategies, custom CDS Views, and AMDP.
+
+TECHNICAL SKILLS:
+- Languages & Core: SAP ABAP, OOPs ABAP, SQL Scripting, Java
+- S/4HANA Tech: CDS Views, AMDP, Eclipse ADT, Performance Tuning
+- Interface: OData Services, IDOC, RFC, BAPI
+- Modules Exposure: SD, MM, FICO
+
+PROFESSIONAL EXPERIENCE:
+Senior SAP Developer | TechSolutions Corp (2022 - Present)
+- Led a technical team of 4 for an end-to-end S/4HANA 2021 cloud migration framework.
+- Formulated 45+ high-performance Core Data Services (CDS) Views to optimize financial analytical reporting cycles by 40%.
+- Authored custom ABAP Managed Database Procedures (AMDP) to process high-volume inventory ledgers.
+
+SAP ABAP Consultant | Global Systems Ltd (2020 - 2022)
+- Maintained custom enhancements including modernizing legacy user exits via explicit BAdI implementations.
+- Engineered 15+ automated interactive Adobe Forms for automated shipping logistics documentation.

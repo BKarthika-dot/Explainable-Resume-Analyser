@@ -1,0 +1,94 @@
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+B.Tech Computer Science graduate from IIIT Delhi with strong coursework in machine learning, NLP, and distributed systems. Completed an NLP research internship at a funded startup. Independently built an end-to-end LLM-powered application used by 300+ real users. Active technical blogger (2,400 Medium followers) who writes accessible explanations of ML research papers. Comfortable with the full stack from model training to API deployment.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+Languages         : Python (proficient), SQL (intermediate), Java (basic), Bash
+ML/DL Frameworks  : PyTorch, Scikit-learn, XGBoost, LightGBM, Hugging Face Transformers, PEFT (LoRA/QLoRA)
+LLMs & NLP        : LangChain, LlamaIndex, RAG pipelines, vector databases (FAISS, ChromaDB), OpenAI API, Groq API, Llama-3, Mistral, prompt engineering, function calling, embeddings
+MLOps             : FastAPI, Docker, Weights & Biases, DVC, Git/GitHub Actions (basic CI/CD), Streamlit, Gradio
+Cloud             : AWS (EC2, S3, Lambda — self-study, certified), GCP (Colab, basic Vertex AI)
+Data              : Pandas, NumPy, Matplotlib, Seaborn, SQL (PostgreSQL, SQLite), web scraping (BeautifulSoup, Selenium)
+Math & Stats      : Linear algebra, probability, statistics, Bayesian inference basics
+
+----------------------------------------
+INTERNSHIP EXPERIENCE
+----------------------------------------
+
+NLP Engineer Intern | Slang Labs (Y Combinator W19) | Bengaluru (Remote)
+Jan 2024 – Jun 2024 (6 months)
+
+- Built a multilingual intent detection system for Slang's voice commerce SDK; fine-tuned XLM-RoBERTa on a proprietary dataset of 40,000 annotated voice queries across English, Hindi, and Telugu; macro F1 of 0.91.
+- Reduced model size by 40% with LoRA fine-tuning without accuracy regression; enabling deployment to SDK clients with stricter latency requirements.
+- Constructed automated data collection pipeline (Python + regex + human review workflow) to generate training data from production query logs; reduced annotation cost by 60%.
+- Integrated model into Slang's CI pipeline with pytest unit tests and W&B experiment tracking; all PRs blocked if evaluation F1 dropped below threshold.
+- Wrote detailed internal technical report: "Multilingual Compact Models for Voice Commerce NLP" — referenced in Slang's engineering blog post.
+
+ML Intern | Quantiphi Analytics | Delhi (Remote)
+May 2023 – Jul 2023 (2 months)
+
+- Worked on a document classification system for a US insurance client; fine-tuned DistilBERT on 12-class document taxonomy; F1 of 0.90 on test set.
+- Built preprocessing pipeline for 15,000 scanned PDF documents (text extraction, cleaning, normalisation).
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Tech in Computer Science and Engineering
+IIIT Delhi | 2020 – 2024
+CGPA: 8.6/10
+Relevant Coursework: Machine Learning, Natural Language Processing, Deep Learning, Statistical Methods, Algorithm Design, Distributed Systems
+Capstone Project: "PaperPal — AI Research Assistant Using RAG and LLM Agents"
+  - Built an agent that ingests arXiv papers (PDF → embeddings → ChromaDB), answers questions about them, and compares findings across papers; used GPT-3.5 + LangChain Agents.
+  - Deployed on AWS EC2; 300+ active users (promoted on r/MachineLearning).
+  - GitHub: 220+ stars.
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. PaperPal — AI Research Assistant (see Capstone above)
+   - Live at paperpal-demo.com; handles 50+ daily queries; monitoring via custom FastAPI logging + Grafana (self-hosted).
+
+2. Hindi Abstractive Summarisation
+   - Fine-tuned mBART-50 on Hindi news summarisation dataset (IndicNLG suite); ROUGE-L of 0.38; published model on HuggingFace with 800+ downloads.
+
+3. Stock Sentiment + Price Prediction
+   - Scraped Moneycontrol news using Selenium; built VADER + FinBERT sentiment pipeline; combined with technical indicators for next-day price direction classification; 61% accuracy (baseline: 52%); published analysis notebook.
+
+4. ML Paper Implementations (GitHub Series)
+   - Implemented 8 seminal ML papers from scratch in PyTorch (Attention Is All You Need, DDPM, ViT, VAE, Word2Vec, etc.); each with detailed README and annotated code.
+   - GitHub: 390+ total stars across series; referenced in 4 ML learning community blogs.
+
+----------------------------------------
+TECHNICAL BLOG (Medium — 2,400 followers)
+----------------------------------------
+- "RAG from Scratch: A Practical Guide" — 14,000 reads, top ML article in week of publish
+- "LoRA Fine-tuning in 100 Lines of PyTorch" — 9,800 reads
+- "How Attention Actually Works (With Diagrams)" — 7,200 reads
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- AWS Certified Cloud Practitioner (2024)
+- Deep Learning Specialization — deeplearning.ai (2023)
+- LLMOps — deeplearning.ai (2024)
+- Generative AI with LLMs — AWS / deeplearning.ai (2024)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- IIIT Delhi Dean's List (top 15%), 2022, 2023, 2024
+- 1st Place, IIIT Delhi Hackathon (AI/ML Track), 2023
+- PaperPal featured on r/MachineLearning (top post of the week)
+- HuggingFace model trending (Hindi summarisation) — Week of Feb 2024
+
+========================================
+LABEL: HIGH_QUALITY_FRESHER_CANDIDATE
+SELECTION_PROBABILITY: 86%
+NOTES: IIIT Delhi + strong LLM/RAG project in production, paper implementations show depth, Medium presence signals communication strength. Strong L3 candidate.
+========================================

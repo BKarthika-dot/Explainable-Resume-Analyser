@@ -1,0 +1,33 @@
+B Karthika 
+City: Chennai, Tamil Nadu 
+Phone Number: 8056101167 
+Email: bkarthika1203@gmail.com 
+Github: BKarthika-dot 
+Linkedin: (39) Karthika Balasubramanian | LinkedIn 
+EDUCATION 
+Bachelor of Technology (B.Tech) in Computer Science (Core) 
+2024-2028 (Expected) 
+CGPA: 8.99/10 
+TECHNICAL SKILLS 
+Languages: Python, C, Java 
+Machine Learning: Supervised Learning, CNNs, Random Forest, XGBoost, Keras, TensorFlow 
+Explainability: SHAP, LIME, Causal Learning, Fairness Analysis 
+Tools: VS Code, Git, Jupyter Notebook 
+Databases: MongoDB 
+PROJECTS 
+Voice-Based Interview Preparation Assistant  
+● Built a voice-driven interview simulation app using the Deepgram API with real-time 
+transcription, dynamic response generation, Flutter and Render for deployment, and 
+MongoDB-based transcript and performance storage.  
+Interpretable and Causally Validated Recruitment System 
+● Developed a supervised ML model to predict candidate hiring probability; performed 
+global and local interpretability using SHAP and implemented a counterfactual fairness 
+probe to evaluate demographic sensitivity and ethical robustness. 
+Explainable Heart Stroke Risk Prediction (Comparative Study) 
+● SHAP-driven interpretability analysis for RF vs. XGBoost models for imbalanced 
+classification. 
+Multiclass Image Classification using CNNs 
+● Built and optimized CNN architectures for multiclass image classification, improving 
+validation performance and generalization. 
+INTERESTS 
+Explainable AI • Machine Learning • Human-AI Systems

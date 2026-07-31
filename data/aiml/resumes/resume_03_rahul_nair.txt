@@ -1,0 +1,97 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+Senior AI/ML Engineer with 5+ years of experience building large-scale ML platforms and productionizing deep learning models. Specializes in MLOps, distributed training, and model optimization for real-time inference. Experienced in leading cross-functional teams and driving ML strategy at product companies. Strong foundation in mathematics and software engineering.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+ML/DL             : Supervised/Unsupervised Learning, Reinforcement Learning (basics), Ensemble Methods, Neural Architecture Search
+Deep Learning     : PyTorch, TensorFlow, ONNX, TensorRT, OpenVINO, CoreML
+LLMs & GenAI      : LangChain, GPT-4 API, Claude API, Cohere, Vector Databases (Pinecone, Qdrant, FAISS), Embeddings
+MLOps             : MLflow, Weights & Biases, SageMaker Pipelines, Vertex AI Pipelines, Argo Workflows, Airflow, DVC
+Inference Serving : Triton Inference Server, TorchServe, BentoML, vLLM, Ray Serve
+Distributed       : Ray, Horovod, DeepSpeed, FSDP (PyTorch)
+Cloud             : AWS (SageMaker, EKS, EC2, S3, Lambda), GCP (Vertex AI, GKE), Azure ML
+Infra/DevOps      : Docker, Kubernetes, Helm, Terraform, GitHub Actions, Jenkins
+Languages         : Python, Java, SQL, Bash
+Monitoring        : Prometheus, Grafana, Datadog, Arize AI, WhyLabs
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+Staff ML Engineer | Juspay Technologies | Hyderabad
+Mar 2023 – Present
+
+- Designed and owns the company-wide ML platform serving 30+ models across fraud detection, payment routing, and risk scoring — processing 50M+ transactions per day.
+- Reduced model serving P99 latency from 120ms to 18ms by migrating to Triton Inference Server with TensorRT optimization and dynamic batching.
+- Led adoption of vLLM for internal LLM deployments, enabling 8x throughput improvement on A10G GPUs compared to naive HuggingFace inference.
+- Built a self-serve feature platform (using Feast + Redis + Kafka) enabling 12 product teams to register, share, and serve features without ML platform team involvement.
+- Architected RAG-powered transaction explanation system for customer support agents; integrated GPT-4 with proprietary transaction graph embeddings.
+- Managed a team of 3 ML engineers and 1 data engineer; responsible for quarterly OKR setting and performance reviews.
+
+ML Engineer | Walmart Global Tech | Bengaluru
+Aug 2020 – Feb 2023
+
+- Built demand forecasting system using temporal fusion transformers (TFT) for 2M+ SKUs; MAPE improved by 18% over legacy ARIMA baselines, saving $12M in overstock costs annually.
+- Developed real-time price elasticity model using causal ML (DoWhy) to optimize promotional pricing across 500+ product categories.
+- Implemented distributed training pipeline for large tabular models using Ray Train on AWS EMR, reducing training time from 14 hours to 90 minutes.
+- Collaborated with data platform team to build data quality monitoring pipeline using Great Expectations + Airflow, catching 95% of upstream data issues before model retraining.
+
+ML Engineer (Associate) | Mphasis | Bengaluru
+Jun 2019 – Jul 2020
+
+- Built OCR + NLP pipeline for automated insurance document processing using Tesseract + spaCy; reduced manual review workload by 70%.
+- Developed a propensity-to-buy model for a UK retail client using logistic regression and random forests; deployed as a batch scoring job on Azure Data Factory.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Tech in Computer Science and Engineering
+IIT Hyderabad | 2015 – 2019
+CGPA: 8.9/10 | Minor in Statistics and Data Science
+Capstone: "Distributed Training Strategies for Large-Scale Graph Neural Networks"
+
+----------------------------------------
+OPEN SOURCE & PROJECTS
+----------------------------------------
+
+1. FastInfer (Personal Project, 180+ GitHub Stars)
+   - Lightweight Python library for benchmarking and profiling ML model inference across frameworks (PyTorch, ONNX, TensorRT); used by 20+ teams internally.
+
+2. LLM Evaluation Toolkit
+   - Contributed to open-source RAGAS framework; added faithfulness evaluation metric for multi-hop RAG pipelines (merged PR).
+
+3. Kaggle — Merchant Transaction Fraud Detection
+   - 4th place (top 0.5%) out of 2,800 teams; used gradient boosting + neural network stacking with custom temporal features.
+
+----------------------------------------
+TALKS & COMMUNITY
+----------------------------------------
+- Speaker, PyCon India 2023: "Taming LLM Latency in Production"
+- Organizer, Hyderabad MLOps Meetup (monthly, 400+ members)
+- Technical Reviewer, "Designing Machine Learning Systems" (O'Reilly, Chip Huyen)
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- AWS Certified ML Specialty (2022)
+- CKA – Certified Kubernetes Administrator (2023)
+- MLflow Certified Practitioner (2023)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Juspay Engineering Excellence Award, 2024
+- Walmart Tech Innovation Award, 2022 (Demand Forecasting Project)
+- Patent Filed: "Dynamic Batching Strategy for Heterogeneous ML Workloads" (Application No. 202341058234)
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 94%
+NOTES: Exceptional MLOps depth, systems design, distributed training, leadership experience, patent.
+========================================

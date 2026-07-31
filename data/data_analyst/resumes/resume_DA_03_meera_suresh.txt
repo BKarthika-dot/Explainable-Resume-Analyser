@@ -1,0 +1,86 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+Data Analyst with 3 years of experience in e-commerce and marketing analytics. Skilled in building scalable reporting infrastructure, marketing attribution models, and customer analytics. Strong communicator who has presented findings to C-suite and external partners. MBA from IIM Kozhikode combined with technical analytics skills gives me a rare business-plus-data perspective.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+SQL               : Advanced SQL, BigQuery (proficient), PostgreSQL, Redshift, window functions, CTEs, complex aggregations
+Python            : Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Scipy, Prophet (time-series)
+BI & Reporting    : Tableau (Desktop + Server), Looker (LookML — intermediate), Google Data Studio
+Marketing Tools   : Google Analytics 4, Appsflyer, CleverTap, Braze, Facebook Ads API
+Data Engineering  : dbt (models, sources, macros), Fivetran, GCP Dataflow (basic)
+Statistics        : Marketing mix modelling, multi-touch attribution, A/B testing, regression, customer segmentation
+Domains           : E-commerce, marketing analytics, D2C growth, customer retention
+Other             : Excel, Git, JIRA, Notion
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+Data Analyst | Nykaa | Chennai
+Aug 2022 – Present
+
+- Own marketing analytics for Nykaa's performance marketing team with ₹180 Cr+ annual ad budget; built attribution model (data-driven, Shapley value-based) replacing last-click, reallocating 22% of budget to better-performing channels.
+- Built customer LTV model using BG/NBD + Gamma-Gamma in Python; identified high-LTV customer cohorts for preferential acquisition; ROAS improved by 1.7x for targeted campaigns.
+- Designed and maintain Nykaa Marketing Dashboard (Tableau + BigQuery); used daily by 25+ marketing managers and 3 brand heads — replaced 8 siloed spreadsheet reports.
+- Ran A/B tests for email subject lines, push notification timing, and loyalty reward mechanics across 6M+ user base; 9 experiments with statistically significant wins improving open rates by 31% and GMV by ₹12 Cr.
+- Partnered with engineering to define GA4 + Appsflyer event taxonomy for app relaunch; ensured zero instrumentation gaps across 40 tracked events.
+
+Business Analyst | Myntra | Bengaluru
+Jun 2021 – Jul 2022
+
+- Analysed fashion category performance across 200+ brands; delivered quarterly brand scorecards to Category VP influencing shelf space and margin negotiation.
+- Built sell-through rate forecasting model (Prophet + XGBoost ensemble) for seasonal inventory planning; over/under-stock events reduced by 27% in pilot categories.
+- Automated weekly returns analysis report (Python + BigQuery + email); identified sizing-related returns as top driver, leading to size-chart revisions across 50 brands (returns dropped 14%).
+
+Summer Analyst | McKinsey & Company (BI & Analytics Practice) | Chennai
+Apr 2020 – Jun 2020
+- Supported retail client analytics engagement; built market basket analysis (Apriori algorithm) to redesign planogram for 120 SKUs; cross-sell revenue up 9%.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+MBA (Marketing & Operations)
+IIM Kozhikode | 2019 – 2021
+GPA: 3.7/4.0 | Academic Excellence Award
+
+B.E. Computer Science
+SSN College of Engineering, Chennai | 2015 – 2019
+CGPA: 8.8/10
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. Indian D2C Brands Growth Tracker (Public Dashboard)
+   - Tableau Public dashboard tracking revenue, app ratings, and social engagement for 30 top D2C brands; 3,500+ views; cited in Economic Times article on D2C analytics.
+
+2. Marketing Mix Modelling — Open Dataset Study
+   - Implemented Robyn (Facebook's open-source MMM) on public dataset; published detailed Medium walkthrough (2,100+ claps).
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Google Analytics 4 Certification (2023)
+- Tableau Desktop Specialist (2022)
+- Marketing Analytics — Wharton Online (Coursera, 2022)
+- dbt Fundamentals — dbt Labs (2023)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- IIM Kozhikode Academic Excellence Award, 2021
+- Nykaa Analytics Hero Q2 2023 — Marketing Attribution Project
+- Speaker, Google Analytics Summit India 2023 (invited): "GA4 Migration Lessons from Nykaa"
+- Top Tableau Public Author — 5,000+ combined dashboard views
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 85%
+NOTES: Strong IIM background, marketing analytics domain depth, public dashboard visibility, excellent communication evidence.
+========================================

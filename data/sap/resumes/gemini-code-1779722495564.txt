@@ -1,0 +1,19 @@
+
+
+PROFESSIONAL SUMMARY:
+Accomplished Senior SAP Full-Stack Developer with 7.5 years of industry experience managing enterprise-grade system lifecycles. Expert in blending core database layer optimization with modern responsive Fiori application delivery.
+
+TECHNICAL SKILLS:
+- Full-Stack SAP: S/4HANA CDS/AMDP, OOP ABAP, SAPUI5, SAP Fiori Launchpad
+- Middle Layer: OData (V2/V4), Web Services, Gateway Architecture
+- DevOps & Tools: Git, Eclipse ADT, JIRA, SAP Transport Management (STMS)
+
+PROFESSIONAL EXPERIENCE:
+Lead SAP Technical Architect | Prime Enterprise Platforms (2021 - Present)
+- Supervised technical architecture for 3 successful SAP implementation tracks covering Sales, Finance, and Materials management modules.
+- Devised custom full-stack solutions uniting deep HANA AMDP database execution tracks with clean SAPUI5 interfaces.
+- Introduced modern software practices including Git version control tracking across custom ABAP landscapes via abapGit frameworks.
+
+Senior SAP ABAP Developer | Apex Consultancies (2019 - 2021)
+- Developed reusable background automation frameworks utilizing customized dynamic variants.
+- Conducted deep code profiling assessments reducing technical transaction latencies by an average of 35%.

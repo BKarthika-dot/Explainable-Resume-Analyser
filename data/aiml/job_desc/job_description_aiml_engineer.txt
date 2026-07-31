@@ -1,0 +1,126 @@
+================================================================
+JOB DESCRIPTION
+================================================================
+POSITION     : AI/ML Engineer
+DEPARTMENT   : Artificial Intelligence & Machine Learning
+REPORTING TO : Head of AI/ML Engineering
+LOCATION     : Bengaluru / Hyderabad / Mumbai / Remote (India)
+EMPLOYMENT   : Full-Time
+EXPERIENCE   : 2 – 7 Years
+================================================================
+
+----------------------------------------------------------------
+ABOUT THE COMPANY
+----------------------------------------------------------------
+[Company Name] is a fast-growing product technology company building intelligent data-driven products used by 10M+ users across South and Southeast Asia. Our AI/ML team of 40+ engineers works on cutting-edge problems in NLP, computer vision, recommendation systems, and generative AI. We believe in deploying ML that makes a measurable real-world impact — at scale, reliably, and responsibly.
+
+We are a meritocratic, engineering-first culture with strong investment in R&D. Joining our AI team means you own your models end-to-end: from research and experimentation through deployment and monitoring.
+
+----------------------------------------------------------------
+ROLE OVERVIEW
+----------------------------------------------------------------
+We are looking for a skilled and passionate AI/ML Engineer to join our growing ML team. You will work on some of the most exciting challenges in applied machine learning — from building LLM-powered intelligent features to deploying real-time inference systems at scale. You'll partner closely with product, data engineering, and platform teams to bring ML features to production.
+
+This role sits at the intersection of research and engineering: you need to think rigorously about models and also care deeply about production quality.
+
+----------------------------------------------------------------
+KEY RESPONSIBILITIES
+----------------------------------------------------------------
+
+Model Development & Research
+- Design, prototype, and evaluate ML/DL models for business problems across NLP, recommendation, forecasting, and/or computer vision domains.
+- Stay current with the latest ML research (papers, benchmarks, open-source releases) and identify opportunities to apply state-of-the-art techniques.
+- Conduct rigorous offline evaluation using appropriate metrics; design and interpret A/B and online experiments.
+- Fine-tune pre-trained foundation models (LLMs, ViTs, etc.) for domain-specific tasks using techniques like LoRA, QLoRA, adapter tuning, and RLHF/RLAIF.
+- Build and maintain RAG (Retrieval-Augmented Generation) pipelines and agentic AI workflows.
+
+ML Engineering & Production
+- Build scalable, maintainable, production-ready ML pipelines from data ingestion through model serving.
+- Optimize models for low-latency, high-throughput inference (quantization, distillation, batching, TensorRT, ONNX).
+- Develop and maintain REST/gRPC APIs for real-time model serving using FastAPI, BentoML, or Triton Inference Server.
+- Implement automated model monitoring for data drift, concept drift, and performance degradation.
+- Write clean, well-tested Python code; participate in peer code reviews.
+
+MLOps & Infrastructure
+- Manage the full ML lifecycle using tools such as MLflow, Weights & Biases, DVC, and Kubeflow/Vertex AI Pipelines.
+- Containerize and deploy models using Docker and Kubernetes on AWS/GCP/Azure.
+- Build and maintain CI/CD pipelines for automated model training, evaluation, and deployment.
+- Collaborate with data engineers to design reliable feature pipelines and feature stores.
+
+Collaboration & Communication
+- Work cross-functionally with product managers, data engineers, and software engineers to deliver ML-powered features.
+- Translate complex model behaviour and limitations into clear communication for non-technical stakeholders.
+- Mentor junior engineers; contribute to internal ML documentation, best practices, and knowledge sharing.
+- Participate in research reading groups and internal tech talks.
+
+----------------------------------------------------------------
+REQUIRED QUALIFICATIONS
+----------------------------------------------------------------
+
+Education
+- B.Tech / B.E. / M.Tech / M.S. / Ph.D. in Computer Science, Electrical Engineering, Statistics, Mathematics, or a related quantitative field from a reputed institution.
+- Strong academic record preferred (CGPA ≥ 7.5/10 or equivalent).
+
+Technical Skills (Must Have)
+- Proficiency in Python (3+ years); familiarity with software engineering best practices (version control, testing, code review).
+- Strong working knowledge of at least one major ML/DL framework: PyTorch or TensorFlow.
+- Hands-on experience with the Hugging Face ecosystem (Transformers, Datasets, Accelerate, PEFT).
+- Solid understanding of ML fundamentals: supervised/unsupervised learning, model evaluation, regularization, optimization.
+- Experience building or using LLMs in production: prompt engineering, fine-tuning (LoRA/QLoRA), RAG pipelines, vector databases (FAISS, Pinecone, Weaviate, Chroma).
+- Experience deploying ML models to cloud platforms (AWS SageMaker / GCP Vertex AI / Azure ML).
+- Familiarity with containerization (Docker) and basic Kubernetes usage.
+- Proficiency with SQL; ability to work with large datasets.
+
+Experience
+- 2–7 years of industry experience as an ML Engineer, Data Scientist, or Applied Researcher with a strong emphasis on ML engineering.
+- Demonstrated experience taking ML models from experimentation to production (not just notebook work).
+- At least one end-to-end ML project with measurable business impact.
+
+----------------------------------------------------------------
+PREFERRED / GOOD-TO-HAVE QUALIFICATIONS
+----------------------------------------------------------------
+- M.Tech / M.S. / Ph.D. in a relevant field from a top-tier institution (IITs, IISc, NITs, BITS, or equivalent international university).
+- Publications or pre-prints in top ML venues (NeurIPS, ICML, ICLR, ACL, EMNLP, CVPR, ECCV, ICCV, etc.) or workshops.
+- Contributions to open-source ML projects or active GitHub presence.
+- Experience with distributed training (DeepSpeed, FSDP, Horovod, Ray Train) for large models.
+- Experience with MLOps tooling at scale: Kubeflow, Argo Workflows, Metaflow, SageMaker Pipelines.
+- Knowledge of model explainability and fairness tools (SHAP, LIME, Fairlearn, Aequitas).
+- Experience with graph neural networks, time-series forecasting, or multimodal models.
+- Kaggle / competitive ML competition experience (Expert, Master, or Grandmaster rank).
+- Cloud certifications: AWS ML Specialty, GCP Professional ML Engineer, Azure AI Engineer.
+- Patent filings or awards in AI/ML.
+- Demonstrated mentorship or technical leadership experience.
+- Active presence in the AI community: blogging, speaking, meetup organization.
+
+----------------------------------------------------------------
+TECHNICAL ASSESSMENT PROCESS
+----------------------------------------------------------------
+Stage 1 — Resume Screening      : Automated + Human review (this system)
+Stage 2 — Online Assessment     : 90-minute coding + ML concepts test
+Stage 3 — Technical Interview 1 : ML fundamentals, case study (1.5 hrs)
+Stage 4 — Technical Interview 2 : System design (ML system design), coding (1.5 hrs)
+Stage 5 — Culture + Leadership  : Hiring manager + team culture fit (1 hr)
+Stage 6 — Offer                 : Reference check + offer
+
+----------------------------------------------------------------
+COMPENSATION & BENEFITS
+----------------------------------------------------------------
+- Competitive salary benchmarked at 90th percentile for experience band
+- ESOPs with 4-year vesting (1-year cliff)
+- Annual performance bonus (10–20% of base)
+- ₹1 Lakh annual learning & development budget
+- Access to GPU compute for personal ML projects
+- Flexible hybrid working model
+- Health insurance (self + family), term life insurance
+- 30 days of paid leave
+
+----------------------------------------------------------------
+EQUAL OPPORTUNITY STATEMENT
+----------------------------------------------------------------
+[Company Name] is an equal opportunity employer. We do not discriminate on the basis of gender, caste, religion, disability, or any other protected characteristic. We actively encourage applications from underrepresented groups in tech.
+
+================================================================
+JOB ID     : AIML-ENG-2025-043
+POSTED DATE: 2025-11-01
+DEADLINE   : 2025-11-30
+================================================================

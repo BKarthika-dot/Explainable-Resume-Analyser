@@ -1,0 +1,90 @@
+================================================================
+JOB DESCRIPTION
+================================================================
+POSITION     : Associate SAP Technical Developer (Fresher / Entry-Level)
+DEPARTMENT   : Enterprise Resource Planning (ERP) & Engineering
+REPORTING TO : SAP Delivery Lead / Senior Technical Architect
+LOCATION     : Bengaluru / Hyderabad / Mumbai / Remote (India)
+EMPLOYMENT   : Full-Time
+EXPERIENCE   : 0 – 2 Years
+================================================================
+
+----------------------------------------------------------------
+ABOUT THE COMPANY
+----------------------------------------------------------------
+[Company Name] is a fast-growing product technology company building intelligent data-driven products used by 10M+ users across South and Southeast Asia. Our core operations depend on a highly integrated, sub-second latency ERP backbone. 
+
+We believe in grooming the next generation of enterprise architects. Our engineering culture values core logical principles, problem-solving speed, and clean code fundamentals over years of corporate tenure. Joining as an Associate means you will enter an intensive fast-track mentorship ecosystem, transitioning from academic logic into building robust real-world production business systems.
+
+----------------------------------------------------------------
+ROLE OVERVIEW
+----------------------------------------------------------------
+We are looking for a motivated Associate Technical Developer to join our core ERP Engineering team. In this role, you will bridge the gap between academic programming languages and high-performance enterprise tech stacks. Guided by senior mentors, you will assist in developing custom business logic, optimizing database query routines, and crafting responsive web front-ends.
+
+This role is designed for a curious software engineer who loves algorithmic optimization, values data integrity, and wants to understand how code drives massive economic systems behind the scenes.
+
+----------------------------------------------------------------
+KEY RESPONSIBILITIES
+----------------------------------------------------------------
+
+Foundational Programming & Development
+- Write clean, structured, and modular code using Object-Oriented paradigms to fulfill business application design sheets.
+- Learn core SAP ABAP programming conventions (dictionary objects, internal tables, modularization logic, selection structures).
+- Re-factor legacy procedural structures into clean, test-driven object methods under senior developer review.
+- Support production environments by participating in runtime diagnostic logs checks, debugging code executions, and resolving baseline application errors.
+
+Relational Database & Query Optimization
+- Formulate, write, and execute optimized SQL queries across distributed data structures.
+- Assist in constructing native SAP HANA artifacts, including foundational Core Data Services (CDS) Views and basic database aggregation procedures.
+- Participate in database performance tracing cycles using execution logs to find and clear structural bottlenecks.
+
+Modern UI5 Front-End & System Integration
+- Design and develop clean, responsive user interfaces using HTML5, CSS3, JavaScript, and native SAPUI5 layout toolkits.
+- Assist in binding frontend views to backend data engines by mapping gateway OData services (REST/JSON endpoints).
+- Use standard code repository tools (Git / Github / abapGit) to handle safe branch version management.
+
+Engineering Collaboration
+- Actively participate in sprint meetings, code reviews, and cross-functional specifications breakdowns with senior engineers.
+- Maintain accurate documentation of written logic modules, entity relationship models, and interface parameters mapping records.
+
+----------------------------------------------------------------
+REQUIRED QUALIFICATIONS
+----------------------------------------------------------------
+
+Education & Foundational Parameters
+- B.Tech / B.E. / M.Tech / MCA in Computer Science, Information Technology, or an allied quantitative engineering track from a recognized institution.
+- Strong academic track record preferred (CGPA ≥ 7.5/10 or equivalent).
+- Strong baseline knowledge of Core Object-Oriented Programming (OOP) concepts and Relational Database Management Systems (RDBMS).
+
+Technical Skills (Must Have)
+- Fluency in at least one standard programming language (Python, Java, C++, JavaScript, or Core ABAP).
+- Solid knowledge of SQL fundamentals: selecting records, applying aggregations, and constructing multi-table joins.
+- Familiarity with web application fundamentals: HTML DOM structure, CSS layout styling, and core JavaScript array/object manipulation.
+- Analytical mindset with excellent debugging logic and problem-solving velocity.
+
+----------------------------------------------------------------
+PREFERRED / GOOD-TO-HAVE QUALIFICATIONS
+----------------------------------------------------------------
+- Completion of a structured SAP ABAP technical training module (e.g., NIIT or similar ecosystem training certificate).
+- Familiarity with the SAP S/4HANA interface framework, core standard tables (e.g., MM, SD, FICO master sets), or SAP Learning Hub progress paths.
+- Completed an academic or independent full-stack web application development portfolio displaying active database connections.
+- Basic understanding of version control toolsets like Git.
+
+----------------------------------------------------------------
+ASSOCIATE ASSESSMENT PROCESS
+----------------------------------------------------------------
+Stage 1 — Resume Screening  : Automated + Human review (Track B Matrix evaluation)
+Stage 2 — Online Assessment : 60-minute aptitude, logical reasoning, and basic pseudo-code/SQL challenge
+Stage 3 — Technical Round   : Core programming logic, object concepts, database joins, and algorithmic problem-solving
+Stage 4 — Management Fit    : Discussion on learnability, collaborative attributes, and project histories
+Stage 5 — Offer Deployment  : Credential verification and onboarding scheduling
+
+----------------------------------------------------------------
+COMPENSATION & BENEFITS
+----------------------------------------------------------------
+- Competitive entry-level salary benchmarked at top-tier industry percentiles
+- Guaranteed performance appraisal path upon completion of core engineering milestones
+- Dedicated training budget for formal professional SAP Associate Certifications
+- Active mentorship matching with individual Senior Technical Leads
+- Full health insurance and leave allocations
+================================================================

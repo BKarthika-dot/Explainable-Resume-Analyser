@@ -1,0 +1,85 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+Data Analytics Specialist with 6+ years of experience designing modern cloud-native business intelligence architectures, complex relational data pipelines, and executive forecasting matrices. Industry master at configuring massive corporate data warehouses with a specialized focus on designing isolated analytics sandbox schemas within cloud storage environments, enabling functional analysts to execute heavy exploratory SQL scripts safely. Expert in statistical modeling via R Studio and advanced Python scripting.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+Cloud Platforms  : Snowflake Cloud Platform, Google BigQuery, AWS Redshift, PostgreSQL
+Data Analytics   : Advanced SQL (CTEs, Window Functions, Query Profiling), Python (Pandas, NumPy, SciPy), R Studio
+BI & Visualization: Tableau Desktop/Server, PowerBI, Looker, Metabase, Superset
+Data Engineering : Apache Airflow, dbt (Data Build Tool), Fivetran, Stitch, Data Pipelines
+Statistical Tech : Hypothesis Testing, ANOVA, Z-Tests, A/B Testing Distributions, Regression Analysis
+ETL & Modeling   : Star Schema, Snowflake Schema, Relational Database Modeling, Dimensional Mapping
+Version Control  : Git, GitLab CI/CD, Automated Reporting Pipelines
+
+----------------------------------------
+PROFESSIONAL EXPERIENCE
+----------------------------------------
+
+Lead Analytics Consultant | InMobi | Hyderabad
+Aug 2022 – Present
+
+- Designed a highly scalable enterprise data layout within the Snowflake cloud platform, establishing dedicated analytics sandbox schemas that provide isolated testing domains for local teams to run massive exploratory SQL queries without affecting core production performance.
+- Engineered automated data transformation architectures using dbt and Snowflake streams, converting 100M+ messy transactional database rows into clean, indexed executive summaries.
+- Leveraged Python analytical libraries (Pandas, NumPy, SciPy) alongside advanced SQL window functions to execute granular hypothesis testing, tracking user retention metrics on interactive dashboards.
+- Constructed comprehensive automated reporting layouts in Tableau, decreasing executive dependency on manual data curation by 14 hours weekly.
+- Conducted regular multi-way ANOVA variance distributions inside R Studio to assess marketing campaign attribution models, restructuring channel budget allocations.
+- Mentored 4 junior analysts; established corporate SQL optimization guidelines and query profiling standards.
+
+Data Analyst | Tech Mahindra | Hyderabad
+Jul 2020 – Jul 2022
+
+- Constructed interactive operational tracking dashboards using PowerBI connected directly to localized SQL Server systems, supporting real-time logistics analytics.
+- Used R Studio and Python scripting to clean, format, and visualize complex regional sales patterns using advanced bar diagrams and distribution charts.
+- Configured automated ingestion pipelines using Fivetran to sync distributed SaaS product application logs directly into centralized cloud warehouses.
+- Audited enterprise data cleanliness indexes, dropping internal discrepancy error matrices by 28%.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+M.S. in Data Analytics (Quantitative Methods Track)
+IIT Hyderabad | 2018 – 2020
+CGPA: 9.0/10 | Thesis: "Statistical Optimization Strategies for High-Volume Distributed Cloud Warehouses"
+
+B.Tech in Information Technology
+JNTU Hyderabad | 2014 – 2018
+CGPA: 8.5/10
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. Snowflake Schema Optimization Toolkit
+   - Created an open-source custom dbt package to audit and profile slow-running SQL subqueries inside a Snowflake cloud database.
+   - GitHub: 180+ stars; adopted by multiple localized consulting engineering teams.
+
+2. Automated R-Based Statistical Evaluator
+   - Programmed a script suite in R Studio that automatically ingests CSV parameters, runs ANOVA/Z-tests, and generates clean visualization charts.
+
+3. Open-Source Metabase Analytics Layouts
+   - Created interactive visualization configurations utilizing open-source Metabase modules to support real-time application database debugging.
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Snowflake Certified Advanced Data Engineer (2023)
+- Tableau Desktop Certified Professional (2021)
+- Microsoft Certified: Power BI Data Analyst (2022)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Winner, InMobi Data-Dive Hackathon (Business Intelligence Track), 2023
+- Top 2% across global SQL optimization and data modeling tracking forums
+- Best Innovation Award – IIT Hyderabad Data Symposium, 2020
+
+========================================
+LABEL: HIGH_QUALITY_CANDIDATE
+SELECTION_PROBABILITY: 93%
+NOTES: Strong mastery of Snowflake structures, high analytical capability via R Studio, clear design patterns implementing data sandbox security, and advanced SQL proficiency.
+========================================

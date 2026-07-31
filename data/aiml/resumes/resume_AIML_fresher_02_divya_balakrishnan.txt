@@ -1,0 +1,88 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+B.Tech Computer Science graduate from PSG College of Technology with a strong self-driven ML portfolio. Completed a machine learning internship at a healthtech startup where I built and deployed a real computer vision model to production. Passionate about computer vision and generative AI. Kaggle Expert with 2 silver medals. All projects are end-to-end — from data collection to deployed demo.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+Languages         : Python (proficient), SQL (intermediate), JavaScript (basic)
+ML/DL Frameworks  : PyTorch (primary), TensorFlow/Keras, Scikit-learn, timm, Ultralytics (YOLOv8), Hugging Face Transformers, Diffusers
+Computer Vision   : CNNs, ViT, DETR, YOLOv8, Segment Anything Model (SAM), OpenCV, Albumentations, image classification/detection/segmentation
+Generative AI     : Stable Diffusion (fine-tuning, ControlNet, LoRA), DALL-E API, LangChain (basics), RAG (basics)
+MLOps & Serving   : FastAPI, Docker, Streamlit, Gradio, Weights & Biases, ONNX (basics), HuggingFace Spaces
+Data & Cloud      : Pandas, NumPy, Label Studio (annotation), AWS EC2 (basic), GCP (basic)
+Math              : Linear algebra, probability, optimisation, calculus
+
+----------------------------------------
+INTERNSHIP EXPERIENCE
+----------------------------------------
+
+ML Engineer Intern | CareAI Health Tech | Coimbatore
+Dec 2023 – May 2024 (6 months)
+
+- Built a diabetic retinopathy grading model using EfficientNet-B4 fine-tuned on the APTOS 2019 dataset; Quadratic Weighted Kappa of 0.93 (vs. state-of-the-art ~0.94); trained on single A100 via GCP.
+- Deployed model as FastAPI REST API inside Docker container; integrated with clinic-facing web app; serving ~200 fundus image predictions per day in pilot.
+- Implemented Grad-CAM visualisation layer for clinician explainability — highlighted lesion regions; received positive feedback from 3 ophthalmologists in usability testing.
+- Built data augmentation pipeline using Albumentations (rotation, colour jitter, grid distortion) that reduced class imbalance overfitting and improved validation Kappa by 0.04.
+- Annotated and cleaned 1,200 additional fundus images using Label Studio, increasing training data by 18%.
+
+AI/ML Intern | Zifo RnD Solutions | Chennai
+Jun 2023 – Aug 2023 (2 months)
+
+- Built a scientific literature summarisation pipeline using BART (fine-tuned on PubMed Summarization dataset); ROUGE-L of 0.41 on biomedical abstracts.
+- Created a simple Streamlit UI for the summariser; deployed on company's internal server.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Tech in Computer Science and Engineering
+PSG College of Technology, Coimbatore | 2020 – 2024
+CGPA: 8.9/10 | Departmental Rank: 4th
+Electives: Deep Learning, Computer Vision, Natural Language Processing, Cloud Computing
+Final Year Project: "Multi-Scale Tumour Detection in Histopathology Images Using Vision Transformer"
+  - Fine-tuned ViT-B/16 on BreakHis dataset; F1-score of 0.91 for malignant/benign classification; trained with mixed precision on free Colab T4.
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. StylizeAI — Style Transfer + Stable Diffusion (HuggingFace Spaces)
+   - Fine-tuned Stable Diffusion 1.5 with DreamBooth on custom art styles; built Gradio UI on HuggingFace Spaces; 4,500+ uses.
+   - Implemented ControlNet for pose-guided generation; featured in 2 AI art community newsletters.
+
+2. Real-Time Object Counting System
+   - YOLOv8 + SORT tracker for counting vehicles in CCTV footage; deployed on Raspberry Pi 4 with ONNX optimisation; 22 FPS on edge device.
+   - GitHub: 170+ stars; used by 2 open-source traffic analytics repos as reference.
+
+3. Plant Disease Detection App
+   - CNN (ResNet50 fine-tuned) classifying 38 crop diseases from leaf images; 96.3% accuracy on PlantVillage dataset; deployed as mobile-friendly Streamlit app.
+   - Shared with 3 agricultural NGOs in Tamil Nadu.
+
+4. Image Captioning with Attention
+   - Built CNN + LSTM with Bahdanau attention for image captioning from scratch on COCO (5K subset); BLEU-4 of 0.24; implemented and documented full training pipeline.
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- TensorFlow Developer Certificate — Google (2023)
+- Deep Learning Specialization — deeplearning.ai (2023)
+- Computer Vision Nanodegree — Udacity (2024)
+- AWS Cloud Practitioner (2024)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- PSG CoT Departmental Rank 4, 2024
+- Kaggle Expert — 2 silver medals (Diabetic Retinopathy Competition top 8%; RSNA Pneumonia Detection top 11%)
+- 1st Place, Smart India Hackathon 2023 (Healthcare AI Track) — Team Lead
+- HuggingFace Spaces trending app (StylizeAI) — Week of March 2024
+
+========================================
+LABEL: HIGH_QUALITY_FRESHER_CANDIDATE
+SELECTION_PROBABILITY: 85%
+NOTES: Strong CV focus with real production deployment in healthtech, edge AI project, generative AI work, SIH winner. Excellent fresher for GenAI/CV roles.
+========================================

@@ -1,0 +1,318 @@
+================================================================
+SELECTION GUIDELINES — DATA ANALYST ROLE
+================================================================
+Document Type   : Recruiter & Evaluator Reference Guide
+Role            : Data Analyst (Universal Multi-Pass Matrix)
+Version         : 2.0
+Last Updated    : June 2026
+Owner           : Analytics Talent Acquisition, HR & Data CoE
+================================================================
+
+INTENDED USE
+This document provides structured criteria for evaluating resumes
+for the Data Analyst role. It is designed for use in an AI-powered
+RAG-based screening system and human review. The system automatically
+detects experience levels and routes the candidate to the appropriate
+evaluation matrix track. Scores are advisory; final decisions rest 
+with the hiring panel.
+
+----------------------------------------------------------------
+SECTION 1: AUTOMATED ROUTING & SCORING FRAMEWORK OVERVIEW
+----------------------------------------------------------------
+
+The system parses the profile data to identify the total length of professional, 
+non-academic industry experience:
+ ➔ Total Experience < 2 Years   👉 ROUTE TO TRACK B (FRESHER / ENTRY MATRICES)
+ ➔ Total Experience >= 2 Years  👉 ROUTE TO TRACK A (EXPERIENCED MATRICES)
+
+TRACK A SCORING WEIGHTS (EXPERIENCED PROFESSIONAL):
+DIMENSION                                MAX SCORE    WEIGHT
+-----------------------------------------------------------
+1. SQL & Data Querying Skills              25         25%
+2. Work Experience Quality                 20         20%
+3. Analytical & Statistical Depth          20         20%
+4. BI & Visualisation Skills               15         15%
+5. Education & Credentials                 10         10%
+6. Projects, Portfolio & Domain Expertise  7           7%
+7. Communication & Presentation            3           3%
+-----------------------------------------------------------
+TOTAL                                     100        100%
+
+TRACK B SCORING WEIGHTS (FRESHER / INTERN / JUNIOR):
+DIMENSION                                MAX SCORE    WEIGHT
+-----------------------------------------------------------
+1. Foundational SQL & Logic Base          30         30%
+2. Independent Projects & Capstone        25         25%
+3. Quantitative Depth & Scripting Basics  20         20%
+4. BI Tooling & Sheet Fundamentals        15         15%
+5. Education & Academic Performance        10         10%
+-----------------------------------------------------------
+TOTAL                                     100        100%
+
+FINAL DECISION BANDS BY TARGET TRACK:
+
+TRACK A (EXPERIENCED PROFESSIONAL)
+  85 – 100  →  STRONG HIRE (Fast-track to Stage 2)
+  70 – 84   →  HIRE (Proceed to Stage 2)
+  55 – 69   →  MAYBE (Refer to senior reviewer)
+  0  – 54   →  REJECT
+
+TRACK B (FRESHER / ENTRY-LEVEL)
+  75 – 100  →  STRONG HIRE (Fast-track to Technical Interview)
+  55 – 74   →  HIRE (Proceed to Phase 2 Foundations Test)
+  40 – 54   →  POTENTIAL CONSIDERATION (Good fundamentals; needs training)
+  0  – 39   →  REJECT
+
+----------------------------------------------------------------
+SECTION 2: TRACK A — EXPERIENCED EVALUATION CRITERIA (>= 2 Years)
+----------------------------------------------------------------
+
+──────────────────────────────────────────────────────────────
+DIMENSION 1: SQL & DATA QUERYING SKILLS (Max 25 points)
+──────────────────────────────────────────────────────────────
+
+1A. SQL Proficiency (0–15 pts)
+  15 pts : Expert — window functions (LAG, LEAD, RANK, NTILE, running totals), CTEs (multi-level), complex JOINs, subqueries, query optimisation (explain plans, partitioning, indexing awareness), stored procedures. Proficient in a cloud warehouse (BigQuery/Snowflake/Redshift).
+  10–14 pts: Advanced — window functions + CTEs + multiple JOINs demonstrated; cloud warehouse experience.
+  5–9 pts: Intermediate — JOINs, GROUP BY, subqueries; basic aggregations; one warehouse mentioned.
+  1–4 pts: Basic — SELECT/WHERE/GROUP BY only; tutorial-level.
+  0 pts  : No evidence of SQL usage.
+
+1B. Data Pipeline & Engineering Familiarity (0–6 pts)
+  6 pts : dbt (models, tests, documentation), Airflow or equivalent, data warehouse design (star/snowflake schema, fact/dim tables), familiarity with ELT patterns.
+  3–5 pts: Some dbt or Airflow experience; basic data modelling awareness.
+  1–2 pts: Knows pipelines exist; used pre-built ones but didn't build.
+  0 pts  : No evidence.
+
+1C. Cloud Data Platform Experience (0–4 pts)
+  4 pts : Proficient in 2+ cloud platforms (BigQuery, Snowflake, Redshift, Azure Synapse, Databricks).
+  2–3 pts: Proficient in 1 cloud warehouse.
+  1 pt   : Mentioned but not evidenced by project or role.
+  0 pts  : On-premise only or no mention.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 2: WORK EXPERIENCE QUALITY (Max 20 points)
+──────────────────────────────────────────────────────────────
+
+2A. Experience Relevance (0–8 pts)
+  8 pts : 3+ years directly in data analyst / analytics engineer / business analyst role at a product company or high-growth startup; clear ownership of analytical workstreams.
+  5–7 pts: 2–3 years directly relevant OR 4+ years with strong analytics component.
+  2–4 pts: 1–2 years direct analytics; rest in adjacent roles (business ops, finance, marketing).
+  0–1 pts: Mostly non-analytics roles; minimal data work evident.
+
+2B. Impact & Business Outcomes (0–7 pts)
+  7 pts : Multiple quantified impact statements (revenue impact, cost savings, conversion improvement, decision influenced, time saved). Clear link to business value in every role.
+  4–6 pts: Some quantified results in at least 1 role; clear business context.
+  1–3 pts: Activity-based descriptions only ("built dashboards", "analysed data") without outcomes.
+  0 pts  : No outcomes; purely task lists.
+
+2C. Stakeholder Engagement & Scope (0–5 pts)
+  5 pts : Evidence of independent work with senior stakeholders (VP, Director, C-suite); presented insights to leadership; managed multiple concurrent projects; defined analytical strategy for a product/function.
+  3–4 pts: Worked cross-functionally; some exposure to senior stakeholders.
+  1–2 pts: Primarily internal team work; limited stakeholder visibility.
+  0 pts  : No evidence of stakeholder communication.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 3: ANALYTICAL & STATISTICAL DEPTH (Max 20 points)
+──────────────────────────────────────────────────────────────
+
+3A. Statistics & Experimentation (0–10 pts)
+  10 pts : A/B testing (design, power analysis, significance testing, multi-variate), causal inference, regression (linear/logistic/multivariate), time-series analysis, cohort analysis, funnel analysis, survival analysis. Evidence of applying statistics to real business problems.
+  6–9 pts: A/B testing + regression + cohort analysis; clear applied understanding.
+  2–5 pts: Basic hypothesis testing; knows t-test and chi-square; limited applied evidence.
+  0–1 pts: Only descriptive statistics; no inferential evidence.
+
+3B. Python / R for Analytics (0–7 pts)
+  7 pts : Python (Pandas, NumPy, Scipy/Statsmodels, Matplotlib/Seaborn/Plotly) OR R (tidyverse, ggplot2, caret); evidence of using for real analysis beyond tutorials; Jupyter notebooks / R Markdown.
+  4–6 pts: Good Python/R skills demonstrated in projects or roles; key libraries present.
+  1–3 pts: Mentioned Python but limited to basic scripting; no analysis-focused libraries.
+  0 pts  : No Python/R.
+
+3C. ML for Analytics (0–3 pts)
+  3 pts : Applied ML techniques for analytical purposes: clustering (customer segmentation), regression for forecasting, classification for churn; used Scikit-learn or equivalent.
+  1–2 pts: Aware of ML; used simple models in coursework or projects.
+  0 pts  : No ML exposure.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 4: BI & VISUALISATION SKILLS (Max 15 points)
+──────────────────────────────────────────────────────────────
+
+4A. BI Tool Proficiency (0–9 pts)
+  9 pts : Expert in Tableau (Desktop + Server/Online) or Power BI (DAX, Power Query, Service) with evidence of enterprise-scale dashboard delivery; OR Looker (LookML); calculated fields, parameters, LOD expressions, drill-downs, live connections.
+  5–8 pts: Proficient in 1 major BI tool; delivered production dashboards.
+  2–4 pts: Familiar with a BI tool; basic chart building only.
+  0–1 pts: Excel/Google Sheets charts only; no dedicated BI tool.
+
+4B. Dashboard Quality & Self-Serve Design (0–6 pts)
+  6 pts : Evidence of designing executive-level dashboards; built self-serve analytics (reduced ad-hoc requests); documented metric definitions; used performance-optimised data models for BI.
+  3–5 pts: Delivered functional dashboards used by non-technical stakeholders.
+  1–2 pts: Dashboards mentioned but no evidence of stakeholder use or design intent.
+  0 pts  : No dashboard evidence.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 5: EDUCATION & CREDENTIALS (Max 10 points)
+──────────────────────────────────────────────────────────────
+
+5A. Degree Level & Institution (0–6 pts)
+  6 pts : M.Stat / M.S. Analytics / MBA (IIM/ISB) / M.Tech (CS/Stats) from top institution; or B.Stat / B.Math from ISI / CMI.
+  4–5 pts: B.Tech (IIT/IISc/NIT/BITS) in CS/ECE/Math + strong analytics coursework; or MBA from good institution.
+  2–3 pts: B.Tech from tier-2 institution; B.Com/BBA/B.Sc. with strong analytics work.
+  0–1 pts: Unrelated degree without compensating analytics experience.
+
+5B. Academic Performance & Certifications (0–4 pts)
+  4 pts : CGPA ≥ 9.0 or academic awards; AND/OR 2+ relevant certifications (Google Data Analytics, Tableau Desktop Specialist, dbt Certified, Microsoft PL-300, AWS Data Analytics Specialty).
+  2–3 pts: CGPA 7.5–8.9; 1 relevant certification.
+  0–1 pts: CGPA < 7.5 or not mentioned; no certifications.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 6: PROJECTS, PORTFOLIO & DOMAIN EXPERTISE (Max 7 points)
+──────────────────────────────────────────────────────────────
+
+6A. Personal/Academic Projects (0–4 pts)
+  4 pts : 2+ original analytical projects with real datasets, clear business question, methodology, and insight; published on GitHub/Kaggle/portfolio site; evidence of end-to-end analytical thinking.
+  2–3 pts: 1 solid project or several minor ones.
+  0–1 pts: Only course assignments or Kaggle starter code.
+
+6B. Domain Expertise (0–3 pts)
+  3 pts : Deep domain knowledge in high-value area (e-commerce analytics, growth/product analytics, financial analytics, marketing mix modelling, supply chain analytics) with multiple roles in that domain.
+  1–2 pts: Some domain exposure; one role in a relevant vertical.
+  0 pts  : No domain specialisation.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 7: COMMUNICATION & PRESENTATION (Max 3 points)
+──────────────────────────────────────────────────────────────
+  3 pts : Resume is crisp, metric-heavy, well-structured; evidence of presenting to business leaders; written/verbal communication skills mentioned or demonstrated (talks, blogs, reports).
+  1–2 pts: Reasonably clear; some business communication evidence.
+  0 pts  : Vague, bloated, or purely technical with no evidence of business communication.
+
+----------------------------------------------------------------
+SECTION 3: TRACK B — JUNIOR / FRESHER EVALUATION CRITERIA (< 2 Years)
+----------------------------------------------------------------
+
+CRITICAL POLICY: DO NOT penalize Track B candidates for missing enterprise orchestration patterns, data warehouse architectural design migrations, multi-level stakeholder strategy leadership, or deep domain authority. Evaluate core programming blocks, technical aptitude, and problem-solving passion.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 1: FOUNDATIONAL SQL & LOGIC BASE (Max 30 points)
+──────────────────────────────────────────────────────────────
+Evaluates database reasoning and baseline relational structured data pull metrics.
+  * 25–30 pts: Solid grasp of core SQL mechanics. Understands relational logic, inner/left join behaviors, filtering, GROUP BY aggregations, HAVING clauses, subqueries, and sequence dependencies. Clean query styling.
+  * 15–24 pts: Knows standard syntax constructs but struggles with conditional multi-table aggregation logic or nested queries.
+  * 0–14 pts: Only familiar with baseline SELECT/WHERE filters from basic academic modules.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 2: INDEPENDENT PROJECTS & CAPSTONE (Max 25 points)
+──────────────────────────────────────────────────────────────
+Evaluates execution proof and end-to-end analytical discovery outside of tutorial follow-alongs.
+  * 21–25 pts: 2+ high-quality custom analytics projects using real datasets. Evidence of custom problem exploration, data cleanup, visual rendering (pie charts, distribution bar diagrams), and insight extraction maps.
+  * 12–20 pts: Generic academic capstone assignments or textbook template projects (e.g., Titanic, Iris dataset splits) with minimal unique exploration metrics.
+  * 0–11 pts: Lacks proof of functional repositories, public analytics code, or custom research files.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 3: QUANTITATIVE DEPTH & SCRIPTING BASICS (Max 20 points)
+──────────────────────────────────────────────────────────────
+Evaluates computing scripts and statistical evaluation theory.
+  * 17–20 pts: Fluent scripting fundamentals in Python (Pandas dataframes, NumPy arrays) or R Studio data manipulation frameworks. Understands hypothesis framework testing parameters (parametric evaluations like ANOVA, Z-tests, or Chi-Square maps).
+  * 10–16 pts: Basic structural programming loop logic, but lacks experience utilizing specialized analytics libraries or running inferential tests.
+  * 0–9 pts : Minimal code familiarity; limits data profiling strictly to manual descriptive calculations.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 4: BI TOOLING & SHEET FUNDAMENTALS (Max 15 points)
+──────────────────────────────────────────────────────────────
+Evaluates UI visualization tools and flat-file analysis systems.
+  * 12–15 pts: Built and configured clean dashboards across Tableau, Power BI, or Streamlit configurations using calculated fields or filtering maps. Confident with Excel/Sheets formulas (pivots, lookups).
+  * 6–11 pts: Basic chart assembly in Sheets or minor exposure to pre-existing enterprise BI templates without standalone build credentials.
+  * 0–5 pts : No structured visualization tool experience.
+
+──────────────────────────────────────────────────────────────
+DIMENSION 5: EDUCATION & ACADEMIC PERFORMANCE (Max 10 points)
+──────────────────────────────────────────────────────────────
+  * 9–10 pts: B.Tech / B.E. / B.Sc. / B.Stat / B.Math / B.Com (Hons) in quantitative fields with standout credentials (CGPA ≥ 7.5/10) from highly recognized local or national programs.
+  * 5–8 pts : Alternate degree track with strong analytical coursework or formal analytics training bootcamps.
+  * 0–4 pts : Low academic baseline without compensating applied data project files.
+
+----------------------------------------------------------------
+SECTION 4: HARD DISQUALIFIERS (UNIVERSAL BY-PASS FILTERS)
+----------------------------------------------------------------
+
+□ No SQL evidence whatsoever — data analyst role requires SQL as table stakes
+□ All listed skills absent from experience and projects
+□ Exclusively data entry / reporting roles with no analytical work
+□ Fabricated metrics or implausible claims
+□ Misrepresented degrees or companies
+
+----------------------------------------------------------------
+SECTION 5: POSITIVE SIGNALS
+----------------------------------------------------------------
+
+HIGH-VALUE POSITIVE SIGNALS:
+✅ Quantified business outcomes in every role
+✅ dbt usage — signals analytics engineering maturity
+✅ A/B testing with power analysis and correct statistical interpretation
+✅ Self-serve dashboard delivery (reduced ad-hoc requests)
+✅ Product analytics tool experience (Mixpanel, Amplitude, Segment)
+✅ Cross-functional leadership without formal authority
+✅ Domain depth (fintech fraud analytics, e-commerce funnel analytics, etc.)
+✅ Public analytical work (Kaggle notebooks, Medium posts, GitHub repos)
+✅ Evidence of metric definition ownership (not just report consumption)
+✅ Academic competition (ISI entrance, Statistics Olympiad, Kaggle competitions)
+
+COMMON ANTI-PATTERNS TO PENALIZE:
+❌ "Proficient in Excel, SQL, Python, Tableau, Power BI, R, SAS, SPSS, Hadoop, Spark…" — skills dump without evidence
+❌ "Developed dashboards" with no description of what decision they enabled
+❌ "Analysed large datasets" without specifying size, tool, method, or outcome
+❌ Kaggle listed but no rank, score, or notebook link
+❌ Certifications only, no applied project to back them up
+❌ All experience from service companies doing client reporting with no product or business ownership
+
+----------------------------------------------------------------
+SECTION 6: LEVELING GUIDE
+----------------------------------------------------------------
+
+LEVEL      EXPERIENCE   SCORE RANGE   KEY DIFFERENTIATOR
+---------  ------------  -------------  ------------------------------------------
+L2 (Jr)    0–2 years     55–70          Strong SQL + 1 BI tool + good academics
+L3 (Mid)   2–4 years     65–80          End-to-end analytical ownership + A/B testing
+L4 (Sr)    4–6 years     75–90          Stakeholder influence + self-serve analytics
+L5 (Lead)  6+ years      85–100         Analytics strategy + team mentoring + domain authority
+
+----------------------------------------------------------------
+SECTION 7: OUTPUT FORMAT FOR AI SCREENING SYSTEM
+----------------------------------------------------------------
+
+{
+  "candidate_name"           : string,
+  "routed_track"             : "TRACK_A_EXPERIENCED" | "TRACK_B_FRESHER",
+  "total_score"              : float (0–100),
+  "decision"                 : "STRONG_HIRE" | "HIRE" | "MAYBE" | "WEAK" | "REJECT",
+  "level_match"              : "L2" | "L3" | "L4" | "L5",
+  "dimension_scores"         : {
+    "sql_querying"           : float,
+    "work_experience"        : float,
+    "analytical_statistical" : float,
+    "bi_visualisation"       : float,
+    "education_credentials"  : float,
+    "projects_domain"        : float,
+    "communication"          : float
+  },
+  "strengths"                : [list of top 3–5 specific strengths],
+  "gaps"                     : [list of top 3–5 specific gaps],
+  "red_flags"                : [list if any],
+  "suggestions_for_candidate": [list of 4–5 actionable improvements],
+  "interview_focus_areas"    : [list of 3 topics to probe]
+}
+
+----------------------------------------------------------------
+SECTION 8: CALIBRATION ANCHORS
+----------------------------------------------------------------
+- Resume_DA_01 (Ananya Iyer)     → Expected Score: ~90 → STRONG HIRE
+- Resume_DA_02 (Vikram Pillai)   → Expected Score: ~87 → STRONG HIRE
+- Resume_DA_03 (Meera Suresh)    → Expected Score: ~85 → STRONG HIRE
+- Resume_DA_04 (Rohan Mehta)     → Expected Score: ~82 → HIRE
+- Resume_DA_05 (Deepa Krishnan)  → Expected Score: ~88 → STRONG HIRE
+
+================================================================
+END OF SELECTION GUIDELINES
+================================================================
+Classification : INTERNAL — Recruiter & Evaluator Use Only
+Version         : 2.0 | Approved by: Head of Analytics & HR Director
+================================================================

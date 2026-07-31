@@ -1,0 +1,208 @@
+================================================================
+UNIVERSAL SELECTION GUIDELINES — MULTI-TIER SAP ROLES
+================================================================
+Document Type   : Recruiter & Evaluator Reference Guide
+Target Levels   : Universal (Fresher / Mid / Senior / Architect)
+Version         : 3.0 (Adaptive Multi-Pass)
+Last Updated    : June 2026
+Owner           : Enterprise Systems Talent Acquisition & SAP CoE
+================================================================
+
+INTENDED USE
+This document provides structured, multi-tier criteria for evaluating incoming
+resumes for all SAP positions. The system automatically forks into specific 
+scoring matrix tracks depending on the candidate's declared total industry 
+experience. All scoring is advisory — final hiring decisions remain with 
+the hiring panel.
+
+----------------------------------------------------------------
+SECTION 1: AUTOMATED TRACK ROUTING & DECISION BANDS
+----------------------------------------------------------------
+
+The system scans the profile text for total professional, non-academic experience:
+ ➔ Total Experience < 2 Years   👉 ROUTE TO TRACK B (FRESHER / INTERN)
+ ➔ Total Experience >= 2 Years  👉 ROUTE TO TRACK A (EXPERIENCED PROFESSIONAL)
+
+FINAL DECISION BANDS BY TRACK:
+
+TRACK A (EXPERIENCED: MID / SENIOR / ARCHITECT)
+  85 – 100  →  STRONG HIRE (Fast-track to Technical Interview)
+  70 – 84   →  HIRE (Proceed to Stage 2 Online Assessment)
+  55 – 69   →  MAYBE (Refer to Senior Reviewer for portfolio audit)
+  0  – 54   →  REJECT
+
+TRACK B (FRESHER / ENTRY-LEVEL / INTERN)
+  75 – 100  →  STRONG HIRE (Fast-track to foundational interview)
+  55 – 74   →  HIRE (Proceed to foundational coding test)
+  40 – 54   →  POTENTIAL CONSIDERATION (Good fundamentals; needs training)
+  0  – 39   →  REJECT
+
+----------------------------------------------------------------
+SECTION 2: TRACK A — EXPERIENCED PROFESSIONAL MATRIX (>= 2 Years)
+----------------------------------------------------------------
+
+DIMENSION 1: TECHNICAL SKILLS & STACK (Max 25 points)
+──────────────────────────────────────────────────────────────
+1A. Advanced Backend & Core ABAP (0–10 pts)
+  * 10 pts : Expert Object-Oriented ABAP (OOPs); mastery of modern enhancement frameworks (explicit/implicit BAdIs); high-throughput database interactions; custom transport handling packages; clear use of Eclipse ADT environment.
+  * 7–9 pts: Strong in Object-Oriented ABAP syntax; comfortable building robust background jobs, custom BAPIs, and user exits with minimal oversight.
+  * 4–6 pts: Moderate backend depth; heavily reliant on legacy procedural syntax (subroutines, forms, macros) with minimal object-oriented usage.
+  * 0–3 pts: Superficial list of keywords without supporting project details.
+
+1B. Native HANA & Code Push-Down (0–8 pts)
+  * 8 pts : Expert implementation of Core Data Services (CDS) Views, ABAP Managed Database Procedures (AMDP), SQL scripting, table functions, and calculation views; deep understanding of code push-down paradigms.
+  * 5–7 pts: Good custom CDS views creation and AMDP exposure; understands code-to-data optimization strategies.
+  * 2–4 pts: Limited to basic database views or simple select statements; theoretical-only S/4HANA environment exposure.
+  * 0–1 pts: No meaningful HANA or database layer customization experience.
+
+1C. Front-End, UX & Middleware Integration (0–7 pts)
+  * 7 pts : Full mastery of SAPUI5 frameworks, JavaScript layouts, custom OData service provisioning (SEGW), extension implementations, and secure Fiori Launchpad setups.
+  * 4–6 pts: Strong OData configuration capability; can modify standard Fiori components using extension frameworks or controller hooks.
+  * 0–3 pts: Front-end limited to legacy Web Dynpro / SAP GUI, or minimal modern web web protocol exposure.
+  * BONUS (+1 to +3): Practical deployment of RAP, CAP, or deep side-by-side configurations inside SAP BTP.
+
+DIMENSION 2: WORK EXPERIENCE QUALITY (Max 25 points)
+──────────────────────────────────────────────────────────────
+2A. Experience Relevance (0–10 pts)
+  * 10 pts : 5+ years directly as an SAP Technical Developer or Full-Stack SAP Engineer at a high-growth product ecosystem, premier technology consulting group, or global production cluster.
+  * 7–9 pts: 3–5 years directly relevant technical developer experience; or longer tenure with recent S/4HANA environments shift.
+  * 4–6 pts: 2–3 years technical experience; rest spent heavily in non-coding technical lines or systems monitoring tasks.
+  * 0–3 pts: SAP adjacent positions (functional support helpdesks, basis monitoring) with limited custom coding responsibilities.
+
+2B. Impact & System Outcomes (0–8 pts)
+  * 8 pts : Multiple clearly quantified performance and business metrics (e.g., query execution latency reduction, processing speed improvements, batch window contractions).
+  * 5–7 pts: Clear link to business value or delivery optimizations across at least 1–2 production implementation runs.
+  * 0–4 pts: Vague descriptions ("assisted with system migration", "maintained custom code blocks") without explicit numbers.
+
+2C. Progression & Scope (0–7 pts)
+  * 7 pts : Clear technical ownership growth (Developer → Senior Consultant → Track Lead Architect); proven track record managing end-to-end transport release streams.
+  * 4–6 pts: Consistent career progression; clear stabilization and accountability patterns.
+  * 0–3 pts: Lateral movements without technical expansion; job-hopping patterns without structural validation.
+
+DIMENSION 3: EDUCATION & CREDENTIALS (Max 15 points)
+──────────────────────────────────────────────────────────────
+3A. Degree Level & Institution (0–6 pts)
+  * 6 pts : M.Tech / M.S. / B.Tech in CS, IT, or related quantitative fields from top-tier institutions (IITs, NITs, BITS, or international equivalent).
+  * 5 pts : MCA or B.Tech / B.E. from reputable regional universities with high technical standings.
+  * 0–4 pts: Quantitative, science, or non-traditional technical tracks heavily compensated by extensive workspace metrics.
+
+3B. Academic Performance (0–5 pts)
+  * 5 pts : CGPA ≥ 9.0/10 (or equivalent); academic distinctions or scholarship honors.
+  * 3–4 pts: CGPA 8.0–8.9 or strong verifiable rank within the graduation technical band.
+  * 0–2 pts: CGPA < 8.0 or not declared in the profile layout.
+
+3C. Degree Relevance (0–4 pts)
+  * 4 pts : Computer Science, Software Engineering, Information Technology, or Data Systems specialization.
+  * 2–3 pts: Allied engineering track (ECE, EEE) with logical design coursework.
+  * 0–1 pts: Completely unrelated field with no core system, programming, or data components.
+
+DIMENSION 4: PROJECTS & SYSTEM PORTFOLIO (Max 15 points)
+──────────────────────────────────────────────────────────────
+4A. Implementation Depth & Architecture (0–7 pts)
+  * 7 pts : Full execution of multiple end-to-end enterprise developments (custom interface → middleware OData layer → high-performance AMDP backend data structure); handle complex distributed system tracking.
+  * 4–6 pts: 2–3 solid custom systems configurations featuring clear performance tracing metrics and implementation ownership.
+  * 0–3 pts: Minor enhancements only; standard report programs with no advanced database tuning or architectural changes.
+
+4B. Integration & Modern Tooling Evidence (0–4 pts)
+  * 4 pts : Demonstrated integration tracking across heterogeneous landscapes (e.g., Node.js apps to SAP, cloud connections, web services via JSON/REST pipelines).
+  * 2–3 pts: Good standard integration experience (IDocs, RFCs, BAPIs) across legacy architectures.
+  * 0–1 pts: Basic inbound file integrations only or no multi-system footprint.
+
+4C. Version Tracking & DevOps Primitives (0–4 pts)
+  * 4 pts : Clear usage of modern delivery tools like Git version control frameworks via abapGit deployments; rigorous automated pipeline testing practices.
+  * 2–3 pts: Standardized testing tracking configurations using ABAP Unit or automated Test Cockpits.
+  * 0–1 pts: No version control or modern automated testing metrics listed.
+
+DIMENSION 5: EXTENSIONS, BTP & CLOUD APPLICATIONS (Max 10 points)
+──────────────────────────────────────────────────────────────
+5A. Cloud-Native Architectures (0–7 pts)
+  * 7 pts : Proven production delivery of side-by-side configurations on SAP BTP using CAP setups, Business Application Studio, Node.js, or cloud runtime paradigms.
+  * 4–6 pts: Strong working configuration setups across BTP layers; clean cloud connector configurations managing hybrid data syncs.
+  * 0–3 pts: Basic theoretical understanding of BTP services without active production building metrics.
+
+5B. Modern SAP Development Frameworks (0–3 pts)
+  * 3 pts : Active use of RAP models, custom analytical privileges setups, or advanced Core Data Services configurations.
+  * 0–2 pts: Limited to traditional classic ABAP workbench configurations.
+
+DIMENSION 6 & 7: COMMUNITY & PRESENTATION (Max 5 points each)
+──────────────────────────────────────────────────────────────
+  * Evaluate based on active technical blogging, Inside Tracks, github code-sharing, and flawless quantified resume structure layout patterns.
+
+----------------------------------------------------------------
+SECTION 3: TRACK B — FRESHER / ENTRY-LEVEL MATRIX (< 2 Years)
+----------------------------------------------------------------
+
+CRITICAL POLICY: DO NOT penalize Track B candidates for a lack of multi-year enterprise production environments, architectural leadership roles, BTP cloud extensions, or system profiling tools. Re-allocate metrics to evaluate engineering potential, logical core mechanics, and self-taught drive.
+
+DIMENSION 1: CORE LOGIC & CORE PROGRAMMING MECHANICS (Max 25 points)
+──────────────────────────────────────────────────────────────
+Evaluates raw programmatic potential. Look for university labs, competitive coding, or basic language constructs.
+  * 21–25 pts: Strong foundational grasp of Object-Oriented paradigms (Inheritance, Polymorphism) or clear procedural constructs in C, Python, Java, or fundamental ABAP. Understands foundational database structures (relational schemas, basic SQL queries, multi-table INNER JOINs, selection conditions).
+  * 15–20 pts: Good baseline understanding of loops, conditionals, and standard array operations; limited exposure to deep relational database mechanics.
+  * 0–14 pts: Superficial syntax awareness; cannot explain code structural flow or basic query retrieval operations.
+
+DIMENSION 2: ACADEMIC & INDEPENDENT PROJECT PORTFOLIO (Max 25 points)
+──────────────────────────────────────────────────────────────
+Evaluates hands-on implementation depth on a smaller scale. Look for Capstone, final-year, or self-directed web app builds.
+  * 21–25 pts: Completed a comprehensive, functional final year project or independent development application (e.g., Inventory Management Web App, E-Commerce clone, or deep logic scripts). Shows clear execution parameters handling database integration, input form validations, and structured data rendering.
+  * 15–20 pts: Standard boilerplate or tutorial follow-along projects (e.g., generic calculator, simple static UI page) showing little custom variation or unique execution.
+  * 0–14 pts: No visible project files or purely theoretical documentation listings without verifiable code assets.
+
+DIMENSION 3: TECH ADAPTABILITY & SPECIALIZED SAP TRAINING (Max 20 points)
+──────────────────────────────────────────────────────────────
+Evaluates intent to enter the specialized ecosystem.
+  * 16–20 pts: Completed structured industry-oriented training programs (e.g., 3-to-6 month intensive ABAP/ERP tracks at NIIT or similar institutes) OR completed verified self-paced certifications via SAP Learning Hub / openSAP. Clear target preparation for baseline developer certification associate tracks.
+  * 10–15 pts: Basic introduction courses completed without formal assessment benchmarks or structured training pipelines.
+  * 0–9   pts: No visible efforts towards specialized technology domain upskilling.
+
+DIMENSION 4: ACADEMIC CREDENTIALS & DEGREE RELEVANCE (Max 15 points)
+──────────────────────────────────────────────────────────────
+  * 13–15 pts: B.Tech / B.E. / M.Tech / MCA in Computer Science, IT, or Software Engineering with strong academic standing (CGPA ≥ 7.5/10 or equivalent) from a reputable regional engineering institute.
+  * 9–12  pts: Allied quantitative engineering track (ECE, EEE, Mechanical) with reliable academic marks, or CS track with CGPA < 7.5.
+  * 0–8   pts: Non-technical degree with weak logical foundation profiles.
+
+DIMENSION 5: INTERNSHIPS & PROFESSIONAL EXPOSURE (Max 10 points)
+──────────────────────────────────────────────────────────────
+  * 9–10 pts: Completed a 2-to-6 month technical internship in any technology landscape, actively assisting senior engineers in real workspace environments, support tickets, or prototype builds.
+  * 5–8  pts: Completed short industrial exposure stints, company-sponsored workshops, or simulated team-based project configurations.
+  * 0–4  pts: No professional workspace exposure or internship history.
+
+DIMENSION 6 & 7: TOOL COGNIZANCE & PRESENTATION (Max 5 points each)
+──────────────────────────────────────────────────────────────
+  * Evaluates baseline tooling familiarity (e.g., basic Git operations, GitHub exposure, or SQL editors) and clean, layout-scannable resume readability formats without buzzword-stuffing.
+
+----------------------------------------------------------------
+SECTION 4: HARD DISQUALIFIERS (BY-PASS FILTERS)
+----------------------------------------------------------------
+
+□ Clear structural misrepresentation (fake certificates or non-existent degrees).
+□ Purely point-and-click functional spreadsheet usage without any programmatic, logical scripting, or codebase familiarity across any language layer.
+□ For Track A Only: Falling below 3 years of engineering experience *unless* offset by high-value, deep-tier modern technical metrics (e.g., RAP/BTP custom contributions).
+
+----------------------------------------------------------------
+SECTION 5: UNIVERSAL OUTPUT JSON STRUCTURE FOR AI CORES
+----------------------------------------------------------------
+{
+  "candidate_name"       : string,
+  "routed_track"         : "TRACK_A_EXPERIENCED" | "TRACK_B_FRESHER",
+  "total_score"          : float (0–100),
+  "decision"             : "STRONG_HIRE" | "HIRE" | "POTENTIAL_CONSIDERATION" | "REJECT",
+  "level_match"          : "Fresher/Intern" | "Associate" | "Mid-Level" | "Senior" | "Architect",
+  "dimension_scores"     : {
+    "technical_skills_or_logic": float,
+    "experience_or_projects"   : float,
+    "education"                : float,
+    "portfolio_or_training"    : float,
+    "cloud_or_internship"      : float,
+    "community_or_tools"       : float,
+    "communication"            : float
+  },
+  "strengths"            : [list of specific technical findings],
+  "gaps"                 : [list of missing structural attributes],
+  "red_flags"            : [list of hard disqualifier alerts, if any],
+  "suggestions_for_candidate": [list of actionable growth milestones],
+  "interview_focus_areas": [list of precise programmatic probing targets]
+}
+================================================================
+END OF UNIVERSAL SELECTION GUIDELINES DOCUMENT
+================================================================

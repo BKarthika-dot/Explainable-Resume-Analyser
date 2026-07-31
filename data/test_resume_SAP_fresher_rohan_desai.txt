@@ -1,0 +1,88 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+B.Tech Computer Science graduate from K.K. Wagh Institute of Engineering, Nashik (2024) with a CGPA of 8.1. Completed a 5-month SAP ABAP training programme at NIIT Nashik. Built two hands-on SAP projects during training covering MM module processes. Completed a 2-month internship at an SAP consulting firm assisting in a client support project. Looking to start my career as an SAP ABAP Developer and grow into S/4HANA development.
+
+----------------------------------------
+SAP SKILLS
+----------------------------------------
+ABAP              : Classical reports, ALV reports (REUSE_ALV_GRID_DISPLAY), SELECT statements (single table, basic JOINs), internal tables (standard), work areas, basic modularisation (FORM routines, basic function module calls), elementary debugging (break-points, watchpoints)
+Transactions Used : SE38, SE80, SE11 (viewing), SE16N, ST22, ME21N, ME22N, ME23N, MIGO, MB51, SPRO (viewing only)
+Data Dictionary   : Knows transparent tables, data elements, and domains conceptually; created one Z-table in training system (SM30 view)
+SAP Module        : MM (Materials Management) — training level; understands purchase requisition, purchase order, goods receipt, invoice verification (P2P cycle), vendor master, material master
+SAP Architecture  : Knows 3-tier architecture (presentation, application, database), client concept, and transport system (DEV → QAS → PRD) conceptually
+Fiori             : Watched SAP Fiori overview videos; no hands-on experience yet
+Modern SAP        : Aware of S/4HANA and difference from ECC; no hands-on
+Other Tech        : Java (intermediate — college coursework), SQL (MySQL — intermediate), C (basic), MS Excel (basic), Git (basic)
+
+----------------------------------------
+SAP TRAINING
+----------------------------------------
+
+SAP ABAP + MM Training | NIIT Technologies | Nashik
+Aug 2023 – Dec 2023 (5 months)
+
+- Completed structured SAP ABAP training with MM functional overview.
+- ABAP topics: ABAP editor, data types, internal tables, SELECT statements, reports, basic function module usage, data dictionary.
+- MM topics: procurement cycle, vendor/material master data, key transaction codes.
+- Practiced in SAP ECC 6.0 training system; completed 25+ hands-on exercises.
+- Final batch assessment score: 74/100.
+
+----------------------------------------
+INTERNSHIP EXPERIENCE
+----------------------------------------
+
+SAP Intern | Techwave Solutions (SAP Consulting) | Pune (Remote)
+Feb 2024 – Mar 2024 (2 months)
+
+- Joined a small SAP support team working on an MM module client project.
+- Assisted a senior developer in testing a custom purchase order report; ran test cases and documented results in a test log sheet.
+- Observed transport request creation and release process (did not independently raise transports).
+- Wrote one small Z-report (under supervision) that selected and displayed open purchase requisitions from EBAN table filtered by plant and purchasing group; output displayed using WRITE statement.
+- Attended daily team stand-ups and gained understanding of SAP support ticket process.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+B.Tech in Computer Science and Engineering
+K.K. Wagh Institute of Engineering, Nashik
+(Savitribai Phule Pune University) | 2020 – 2024
+CGPA: 8.1/10
+Relevant Coursework: Database Management Systems, Object-Oriented Programming, Software Engineering, Operating Systems
+Final Year Project: "Inventory Management Web Application"
+  - Built a web-based inventory tracking system using Java (Spring Boot) + MySQL with basic procurement workflow; modelled the application's purchase order flow after the SAP MM P2P cycle learned during training.
+
+----------------------------------------
+SAP PROJECTS (Training)
+----------------------------------------
+
+1. Open Purchase Order Tracking Report (ALV)
+   - ABAP ALV report selecting open POs from EKKO and EKPO tables using INNER JOIN; displayed vendor, material, quantity, and delivery date.
+   - Added selection screen with company code and plant; included basic subtotals by vendor.
+   - Demonstrated and reviewed by NIIT trainer; scored 80/100 for this exercise.
+
+2. Vendor Master Data Display Report
+   - Classical ABAP report displaying vendor master data from LFA1 and LFB1 by company code and vendor account group.
+   - Used FOR ALL ENTRIES with internal table of filtered vendor numbers.
+
+----------------------------------------
+CERTIFICATIONS & LEARNING
+----------------------------------------
+- NIIT SAP ABAP + MM Training Certificate (Dec 2023, Score: 74/100)
+- SAP Learning Hub: "Get Started with SAP ABAP" — Completed (2024)
+- openSAP Course: "SAP Fiori for iOS — Overview" — In Progress
+- Target: SAP C_TAW12 ABAP Certification (planning to appear in early 2025)
+
+----------------------------------------
+ACHIEVEMENTS & ACTIVITIES
+----------------------------------------
+- K.K. Wagh Institute — Consistent academic performance (CGPA ≥ 8.0 throughout)
+- College Coding Club — Member; participated in 2 internal hackathons
+- NIIT Training — Completed all 25 exercises; no outstanding exercises at programme end
+
+========================================
+END OF RESUME
+========================================

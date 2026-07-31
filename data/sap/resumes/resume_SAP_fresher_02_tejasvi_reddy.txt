@@ -1,0 +1,96 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+MCA graduate from Osmania University with a strong academic record and 5 months of SAP ABAP training at SNP India (SAP-authorised training partner). Completed a university-level SAP SD + ABAP integration project through the SAP University Alliance programme. Built a personal ABAP project and uploaded it to GitHub via abapGit. Eager to start a career in SAP development and grow into ABAP + Fiori full-stack.
+
+----------------------------------------
+SAP SKILLS
+----------------------------------------
+ABAP              : ALV reports (REUSE_ALV_GRID_DISPLAY, CL_GUI_ALV_GRID), classical reports, function modules, basic ABAP OOP (classes, interfaces, constructor), internal tables (standard, sorted, hashed), field symbols, SELECT (joins, subqueries, FOR ALL ENTRIES), BAPI calls (BAPI_SALESORDER_GETLIST, BAPI_MATERIAL_GET_DETAIL), basic enhancements (BADIs — definition and implementation), Smart Forms (basic)
+ABAP Debugging    : External break-points, watchpoints, ST22 short dump analysis, SQL trace (ST05)
+Data Dictionary   : Transparent tables, structure, table type, data elements, domains, search helps, lock objects (conceptual); SE11 proficient
+Transactions      : SE38, SE80, SE11, SE37, SE16N, SM30, ST05, ST22, STMS, SU01, VA01–VA03, VL01N, VF01 (SD), ME21N–ME23N (MM basic)
+Modules           : SD (Sales and Distribution) — primary; MM (basic awareness)
+SD Concepts       : Order-to-cash cycle (inquiry → quotation → sales order → delivery → billing), pricing procedure, output determination, partner functions, delivery types, billing document types
+Fiori/BTP         : Completed SAP Fiori Elements tutorial (SAP BTP trial); built list report Fiori app for sales order display using OData V4 + CDS view annotation; deployed to Fiori Launchpad in trial account
+S/4HANA ABAP      : Aware of new OPEN SQL (inline declarations, @data, CORRESPONDING); completed 2 CDS view tutorials on SAP Learning Hub
+Tools             : abapGit (2 personal ABAP projects on GitHub), VS Code (for UI5 basics), Git
+Other Tech        : Java (intermediate), SQL (MySQL, PostgreSQL — intermediate), HTML, JavaScript (basic)
+
+----------------------------------------
+SAP TRAINING
+----------------------------------------
+
+SAP ABAP + SD Functional Training | SNP India (SAP-authorised) | Hyderabad
+Aug 2023 – Dec 2023 (5 months)
+
+- SAP-authorised training programme covering ABAP programming (40%) and SD functional (60%).
+- ABAP topics: workbench, DDIC, reports, function modules, OOP, BAPIs, BADIs, Smart Forms, BDC.
+- SD topics: enterprise structure, master data (customer, material, condition), sales documents, delivery, billing, pricing, output.
+- Practised in SAP ECC 6.0 system + SAP S/4HANA 2023 trial for modern ABAP exercises.
+- Completed 50+ practical exercises; final project scored 91/100.
+
+----------------------------------------
+ACADEMIC PROJECT (SAP University Alliance)
+----------------------------------------
+
+SAP Sales Order Automation — Osmania University SAP UA Project
+Aug 2022 – Mar 2023
+
+- Osmania University is an SAP University Alliance member; accessed SAP S/4HANA 2022 system through the programme.
+- Project: Automated sales order creation and status tracking system for a fictional electronics distributor.
+  • Wrote ABAP program to bulk-create sales orders via BAPI_SALESORDER_CREATEFROMDAT2 from uploaded CSV data (BDC-style); handled error log table (Z-table) with SM30 maintenance view.
+  • Built custom ALV report to display open sales orders with customer details, delivery status, and billing status; interactive double-click drill-down to sales order detail.
+  • Implemented BADI (SD_SALES_ORDER) to add custom validation — credit limit check against Z-table before order save.
+  • Configured basic SD enterprise structure in S/4HANA system: sales org, distribution channel, division, sales area.
+- Team of 2; presented to faculty panel; graded A+ (92/100).
+- Project code on GitHub via abapGit: github.com/tejasvi-sap/sap-sd-automation
+
+----------------------------------------
+PERSONAL SAP PROJECT
+----------------------------------------
+
+Material Availability Dashboard (ABAP ALV + Z-table)
+- Personal project in SAP BTP ABAP environment (free tier).
+- Created Z-table to store material stock thresholds by plant; built ALV report showing materials below reorder level using JOIN across MARD, MARA, MARC and Z-table.
+- Code pushed to GitHub via abapGit with README documentation.
+- GitHub: github.com/tejasvi-sap/material-availability-report
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+MCA (Master of Computer Applications)
+Osmania University, Hyderabad | 2020 – 2023
+CGPA: 8.7/10 | University Rank: 5th in department
+Relevant Coursework: Database Management, Systems Analysis, Object-Oriented Programming, ERP Fundamentals, Software Project Management
+Dissertation: "ERP Integration Patterns for SMEs: A Comparative Study of SAP and Odoo"
+
+B.Sc. Computer Science
+St. Francis Degree College, Hyderabad | 2017 – 2020
+CGPA: 9.0/10 | College Rank: 2nd
+
+----------------------------------------
+CERTIFICATIONS & LEARNING
+----------------------------------------
+- SNP India SAP ABAP + SD Training Certificate (Dec 2023, Score: 91/100)
+- SAP Learning Journey: "ABAP Development for SAP HANA" — Completed (learning.sap.com)
+- SAP Learning Journey: "SAP Fiori App Development" — Completed
+- openSAP Course: "Building Apps with SAP BTP" — Completed (2024)
+- SAP Certification Target: C_TS4SD_2023 (exam booked, Dec 2024)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- Osmania University MCA — Department Rank 5, 2023
+- SNP India Training Batch Topper (91/100), December 2023
+- B.Sc. CS College Rank 2, St. Francis, 2020
+- SAP Community — 3 answered questions on SD BAPI usage (2 marked helpful)
+
+========================================
+LABEL: HIGH_QUALITY_FRESHER_CANDIDATE
+SELECTION_PROBABILITY: 70%
+NOTES: SAP UA project is strong differentiator; abapGit on GitHub shows engineering mindset; BADI implementation and BAPI usage in project; exam booked signals commitment. Solid Associate-level hire.
+========================================

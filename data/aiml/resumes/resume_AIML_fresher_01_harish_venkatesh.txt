@@ -1,0 +1,97 @@
+
+
+----------------------------------------
+PROFESSIONAL SUMMARY
+----------------------------------------
+Final-year M.Tech AI graduate from IIT Hyderabad with a strong research foundation in NLP and deep learning. Completed a 6-month research internship at a top AI lab. Built and deployed 4 end-to-end ML projects including an open-source NLP library with 300+ GitHub stars. Published one paper at an ACL workshop. Seeking an AI/ML Engineer role where I can apply both research depth and engineering skills to real-world problems.
+
+----------------------------------------
+SKILLS
+----------------------------------------
+Languages         : Python (proficient), SQL (intermediate), C++ (basic)
+ML/DL Frameworks  : PyTorch (primary), TensorFlow (intermediate), Keras, Scikit-learn
+NLP & LLMs        : Hugging Face Transformers, PEFT (LoRA, QLoRA), LangChain, RAG pipelines, FAISS, BERT/RoBERTa/T5/LLaMA, Sentence Transformers, spaCy
+MLOps & Serving   : FastAPI, Docker, Gradio, Weights & Biases, Git, DVC (basics), HuggingFace Spaces
+Cloud & Infra     : GCP (Vertex AI — internship), AWS (EC2, S3 — self-study), basic Kubernetes concepts
+Data              : Pandas, NumPy, HuggingFace Datasets, data augmentation, cleaning pipelines
+Math              : Linear algebra, probability & statistics, calculus, information theory
+
+----------------------------------------
+INTERNSHIP EXPERIENCE
+----------------------------------------
+
+Research Intern | Samsung R&D Institute | Bengaluru
+Jan 2024 – Jun 2024 (6 months)
+
+- Worked on on-device NLP for Samsung's Bixby voice assistant team; focused on reducing latency of intent classification without accuracy loss.
+- Fine-tuned DistilBERT with knowledge distillation from BERT-large; achieved 97.2% of teacher accuracy at 3.1x inference speedup on ARM CPU.
+- Implemented quantisation (INT8) using ONNX Runtime; further reduced model size by 62% with <1% accuracy drop; model shipped in Bixby beta for Galaxy S-series.
+- Built automated evaluation pipeline (pytest + W&B) for tracking accuracy, latency, and model size across 15 fine-tuning runs.
+- Presented findings to senior research director; written summary included in quarterly R&D report.
+
+ML Intern | Nimble AI (Startup) | Remote
+May 2023 – Jul 2023 (2 months)
+
+- Built a PDF-to-structured-data extraction pipeline using PyMuPDF + regex + a fine-tuned NER model (BERT); F1-score of 0.89 on invoice dataset.
+- Deployed pipeline as a FastAPI service on GCP Cloud Run; average response time < 1.2s for 5-page PDFs.
+
+----------------------------------------
+EDUCATION
+----------------------------------------
+
+M.Tech in Artificial Intelligence
+Indian Institute of Technology, Hyderabad | 2022 – 2024
+CGPA: 9.0/10
+Thesis: "Efficient Cross-Lingual Transfer for Low-Resource Indic Languages Using Adapter Tuning"
+  - Implemented adapter layers on MuRIL for 4 Indic languages; outperformed full fine-tuning on 3 of 4 languages with 8x fewer trainable parameters.
+  - Accepted at ACL 2024 Student Research Workshop.
+
+B.Tech in Computer Science
+NIT Calicut | 2018 – 2022
+CGPA: 8.8/10 | Electives: Machine Learning, Natural Language Processing, Computer Vision
+
+----------------------------------------
+PROJECTS
+----------------------------------------
+
+1. TamilSent — Sentiment Analysis for Tamil Social Media (Open Source)
+   - Fine-tuned MuRIL on a custom-collected Tamil Twitter dataset (8,000 samples); F1: 0.84.
+   - Published as HuggingFace model card with 1,200+ downloads; GitHub: 310+ stars.
+   - Used by 2 academic research teams (email attribution).
+
+2. DocChat — RAG-based Document Q&A (Personal Project)
+   - End-to-end RAG system using LangChain + FAISS + LLaMA-2-7B (quantised with GGUF); supports multi-PDF Q&A with source citation.
+   - Deployed on HuggingFace Spaces; 2,000+ uses; demo linked from 3 LangChain community threads.
+
+3. Sign Language Recognition (Computer Vision)
+   - Real-time Indian Sign Language recognition using MediaPipe + LSTM on hand landmark sequences; 91.4% accuracy on 26-class dataset.
+   - Deployed as browser-based demo using FastAPI + WebSocket.
+
+4. Fake News Classifier
+   - Fine-tuned RoBERTa on LIAR dataset; F1: 0.88; compared 5 architectures (BERT, DistilBERT, RoBERTa, XLNet, DeBERTa); wrote detailed ablation study.
+
+----------------------------------------
+PUBLICATIONS
+----------------------------------------
+1. Venkatesh H., et al. "Adapter-Based Cross-Lingual Transfer for Low-Resource Indic NLP." ACL 2024 Student Research Workshop. (Accepted)
+
+----------------------------------------
+CERTIFICATIONS
+----------------------------------------
+- Deep Learning Specialization — deeplearning.ai / Coursera (2023)
+- Hugging Face NLP Course — Hugging Face (2023)
+- MLOps Specialization (Courses 1–2) — deeplearning.ai (2024)
+
+----------------------------------------
+ACHIEVEMENTS
+----------------------------------------
+- IIT Hyderabad Merit Scholarship (top 10% of M.Tech batch), 2022–2024
+- ACL 2024 Student Research Workshop — Accepted Paper
+- HuggingFace trending model (TamilSent) — Featured in Hugging Face newsletter
+- NIT Calicut Hackathon Winner (AI/ML Track), 2022
+
+========================================
+LABEL: HIGH_QUALITY_FRESHER_CANDIDATE
+SELECTION_PROBABILITY: 88%
+NOTES: IIT pedigree, publication, strong open-source footprint, RAG + LLM experience, shipped model in production at Samsung internship. Exceptional fresher.
+========================================
