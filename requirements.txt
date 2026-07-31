@@ -7,6 +7,7 @@ streamlit
 chromadb
 sentence-transformers
 pypdf
+fastapi
 
 python-dotenv
 pandas
