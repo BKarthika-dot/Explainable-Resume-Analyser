@@ -6,7 +6,7 @@ RUN npm ci
 COPY . .
 # Bake the API URL in at build time. Override with:
 #   docker build --build-arg VITE_API_URL=https://api.example.com .
-ARG VITE_API_URL=http://127.0.0.1:8000
+ARG VITE_API_URL=https://explainable-resume-analyser.onrender.com
 ENV VITE_API_URL=$VITE_API_URL
 RUN npm run build
 
